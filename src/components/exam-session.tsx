@@ -170,7 +170,7 @@ export function ExamSession({
         onChoose={handleChoose}
       />
 
-      <div className="sticky bottom-20 mt-2 flex gap-2">
+      <div className="sticky bottom-20 z-30 -mx-4 mt-2 flex gap-2 border-t border-border bg-background/95 px-4 py-3 backdrop-blur lg:bottom-4">
         <Button
           variant="outline"
           size="lg"

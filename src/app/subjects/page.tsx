@@ -29,7 +29,7 @@ export default function SubjectsIndexPage() {
         </p>
       </header>
 
-      <ul className="grid gap-3">
+      <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
         {subjects.map((subject) => {
           const count = loadQuestionsForSubject(subject.id).length;
           const certChips = subject.requiredFor.map((r) => ({

@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "@/styles/globals.css";
 import { ThemeProvider } from "@/components/theme-provider";
 import { BottomNav } from "@/components/bottom-nav";
+import { TopNav } from "@/components/top-nav";
 
 export const metadata: Metadata = {
   title: "chedo-prep | 체육지도자 자격증 학습",
@@ -26,8 +27,6 @@ export const viewport: Viewport = {
   ],
   width: "device-width",
   initialScale: 1,
-  maximumScale: 1,
-  userScalable: false,
   viewportFit: "cover",
 };
 
@@ -45,7 +44,8 @@ export default function RootLayout({
           enableSystem={false}
           disableTransitionOnChange
         >
-          <main className="mx-auto min-h-[100dvh] max-w-screen-md pb-24 safe-top">
+          <TopNav />
+          <main className="mx-auto min-h-[100dvh] max-w-3xl pb-24 safe-top lg:max-w-5xl lg:pb-10 lg:px-6">
             {children}
           </main>
           <BottomNav />

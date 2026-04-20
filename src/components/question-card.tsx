@@ -50,7 +50,7 @@ export function QuestionCard({ question, chosen, onChoose }: Props) {
             aria-pressed={bookmarked}
             aria-label={bookmarked ? "북마크 해제" : "북마크"}
             className={cn(
-              "flex h-8 w-8 flex-none items-center justify-center rounded-md transition-colors",
+              "flex h-11 w-11 flex-none items-center justify-center rounded-md transition-colors",
               bookmarked
                 ? "text-amber-400 hover:bg-amber-400/10"
                 : "text-muted-foreground hover:bg-accent"

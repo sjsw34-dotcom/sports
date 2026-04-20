@@ -56,7 +56,7 @@ export default function HomePage() {
         </p>
       </header>
 
-      <ul className="grid gap-3">
+      <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
         {QUICK_LINKS.map(({ href, icon: Icon, label, description }) => (
           <li key={href}>
             <Link

@@ -42,7 +42,7 @@ export default function YearsIndexPage() {
               <h2 className="px-2 text-sm font-semibold text-muted-foreground">
                 {year}년도
               </h2>
-              <ul className="grid gap-2">
+              <ul className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
                 {items.map((s) => {
                   const subject = subjectsById[s.subjectId];
                   if (!subject) return null;

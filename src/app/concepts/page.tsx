@@ -42,7 +42,7 @@ export default function ConceptsIndexPage() {
               {subject.name}
               <span className="text-xs font-normal">({list.length})</span>
             </h2>
-            <ul className="grid gap-2">
+            <ul className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
               {list.map((c) => (
                 <li key={c.id}>
                   <Link
