@@ -1,0 +1,52 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+.next/
+out/
+build/
+dist/
+
+# Production
+/coverage
+
+# Environment
+.env
+.env*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+
+# 기출 PDF 원본 (용량 큼, 로컬 보관)
+# 필요 시 Git LFS 또는 외부 스토리지로 이관
+public/exams/**/*.pdf
+
+# PWA 자동 생성
+public/sw.js
+public/workbox-*.js
+public/worker-*.js
+public/sw.js.map
+public/workbox-*.js.map
+public/worker-*.js.map
+
+# 테스트 결과
+coverage/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
