@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2020-sports-psychology-b-01",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 1,
+    "question": "스포츠 심리상담사에 관한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "내담자와 공감하며 경청한다.",
+      "내담자와 라포(rapport)를 형성한다.",
+      "내담자와 일상생활에서 개인적 관계를 맺는다.",
+      "내담자의 비언어적 메시지에도 관심을 가진다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-02",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 2,
+    "question": "정보처리 3단계의 관점에서 100m 달리기 스타트의 반응시간이 배구 서브 리시브 상황에서의 반응시간보다 짧은 이유로 옳은 것은?",
+    "choices": [
+      "100m 스타트에서는 자극확인(stimulus identification) 단계의 소요 시간이 상대적으로 짧기 때문이다.",
+      "100m 스타트에서는 운동 프로그래밍(motor programming) 단계의 소요 시간이 상대적으로 길기 때문이다.",
+      "배구 서브 리시브 상황에서는 자극확인(stimulus identification) 단계의 소요 시간이 상대적으로 짧기 때문이다.",
+      "배구 서브 리시브 상황에서는 반응선택(response selection) 단계의 소요 시간이 상대적으로 짧기 때문이다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-03",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 3,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 것은? <보기> . ∙( ㉠ ):학습자가 새로운 기술을 연습한 후, 특정한 시간이 지난 후 연습한 기술의 수행력을 평가하는 검사 ∙( ㉡ ):연습한 기술이 다른 수행상황에서도 발휘될 수 있는지를 평가하는 검사 ㉠ ㉡",
+    "choices": [
+      "전이검사 파지검사",
+      "파지검사 전이검사",
+      "망각검사 파지검사",
+      "파지검사 망각검사"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-04",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 4,
+    "question": "주의집중 방법으로 적절하지 않은 것은?",
+    "choices": [
+      "테니스 서브를 루틴에 따라 실행한다.",
+      "축구 경기에서 관중의 방해를 의식하지 않는다.",
+      "골프 경기에서 마지막 홀에 있는 해저드에 대해 생각한다.",
+      "야구 경기에서 지난 이닝의 수비 실책은 잊고 현재 수행에 몰입한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-05",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 5,
+    "question": "<보기>에 제시된 심상(imagery)의 요소로 바르게 나타낸 것은? <보기> . ㉠ 선수:시합에서 느꼈던 자신감, 흥분, 행복감을 실제처럼 시각화한다. ㉡ 선수:부정적인 수행 장면을 성공적인 수행 이미지로 바꾼다. ㉠ ㉡ 주의연합 주의분리",
+    "choices": [
+      "(attentional association) (attentional dissociation) 외적 심상 집중력",
+      "(external imagery) (concentration) 통제적 처리 자동적 처리",
+      "(controlled processing) (automatic processing) 선명도 조절력",
+      "(vividness) (controllability)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-06",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 6,
+    "question": "<보기>에서 지도자가 제공하는 보강적 피드백의 유형으로 적절한 것은? <보기> . 지도자:창하야! 다운스윙 전에 백스윙이 제대로 이루어지지 않았어.",
+    "choices": [
+      "내적 피드백(intrinsic feedback)",
+      "감각 피드백(sensory feedback)",
+      "결과지식(Knowledge of Result: KR)",
+      "수행지식(Knowledge of Performance: KP)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-07",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 7,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 것은? <보기> . 줄다리기에서 집단이 내는 힘의 총합이 개인의 힘을 모두 합친 것보다 적게 나타나는 현상은 ( ㉠ )이며, 집단의 인원수가 증가할 때 발생하는 개인의 수행 감소는 ( ㉡ ) 때문이다. ㉠ ㉡ 링겔만 효과",
+    "choices": [
+      "유능감 손실 (Ringelmann effect) 관중 효과",
+      "동기 손실 (audience effect) 링겔만 효과",
+      "동기 손실 (Ringelmann effect) 관중 효과",
+      "유능감 손실 (audience effect)"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-08",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 8,
+    "question": "<보기>에서 피츠(P. Fitts)와 포스너(M. Posner)의 운동학습 단계와 설명이 바르게 제시된 것은? <보기> . ㉠테니스 포핸드 스트로크 자세를 안정적이고 일관성 있게 수행할 수 있다. ㉡학습자는 오류를 수정하기 위해서 연습하고, 스스로 오류를 탐지하여 그 오류의 일부를 수정할 수 있다. ㉢학습자는 테니스 포핸드 스트로크의 개념을 이해한다. 자동화 단계 인지 단계 연합 단계",
+    "choices": [
+      "㉠ ㉡ ㉢",
+      "㉠ ㉢ ㉡",
+      "㉡ ㉢ ㉠",
+      "㉡ ㉠ ㉢"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-09",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 9,
+    "question": "<보기>의 참가자를 위한 와이너(B. Weiner)의 귀인 이론에 기반한 지도 방법으로 옳은 것은? <보기> . 수영 교실에 참가하는 A씨는 다른 참가자들보다 수영에 재능이 없어 기술 습득이 늦다고 생각한다. 이로 인해 결석이 잦고 운동 중단이 예상된다.",
+    "choices": [
+      "외적이며 안정적이고 통제 불가능한 개인의 노력에 귀인할 수 있도록 지도한다.",
+      "내적이며 불안정적이고 통제 가능한 개인의 노력에 귀인할 수 있도록 지도한다.",
+      "외적이며 안정적이고 통제 불가능한 개인의 능력에 귀인할 수 있도록 지도한다.",
+      "내적이며 안정적이고 통제 가능한 개인의 능력에 귀인할 수 있도록 지도한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-10",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 10,
+    "question": "<보기>에서 설명하는 개념은? <보기> . 수현이는 오랫동안 배드민턴을 즐기다가 새롭게 테니스 교실에 등록했다. 테니스 코치는 포핸드 스트로크를 지도할 때, 수현이가 손목 스냅을 습관적으로 사용하는 것을 보고 손목을 고정하도록 지도했다.",
+    "choices": [
+      "과제 내 전이(intratask transfer)",
+      "양측 전이(bilateral transfer)",
+      "정적 전이(positive transfer)",
+      "부적 전이(negative transfer)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-11",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 11,
+    "question": "<보기>의 ㉠, ㉡, ㉢에 해당하는 것은? <보기> . ∙㉠은 자극 제시와 반응 시작 간의 시간 간격을 의미한다. ∙㉡은 반응 시작과 반응 종료 간의 시간 간격을 의미한다. ∙㉢은 자극 제시와 반응 종료 간의 시간 간격을 의미한다. ㉠ ㉡ ㉢ 반응시간 움직임 시간 전체 반응시간",
+    "choices": [
+      "(reaction time) (movement time) (response time) 반응시간 전체 반응시간 움직임 시간",
+      "(reaction time) (response time) (movement time) 움직임 시간 반응시간 전체 반응시간",
+      "(movement time) (reaction time) (response time) 단순 반응시간 움직임 시간 전체 반응시간",
+      "(simple reaction time) (movement time) (response time)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-12",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 12,
+    "question": "<보기>에서 설명하는 개념은? <보기> . 양궁 선수 A는 첫 엔드에서 6점을 한 발 기록했다. 그러나 A는 바람 부는 상황으로 인해 총 36발의 슈팅 중에서 6점은 한 번 정도 나올 수 있는 점수이며, 첫 엔드에 나온 것이 다행이라고 긍정적으로 생각했다.",
+    "choices": [
+      "사고 정지(thought stopping)",
+      "자생 훈련(autogenic training)",
+      "점진적 이완(progressive relaxation)",
+      "인지 재구성(cognitive restructuring)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-13",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 13,
+    "question": "<보기>에서 설명하는 개념은? <보기> . 철수는 처음으로 깊은 바닷속으로 다이빙하면서 각성 수준이 높아졌다. 높은 각성 수준으로 인해 깊은 바닷속에서 시야가 평소보다 훨씬 좁아졌다.",
+    "choices": [
+      "스트룹 효과(Stroop effect)",
+      "지각 협소화(perceptual narrowing)",
+      "칵테일 파티 효과(cocktail party effect)",
+      "맥락간섭 효과(contextual-interference effect)"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-14",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 14,
+    "question": "스포츠 지도자의 리더십 행동으로 적절하지 않은 것은?",
+    "choices": [
+      "선수에게 개별 시간을 할애하는 행동",
+      "선수가 목표를 수립하도록 도와주는 행동",
+      "선수에게 과도한 자신감을 부여하는 행동",
+      "선수의 주의산만 요인을 파악하고 지도하는 행동"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-15",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 15,
+    "question": "<보기>에서 ㉠, ㉡, ㉢에 해당하는 기억의 유형이 바르게 연결된 것은? <보기> . 유형 ㉠ ㉡ ㉢ 기억 제한 극히 제한 무제한 용량 반복하거나 반복과 새로운 정보가 시연하지 시연을 특징 유입되면 쉽게 않으면 통해 손실된다. 사라진다. 강화된다. 한 번에 너무 불필요한 많은 정보를 연습을 외부정보를 지도 제공하지 않고, 통해 줄이고 집중할 방법 정보를 처리할 기억을 수 있도록 수 있는 시간을 강화한다. 지도한다. 제공한다. ㉠ ㉡ ㉢",
+    "choices": [
+      "감각기억 단기기억 장기기억",
+      "감각기억 장기기억 단기기억",
+      "단기기억 장기기억 감각기억",
+      "단기기억 감각기억 장기기억"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-16",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 16,
+    "question": "프로차스카(J. Prochaska)의 운동변화단계 이론(transtheoretical model)에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "준비단계는 현재 운동에 참여하지 않지만, 6개월 이내에 운동을 시작할 의도가 있는 것을 의미한다.",
+      "의사결정 균형이란 운동을 할 때 기대할 수 있는 혜택과 손실을 평가하는 것을 의미한다.",
+      "인지 과정과 행동 과정과 같은 변화과정을 통해 이전 단계에서 다음 단계로 이동하게 된다.",
+      "자기효능감은 관심단계보다 유지단계에서 더 높다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-17",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 17,
+    "question": "<보기>에서 설명하는 개념은? <보기> . 피겨 스케이팅 경기에서 영희는 앞 선수가 완벽에 가까운 연기를 펼치자, 불안해지고 긴장되었다.",
+    "choices": [
+      "상태불안",
+      "분리불안",
+      "특성불안",
+      "부적강화"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-18",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 18,
+    "question": "<보기>의 ㉠, ㉡에 배구 기술을 지도하기 위한 연습구조가 적절하게 제시된 것은? <보기> . 1차 시 2차 시 3차 시 서브 세팅(토스) 언더핸드 ㉠ 서브 세팅(토스) 언더핸드 서브 세팅(토스) 언더핸드 서브 세팅(토스) 언더핸드 ㉡ 세팅(토스) 언더핸드 서브 언더핸드 서브 세팅(토스) *두 가지 연습 구조에서 연습 시간과 횟수는 동일 ㉠ ㉡",
+    "choices": [
+      "집중연습(massed practice) 분산연습(distributed practice)",
+      "가변연습(variable practice) 무선연습(random practice)",
+      "구획연습(blocked practice) 무선연습(random practice)",
+      "가변연습(variable practice) 일정연습(constant practice)"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-19",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 19,
+    "question": "다이나믹 시스템 관점에서의 협응구조 형성에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "협응구조는 하나의 기능적 단위로 자기조직의 원리에 따라 형성된다.",
+      "제어변수는 질서변수를 변화시키는 원인이 되는 것으로, 동작을 변화시키는 속도나 무게 등이 있다.",
+      "상변이는 협응구조의 형태가 변화하는 현상이며 선형의 원리를 따른다.",
+      "협응구조의 안정성은 상대적 위상의 표준편차로 측정할 수 있다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-psychology-b-20",
+    "subjectId": "sports-psychology",
+    "year": 2020,
+    "number": 20,
+    "question": "목표설정에서 수행목표로 적합하지 않은 것은?",
+    "choices": [
+      "농구 대회에서 우승한다.",
+      "골프 스윙에서 공을 끝까지 본다.",
+      "테니스 포핸드 발리에서 손목을 고정한다.",
+      "야구 타격에서 무게중심을 뒤에서 앞으로 이동한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  }
+]

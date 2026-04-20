@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2020-youth-pe-a-01",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 1,
+    "question": "유아의 발달적 특성을 고려한 신체활동 지도 방법으로 적절하지 않은 것은?",
+    "choices": [
+      "지도 내용과 방법에 변화를 준다.",
+      "목표 설정이 없는 동일한 활동을 반복한다.",
+      "개인차를 고려하여 적절한 자극을 부여한다.",
+      "놀이 상대를 바꾸어 주어 흥미를 유지한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-02",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 2,
+    "question": "미국스포츠･체육교육협회(NASPE)의 유아기 신체활동 촉진을 위한 지도지침으로 적절하지 않은 것은?",
+    "choices": [
+      "근육과 뼈를 강화시키는 신체활동은 피하도록 한다.",
+      "매일 최소 60분의 계획된 신체활동에 참여해야 한다.",
+      "안전한 실내와 실외에서 대근육 활동을 해야 한다.",
+      "수면시간을 제외하고 60분 이상 눕거나 앉아있지 않도록 한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-03",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 3,
+    "question": "유아발달에 적합한 실내･외 지도 환경에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "공간의 구성은 놀이 형태와 지속시간에 영향을 준다.",
+      "놀이 공간과 놀이 교구는 유아의 놀이에 영향을 미친다.",
+      "활동성을 고려해 좁은 공간을 확보하는 것이 바람직하다.",
+      "발달과 학습을 유도할 수 있는 환경을 의도적으로 구성해야 한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-04",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 4,
+    "question": "유아의 체력 요소 검사 방법으로 적절하지 않은 것은?",
+    "choices": [
+      "순발력－모둠발로 멀리 뛴 거리를 측정한다.",
+      "균형성－평균대 위에서 외발로 서 있는 시간을 측정한다.",
+      "근지구력－스키핑 동작으로 뛴 높이를 측정한다.",
+      "민첩성－7m 거리를 왕복하여 달린 시간을 측정한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-05",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 5,
+    "question": "영아기 반사의 기능이 아닌 것은?",
+    "choices": [
+      "생존을 돕는다.",
+      "운동 행동을 진단한다.",
+      "미래의 움직임을 예측한다.",
+      "미래에 발현하는 불수의적인 움직임을 자의적으로 연습하게 한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-06",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 6,
+    "question": "신체활동 프로그램에서 실제학습시간(Academic Learning Time:ALT)을 증가시키는 전략으로 적절하지 않은 것은?",
+    "choices": [
+      "설명은 간결하고 명확하게 한다.",
+      "주의집중을 위해 상호 간에 약속된 신호를 만든다.",
+      "수업 시작 전 교구를 효율적으로 배치한다.",
+      "동작에 대한 시범을 위해 오랜 시간을 할애한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-07",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 7,
+    "question": "영유아보육법(2011) 제1장 제2조에서 정의한 영유아에 관한 내용으로 옳은 것은?",
+    "choices": [
+      "생후 4주부터 1년까지의 아동을 말한다.",
+      "만 6세 미만의 취학 전 아동을 말한다.",
+      "만 3세부터 초등학교 2학년까지의 아동을 말한다.",
+      "만 6세부터 초등학교 6학년까지의 아동을 말한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-08",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 8,
+    "question": "<보기>에서 운동 발달과 관련성이 높은 감각체계들을 바르게 고른 것은? <보기> . ㉠ 시각(visual) 체계 ㉡ 운동감각(kinesthetic) 체계 ㉢ 미각(gustatory) 체계 ㉣ 후각(olfactory) 체계",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉣",
+      "㉠, ㉢",
+      "㉡, ㉢"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-09",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 9,
+    "question": "<보기>의 훗트(C. Hutt)가 제시한 놀이 관련 행동에 대한 설명에서 ㉠, ㉡에 들어갈 용어는? <보기> . 구 분 ( ㉠ ) ( ㉡ ) 맥 락 새로운 물체 익숙한 물체 목 적 정보 획득 자극 생성 행 동 정형화됨 다양함 기 분 심각함 행복함 심장박동 변화 낮은 변화성 높은 변화성 ㉠ ㉡",
+    "choices": [
+      "모방 놀이",
+      "모방 과제 관련 행동",
+      "탐색 놀이",
+      "탐색 과제 관련 행동"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-10",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 10,
+    "question": "<보기>에 해당하는 에릭슨(E. Erikson)의 심리사회발달 단계는? <보기> . ∙목표나 계획을 세워 성공하고자 노력하는 시기이다. ∙이동성이 커지면서 성인과 다를 바 없다는 사실을 자각한다. ∙아동은 의미 있는 놀잇감을 조작하면서 만족스러운 성취감을 경험한다.",
+    "choices": [
+      "1단계－신뢰감(trust) 대 불신감(mistrust)",
+      "2단계－자율성(autonomy) 대 수치심(shame)",
+      "3단계－주도성(initiative) 대 죄책감(guilt)",
+      "4단계－친밀성(intimacy) 대 고립감(isolation)"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-11",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 11,
+    "question": "<보기>에 해당하는 이동운동 기술은? <보기> . ∙체중을 한 발에서 다른 발로 이동시키는 기술이다. ∙달리기보다 더 높이, 더 멀리 뛰면서 바닥을 접촉하지 않는 상태를 유지한다. ∙한 발로 멀리 건너뛰기를 하거나 보폭을 크게 하여 달리는 모습과 비슷하다.",
+    "choices": [
+      "겔로핑(galloping)",
+      "슬라이딩(sliding)",
+      "호핑(hopping)",
+      "리핑(leaping)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-12",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 12,
+    "question": "유아기 발달에 관한 이론의 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "성숙주의이론(A. Gesell):인간의 발달은 유전적 요인에 기인한다고 주장하였다.",
+      "인지발달이론(J. Piaget):인간의 본성은 태어날 때부터 환경에 따른 훈련에 의해 만들어진다고 주장하였다.",
+      "사회적놀이이론(M. Parten):파튼은 사회적 놀이를 사회적 참여도에 따라 여섯 가지 형태로 분류하였다.",
+      "도덕성발달이론(L. Kohlberg):인간의 존엄성과 양심에 따라 자율적이고 독립적 판단이 가능하다고 주장하였다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-13",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 13,
+    "question": "<보기>의 ㉠, ㉡에 들어갈 유아체육 프로그램의 구성 원리는? <보기> . ∙연령에 따른 민감기를 고려하여 적절한 운동이 적용되면 운동발달에 ( ㉠ ) 효과적이다. ∙신체활동의 경험, 기술 및 발달 수준, 체력을 고려한 프로그램 구성이필요하다. ∙운동발달 프로그램을 구성할 때 ( ㉡ ) 개개인의 유전과 환경요인이 반영된 개인차를 고려하여 구성한다. ㉠ ㉡",
+    "choices": [
+      "연계성 원리 특이성 원리",
+      "연계성 원리 적합성 원리",
+      "적합성 원리 특이성 원리",
+      "적합성 원리 연계성 원리"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-14",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 14,
+    "question": "유아체육 지도 방법과 해당 설명의 연결이 올바르지 않은 것은?",
+    "choices": [
+      "지시적 방법－시범 보이기, 연습해보기, 일반적인 언급해주기, 보충설명과 시범 다시 보이기",
+      "과제제시 방법－동작을 위해 지도자나 또래의 활동을 관찰함으로써 과제수행 방법을 이해시키기",
+      "안내･발견적 방법－올바른 동작 방법을 제시하고 자유롭고 창의적으로 표현하게 하기",
+      "탐구적 방법－동작 과제나 질문을 제시하고 유아들이 제안한 다양한 해결방법을 인정하고 받아들이기"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-15",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 15,
+    "question": "파튼(M. Parten)의 사회적 놀이 발달이론에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "혼자(단독)놀이:다른 친구의 놀이를 지켜보며 가끔씩 구경하는 친구에게 말을 걸기도 한다.",
+      "병행놀이:주변의 친구들과 동일한 놀이를 하지만 함께 놀이를 하지는 않는다.",
+      "연합놀이:다른 유아와 활동을 공유하며 놀이에 대해 이야기를 주고받거나 놀잇감을 빌려주기도 하지만 놀이 내용이 조직적으로 전개되지는 않는다.",
+      "협동놀이:역할의 분담과 목적의 공유가 이루어지는 단계로서 병원 놀이 같은 것이 있다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-16",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 16,
+    "question": "<표>의 ㉠, ㉡, ㉢에 들어갈 던지기(overarm throw) 동작의 발달단계를 바르게 짝지은 것은? 발달 특 징 동 작 단계 ∙체중은 명확하게 앞쪽으로 이동됨 ㉠ ∙던지는 팔과 같은 쪽의 다리를 앞으로 내밈 ∙준비 움직임 동안 체중을 뒷발에 실음 ㉡ ∙체중이 이동하면서 반대 발이 앞으로 나아감 ∙양발은 고정된 상태를 유지함 ∙던지기를 준비하는 ㉢ 동안 양발을 이동하는 경우가 자주 있으나 특별한 목적은 없음 ㉠ ㉡ ㉢",
+    "choices": [
+      "초보 성숙 시작",
+      "성숙 시작 초보",
+      "시작 성숙 초보",
+      "초보 시작 성숙"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-17",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 17,
+    "question": "<보기>의 ㉠, ㉡에 들어갈 기본 운동발달의 요소는? <보기> . ∙배트로 치기 연습하기(striking) ( ㉠ ) ∙날아오는 공을 발로 잡기(trapping) ∙철봉 잡고 앞뒤로 흔들기(swinging) ( ㉡ ) ∙몸통을 굽히거나 접기(bending) ㉠ ㉡",
+    "choices": [
+      "이동운동 조작운동",
+      "조작운동 안정성운동",
+      "안정성운동 조작운동",
+      "조작운동 이동운동"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-18",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 18,
+    "question": "<보기>의 밑줄친 ㉠과 관련 깊은 지각운동의 유형은? <보기> . 지도사:오늘은 잡기 놀이를 해볼까요? 술래 친구가 정해지면 술래를 피해 달아나 보세요. 술래를 잘 피하려면 어떻게 해야 할까요? 유 아:술래에게 안 잡히려고 빨리 도망가야 해요! 지도사:네! 맞았어요. ㉠술래가 움직이는 걸 보고 술래의 앞쪽이나 뒤쪽, 술래의 왼쪽이나 오른쪽으로 가면 잡히지 않고 도망갈 수 있어요. 그럼 우리 모두 한번 해볼까요? 유 아:네!",
+    "choices": [
+      "시간지각",
+      "관계지각",
+      "신체지각",
+      "방향지각"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-19",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 19,
+    "question": "2019 개정 누리과정에서 ‘신체운동･건강’ 영역의 세부내용에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "신체 움직임을 조절한다.",
+      "신체를 인식하고 움직인다.",
+      "경쟁 활동을 통해 스포츠 기술을 습득하고 건강을 증진한다.",
+      "기초적인 이동운동, 제자리 운동, 도구를 이용한 운동을 한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-youth-pe-a-20",
+    "subjectId": "youth-pe",
+    "year": 2020,
+    "number": 20,
+    "question": "<보기>가 설명하는 질환은? <보기> . ∙주로 생후 6개월~5세 사이의 영유아에게서 발생한다. ∙갑자기 올라간 고열과 함께 경련을 일으킨다. ∙주된 원인으로 고열, 뇌 손상, 유전적인 요인 등이 거론된다.",
+    "choices": [
+      "독감",
+      "근육경련",
+      "2도 화상",
+      "열성경련"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_youth_A"
+    ],
+    "sourceRef": "2020_youth_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  }
+]

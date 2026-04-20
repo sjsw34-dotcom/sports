@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2020-sports-sociology-b-01",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 1,
+    "question": "스포츠의 사회적 순기능으로 적절하지 않은 것은?",
+    "choices": [
+      "사회화 기능",
+      "사회통제 기능",
+      "사회통합 기능",
+      "사회정서적 기능"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-02",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 2,
+    "question": "<보기>에서 설명하는 스포츠의 교육적 순기능은? <보기> . ∙스포츠 참여를 통해 생애주기에 적합한 스포츠를 즐길 수 있는 습관을 형성할 수 있다. ∙학교에서의 스포츠 경험은 개인이 전 생애에 걸쳐",
+    "choices": [
+      "학업활동 촉진",
+      "학교 내 통합",
+      "평생체육과의 연계",
+      "정서 순화"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-03",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 3,
+    "question": "<보기>에서 설명하는 케년(G. Kenyon)의 스포츠 참가유형은? <보기> . ∙스포츠 상황 내에서 다양한 지위와 규범을 이행함으로써 스포츠에 실질적으로 참가하는 형태 ∙생활체육 동호인, 선수, 감독, 심판, 해설자로 활동",
+    "choices": [
+      "행동적 참가",
+      "인지적 참가",
+      "정의적 참가",
+      "조직적 참가"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-04",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 4,
+    "question": "스포츠와 미디어의 상호관계에서 미디어가 스포츠에 미치는 영향에 해당하는 것은?",
+    "choices": [
+      "영국 프리미어리그 경기는 방송사에 수준 높은 콘텐츠를 제공하고 있다.",
+      "방송사의 편익을 위해 배구의 랠리포인트제, 농구의 쿼터제 등 경기규칙을 변경하였다.",
+      "손흥민, 류현진 선수 등의 활약으로 스포츠 관련 방송 시장이 확대되었다.",
+      "시청자의 욕구를 충족시켜 주기 위해 슬로우영상, 반복영상 등을 제공하고 있다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-05",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 5,
+    "question": "상업주의 심화에 따른 스포츠의 변화에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "경기 내적인 요소보다 외적인 요소를 중요시한다.",
+      "심미적 가치보다 영웅적 가치를 중요시한다.",
+      "아마추어리즘보다 프로페셔널리즘을 추구한다.",
+      "경기의 공정성을 강화하기 위해 경기 규칙을 개정한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-06",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 6,
+    "question": "<보기>의 A 선수에 해당하는 사회계층 이동의 유형을 바르게 연결한 것은? <보기> . A 선수는 2002년부터 2019년까지 프로축구리그 S 팀의 주전선수로 활동하면서 MVP 3회 수상 등 축구 선수로서 명성을 얻었다. 은퇴 후, 2020년부터 프로축구 A 팀의 수석코치로 활동하게 되었다. 이동의 방향 시간적 거리 이동의 주체",
+    "choices": [
+      "수평이동 세대 간 이동 집단이동",
+      "수평이동 세대 내 이동 개인이동",
+      "수직이동 세대 간 이동 집단이동",
+      "수직이동 세대 내 이동 개인이동"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-07",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 7,
+    "question": "버렐(S. Birrell)과 로이(J. Loy)가 제시한 스포츠미디어를 통해 충족할 수 있는 욕구유형에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "통합적 욕구:스포츠에 대한 규칙 정보를 제공한다.",
+      "인지적 욕구:스포츠에 대한 흥미와 즐거움을 제공한다.",
+      "정의적 욕구:스포츠에 대한 지식, 경기결과 및 통계적 지식을 제공한다.",
+      "도피적 욕구:불안, 초조, 욕구불만, 좌절 등의 감정을 해소하도록 돕는다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-08",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 8,
+    "question": "<보기>에서 설명하는 에티즌(D. Eitzen)과 세이지(G. Sage)가 제시한 스포츠의 정치적 속성은? <보기> . ∙스포츠 경기에 수반되는 의식과 행동은 선수의 충성심을 상징적으로 재확인하는 것에 목적이 있다. ∙스포츠 조직은 구호, 응원가, 유니폼, 마스코트 등의 상징을 통해 조직에 대한 선수의 충성심을 지속시키거나 강화한다.",
+    "choices": [
+      "보수성",
+      "대표성",
+      "상호의존성",
+      "권력투쟁"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-09",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 9,
+    "question": "스포츠 일탈의 유형과 원인을 규정하기 어려운 이유로 적절하지 않은 것은?",
+    "choices": [
+      "스포츠 현장에서 발생하는 일탈 사례가 부족하기 때문이다.",
+      "스포츠 일탈은 규범에 대한 거부와 함께 무비판적 수용도 포함한다.",
+      "스포츠에서 허용되는 행동이 사회의 다른 영역 에서는 일탈이 될 수 있다.",
+      "과학기술의 급속한 발전과 새로운 스포츠 규범 사이에 시간적 차이가 발생한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-10",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 10,
+    "question": "맥루한(M. McLuhan)의 미디어 이론에 따른 구분 및 특성을 바르게 제시한 것은? 특성 감각 감각 경기진행 정의성 구분 참여성 몰입성 속도 핫 미디어",
+    "choices": [
+      "높음 낮음 높음 빠름 스포츠 쿨 미디어",
+      "낮음 낮음 낮음 느림 스포츠 핫 미디어",
+      "높음 높음 낮음 느림 스포츠 쿨 미디어",
+      "낮음 높음 높음 빠름 스포츠"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-11",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 11,
+    "question": "<보기>를 투민(M. Tumin)의 스포츠계층 형성과정 순서에 따라 바르게 배열한 것은? <보기> . ㉠ 세계적인 테니스 선수는 기업으로부터 많은 후원금을 받고 있다. ㉡ 세계랭킹에 따라 참가할 수 있는 테니스 대회가 나누어져 있다. ㉢ 테니스는 선수, 코치, 감독, 트레이너 등으로 역할이 구분되어 있다. ㉣ 국제 테니스 대회에서 우승하면 사회적 명성이 높아진다.",
+    "choices": [
+      "㉡－㉢－㉠－㉣",
+      "㉡－㉢－㉣－㉠",
+      "㉢－㉡－㉣－㉠",
+      "㉢－㉡－㉠－㉣"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-12",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 12,
+    "question": "스포츠 세계화의 원인이 아닌 것은?",
+    "choices": [
+      "종교 전파",
+      "제국주의 확장",
+      "인종차별 심화",
+      "과학기술 발전"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-13",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 13,
+    "question": "<보기>의 ㉠이 설명하는 집합행동의 유형과 관련된 이론은? <보기> . A:어제 축구 봤어? 경기 도중 관중 폭력이 발생했잖아. B:나도 방송에서 봤는데 관중 폭력의 원인이 인종차별 때문이래. A:㉠인종차별과 같은 사회구조적･문화적 선행요건이 없었다면, 두 팀 관중들 간에 폭력은 없었을 거야.",
+    "choices": [
+      "전염이론",
+      "수렴이론",
+      "규범생성이론",
+      "부가가치이론"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-14",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 14,
+    "question": "스포츠 일탈에 관한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "부정적 일탈 사례로는 금지약물복용, 구타 및 폭력 등이 있다.",
+      "부정적 일탈은 스포츠 규범체계에 대한 과잉동조 성향을 의미한다.",
+      "긍정적 일탈 사례로는 오버 트레이닝(over-training), 운동중독 등이 있다.",
+      "긍정적 일탈은 정상적으로 받아들여지는 행동에 대한 무비판적 수용을 의미한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-15",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 15,
+    "question": "스포츠 일탈을 설명하는 이론과 그 특징이 바르게 연결된 것은?",
+    "choices": [
+      "갈등 이론－선수의 금지약물복용 등과 같은 일탈적 행위는 개인의 윤리적 문제이다.",
+      "아노미 이론－선수의 승리에 대한 목표와 수단의 괴리로 인해 일탈이 발생한다.",
+      "차별교제 이론－팀 내 우수선수가 금지약물을 복용해도 동료들은 복용하지 않는다.",
+      "낙인 이론－선수에게 부여된 악동, 풍운아 같은 이미지는 선수 생활에 영향을 미치지 않는다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-16",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 16,
+    "question": "<보기>에서 설명하는 사건은? <보기> . ∙1972년 제20회 뮌헨올림픽에서 발생 ∙팔레스타인 테러조직에 의한 이스라엘 선수단 인질사건 ∙국가 간 갈등이 올림픽을 통해 표출된 테러 사건",
+    "choices": [
+      "검은 구월단 사건",
+      "축구전쟁(100시간 전쟁) 사건",
+      "보스턴 마라톤 폭탄 테러 사건",
+      "IRA 연쇄 폭탄 테러 사건"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-17",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 17,
+    "question": "상류계급의 스포츠 참가 특징에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "과시적 소비성향의 스포츠를 선호한다.",
+      "요트, 승마와 같은 자연친화적 개인 스포츠를 선호한다.",
+      "직접 참여보다는 TV 시청을 통한 관람 스포츠를 소비하는 경향이 높다.",
+      "사생활이 보호되는 장소에서 소수 인원이 즐기는"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-18",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 18,
+    "question": "<보기>에서 설명하는 스포츠사회화 과정은? <보기> . ∙이용대 선수의 경기 보도 증가는 대중들의 배드민턴 참여를 촉진한다. ∙부모의 스포츠에 대한 긍정적인 태도는 자녀의 ∙학생들은 교내에서 체육교과와 다양한 프로그램을 통해 스포츠에 참여하고 있다.",
+    "choices": [
+      "스포츠로의 사회화",
+      "스포츠로의 재사회화",
+      "스포츠를 통한 사회화",
+      "스포츠로부터의 탈사회화"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-19",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 19,
+    "question": "<보기>에서 설명하는 이론은? <보기> . ∙지배계급은 피지배계급을 억압하고 착취한다. ∙재화의 불평등한 분배는 사회의 본질적 속성이다. ∙스포츠는 일부 지배계급에 의해 그들의 이익을 증대 시키는 데 이용된다.",
+    "choices": [
+      "갈등 이론",
+      "비판 이론",
+      "상징적 상호작용론",
+      "구조기능주의 이론"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-sports-sociology-b-20",
+    "subjectId": "sports-sociology",
+    "year": 2020,
+    "number": 20,
+    "question": "<보기>에서 정치가 스포츠를 이용하는 방식을 바르게 연결한 것은? <보기> . ㉠ 경기에 앞서 국가연주, 국기에 대한 경례 등의 의식을 갖는다. ㉡ 대중은 선수나 팀을 자신과 일치시키는 태도를 형성한다. ㉢ 정치인의 비리, 부정 등을 은폐하기 위해 스포츠를 이용한다. ㉠ ㉡ ㉢",
+    "choices": [
+      "상징 조작 동일화",
+      "동일화 상징 조작",
+      "상징 동일화 조작",
+      "조작 동일화 상징"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_B"
+    ],
+    "sourceRef": "2020_senior_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  }
+]

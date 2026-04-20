@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2020-senior-pe-a-01",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 1,
+    "question": "우리나라 인구 변화에 관한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "저출산으로 고령화가 감소하고 있다.",
+      "현재 노인 인구의 비율이 14% 이상인 고령사회이다.",
+      "노인인구 증가로 인해 국가의 의료비 부담이 증가하고 있다.",
+      "노인인구 증가로 인해 생산가능 인구의 노인에 대한 부양비가 증가하고 있다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-02",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 2,
+    "question": "<보기>의 ㉠, ㉡, ㉢, ㉣에 들어갈 용어로 알맞은 것은? <보기> . 노인은 연령이 높아질수록 근육량은 ( ㉠ )하고, 최대심박수는 ( ㉡ )하고, 혈관 경직도는 ( ㉢ )하고, 최대산소섭취량은 ( ㉣ )한다. ㉠ ㉡ ㉢ ㉣",
+    "choices": [
+      "증가 증가 감소 증가",
+      "감소 감소 증가 감소",
+      "감소 증가 감소 감소",
+      "증가 감소 증가 증가"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-03",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 3,
+    "question": "노인에게 낙상의 위험성이 높은 원인으로 적절한 것은?",
+    "choices": [
+      "보폭의 증가",
+      "자세 동요의 감소",
+      "발목 가동성의 감소",
+      "보행 속도의 증가"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-04",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 4,
+    "question": "중강도의 규칙적인 운동이 노인의 건강에 미치는 영향으로 적절한 것은?",
+    "choices": [
+      "근력의 감소",
+      "수면의 질 감소",
+      "뇌 혈류량의 감소",
+      "인슐린 저항성의 감소"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-05",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 5,
+    "question": "노인의 지속적인 운동참여를 위한 동기유발 방법으로 적절하지 않은 것은?",
+    "choices": [
+      "모험적인 목표를 세워 동기를 유발한다.",
+      "운동 시설에 대한 접근성을 높인다.",
+      "동료의 성공적인 경험을 공유하게 한다.",
+      "체력 수준에 맞게 운동 목표를 구체적으로 설정한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-06",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 6,
+    "question": "하비거스트(R. Havighurst)의 발달과업이론에서 노년기의 과업으로 적절하지 않은 것은?",
+    "choices": [
+      "배우자의 죽음에 대한 적응",
+      "은퇴와 수입 감소에 대한 적응",
+      "선호하는 사회적 모임에 대한 적응",
+      "근력 감소와 건강 약화에 대한 적응"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-07",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 7,
+    "question": "<보기>에서 설명하는 행동 변화 이론으로 가장 적절한 것은? <보기> . 65세인 조 할머니는 요즘 살이 계속 찌고 움직이는 것도 점점 힘들어졌다. 가족과 친구들이 운동을 권유하였으나 완강하게 거부하며 운동을 하지 않았다. 그러나 최근 병원에서 당뇨병 판정을 받고 의사의 운동 권유로 운동에 대한 믿음과 의지가 생겨서 구체적인 운동 목표를 세우고 헬스센터장에서 운동을 시작하였다.",
+    "choices": [
+      "지속성 이론",
+      "사회생태 이론",
+      "자기효능감 이론",
+      "계획된 행동 이론"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-08",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 8,
+    "question": "<보기>의 ㉠과 ㉡에 들어갈 심박수(회/분)는? <보기> . 70세 남성 노인이 달리기 운동을 할 때, Karvonen (여유심박수, %HRR) 공식을 활용한 목표심박수의 범위는 ( ㉠ )에서부터 ( ㉡ )까지 이다. [분당 안정 시 심박수 70회, 여유심박수 60~70% 강도] ㉠ ㉡",
+    "choices": [
+      "90 105",
+      "112 119",
+      "118 126",
+      "124 138"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-09",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 9,
+    "question": "<보기>에서 김 할아버지의 죽상경화증 심혈관질환의 위험요인을 바르게 제시한 것은? <보기> . 건강증진 운동프로그램에 참여하고자 하는 김 할아버지의 정보 ∙연령:67세, 성별:남성, 신장:170cm, 체중:87kg ∙총콜레스테롤:190mg/dL ∙안정 시 혈압:130mmHg/85mmHg ∙공복혈당:135mg/dL ∙흡연:30대부터 하루에 10~20개비 *미국스포츠의학회(ACSM, 2018)를 참고한 기준 적용",
+    "choices": [
+      "연령, 과체중, 혈압, 흡연",
+      "비만, 총콜레스테롤, 혈압, 흡연",
+      "연령, 비만, 당뇨병, 흡연",
+      "과체중, 총콜레스테롤, 혈압, 당뇨병"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-10",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 10,
+    "question": "<보기>에 적용되는 트레이닝 원리는? <보기> . 올해 70세인 박 할머니는 지난 6개월 동안 집 근처 헬스장에서 하루 1시간씩, 주 5회 이상 노인스포츠지도사와 운동을 하여 체력이 향상되었으나 최근 코로나19(COVID-19) 때문에 운동을 3개월 동안 하지 못하여 지금은 계단을 오르기조차 힘들어졌다.",
+    "choices": [
+      "개별성의 원리",
+      "특이성의 원리",
+      "과부하의 원리",
+      "가역성의 원리"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-11",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 11,
+    "question": "<보기>에서 ㉠, ㉡에 들어갈 용어를 바르게 나열한 것은? <보기> . 리클리와 존스(Rikli & Jones)의 노인체력검사(Senior Fitness Test:SFT) 검사항목 ㉠ ㉡ ∙욕실에서 머리 감기 ∙걷기 일상생활 ∙상의를 입고 벗기 ∙계단 오르기 능력 ∙차에서 안전벨트매기 ∙자동차 타고 내리기 ㉠ ㉡",
+    "choices": [
+      "등 뒤에서 양손 마주 잡기 의자에 앉아 윗몸 앞으로 굽히기",
+      "등 뒤에서 양손 마주 잡기 의자에 앉았다가 일어서기",
+      "아령 들기 의자에 앉았다가 일어서기",
+      "아령 들기 의자에 앉아 윗몸 앞으로 굽히기"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-12",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 12,
+    "question": "미국스포츠의학회(ACSM, 2018)에서 제시한 노인을 위한 운동 권장 사항으로 적절한 것은?",
+    "choices": [
+      "저항운동은 체력수준을 고려하지 않고 실시한다.",
+      "저항운동을 처음 시작할 경우 1RM의 40~50%로 실시한다.",
+      "유연성 향상을 위해 정적스트레칭을 60~90초 동안 유지한다.",
+      "중강도 유산소운동을 처음 시작할 경우 주당 총 300~450분을 실시한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-13",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 13,
+    "question": "노인을 위한 스트레칭에 관한 설명으로 적절한 것은?",
+    "choices": [
+      "탄성 스트레칭을 우선적으로 권장한다.",
+      "스트레칭은 관절의 가동범위와 관련이 없다.",
+      "정적 스트레칭은 동적 스트레칭에 비해 상해 위험이 적다.",
+      "고유수용성 신경근 촉진법은 효과가 없어 사용하지 않는다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-14",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 14,
+    "question": "<보기>에 해당하는 프로차스카(J. Prochaska)의 범이론적 모형 단계와 지도 내용을 바르게 나열한 것은? <보기> . 운동을 하지 않았던 김 할아버지는 당뇨병 진단을 받은 후 지난 한 해 동안 매일 만보계를 가지고 중강도의 걷기 운동을 하고 있다. 단계(stage) 지도내용 무의식",
+    "choices": [
+      "운동이 당뇨에 미치는 효과를 지도 (precontemplation) 의식",
+      "운동 방법 및 만보계 사용법을 지도 (contemplation)",
+      "행동(action) 운동강도 조절에 관하여 지도 유지",
+      "즐길 수 있는 스포츠를 경험하도록 지도 (maintenance)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-15",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 15,
+    "question": "이상지질혈증이 있는 노인을 위한 운동 방법으로 적절하지 않은 것은?",
+    "choices": [
+      "하루 30~60분의 운동이 적당하다.",
+      "유연성 운동, 저항운동 및 유산소 운동을 실시한다.",
+      "대근육을 이용한 지속적이고 리드미컬한 형태의 운동을 한다.",
+      "에너지 소비를 최대로 증가시키기 위해 고강도 운동을 한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-16",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 16,
+    "question": "골다공증이 있는 노인의 운동에 관한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "심각한 골다공증이 있는 노인에게는 최대근력검사를 권장하지 않는다.",
+      "통증을 유발하지 않는 중강도 운동을 권장한다.",
+      "체중 지지 운동은 권장하지 않는다.",
+      "평형성 향상을 위한 운동을 권장한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-17",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 17,
+    "question": "<보기>에서 바람직하지 않은 노인스포츠지도사는? <보기> . 김 지도사:어르신의 이해를 돕기 위해 시각 정보 없이 언어 정보만을 제공한다. 박 지도사:어르신들의 신체활동에 대한 개인차를 고려하여 수준별로 운동을 지도한다. 최 지도사:어르신의 특성을 고려해서 한 번에 한두 가지의 동작에 대한 시범을 보여준다. 이 지도사:운동을 지도할 때, 어르신들이 이해할 수 있는 언어와 그림을 함께 사용한다.",
+    "choices": [
+      "김 지도사",
+      "이 지도사",
+      "박 지도사",
+      "최 지도사"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-18",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 18,
+    "question": "미국스포츠의학회(ACSM, 2018)에서 제시한 노인의 중강도 신체활동으로 적절하지 않은 것은?",
+    "choices": [
+      "3.0mi/h(4.83km/h)의 속도로 걷기",
+      "축구, 농구, 배구와 같은 경쟁 스포츠",
+      "청소, 창 닦기, 세차, 페인팅 등의 가사 활동",
+      "보그 스케일(Borg Scale)의 운동자각도(RPE)에서 12~13 수준의 신체활동"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-19",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 19,
+    "question": "노인에게 운동을 지도할 때, 주의사항으로 적절하지 않은 것은?",
+    "choices": [
+      "운동강도를 높일수록 단열성이 높은 의복을 착용하게 한다.",
+      "탈수증상을 대비하여 수분을 미리 보충하게 한다.",
+      "낙상의 위험을 최소화하기 위해 적절한 신발을 착용하게 한다.",
+      "추운 환경에서는 준비운동을 평소보다 오랜 시간 진행하도록 한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  },
+  {
+    "id": "2020-senior-pe-a-20",
+    "subjectId": "senior-pe",
+    "year": 2020,
+    "number": 20,
+    "question": "운동 중 노인의 심정지 상황에 대한 응급처치로 적절하지 않은 것은?",
+    "choices": [
+      "자동제세동기를 이용할 수 있는 경우 사용한다.",
+      "의식의 확인과 119 신고 후, 심폐소생술을 실시한다.",
+      "의식이 없으면 묵시적 동의라고 간주하고 심폐소생술을 실시한다.",
+      "심폐소생술 실시 중 의식이 돌아오지 않으면 가슴 압박을 중단한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_senior_A"
+    ],
+    "sourceRef": "2020_senior_A",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:42Z",
+    "updatedAt": "2026-04-20T08:38:42Z"
+  }
+]

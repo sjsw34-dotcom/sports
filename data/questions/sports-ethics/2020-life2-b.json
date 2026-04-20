@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2020-sports-ethics-b-01",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 1,
+    "question": "장애인 선수들의 인권향상을 위한 방안으로 적절하지 않은 것은?",
+    "choices": [
+      "장애인 선수들에게 비장애인과 동일한 훈련량과 지도방법을 적용해야 한다.",
+      "인권에 대한 문제는 예방이 중요하므로 지속적인 예방 교육과 더불어 홍보가 필요하다.",
+      "장애인 국가대표 선수단 역시 훈련에 필요한 안정적인 지원이 확보되어야 한다.",
+      "장애인 선수들의 접근과 이용이 불편하지 않도록 시설 확충과 설계가 이루어져야 한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-02",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 2,
+    "question": "<보기>의 괄호에 들어갈 용어로 적절한 것은? <보기> . 1968년 제19회 멕시코올림픽의 육상 200M 경기에서 1위와 3위로 입상한 미국의 토미 스미스와 존 카롤로스는 시상식에서 검은 장갑, 검은 양말 등으로 ( )에 대해 저항을 표현했다.",
+    "choices": [
+      "성차별",
+      "장애차별",
+      "인종차별",
+      "계급차별"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-03",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 3,
+    "question": "<보기>의 ㉠, ㉡에 들어갈 용어로 바른 것은? <보기> . 내재되어 있다. ( ㉠ )적 요소는 경기에 긴장과 흥미를 불러일으킨다. 선수들은 승리하려는 강렬한 욕망으로 인해 경기에 몰입하고, 스포츠팬들 역시 승부로 인해 응원의 동기를 갖게 된다. 그러나 경쟁심이 과열되고 승리가 절대화될 경우 제도화된 규칙이 무시될 우려가 있으며, 중시하는 이유이다. ㉠ ㉡",
+    "choices": [
+      "도덕(morality) 윤리(ethics)",
+      "미미크리(mimicry) 일링크스(ilinx)",
+      "아곤(agon) 아레테(aretē)",
+      "사실판단(factual judgement) 가치판단(value judgement) 면"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-04",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 4,
+    "question": "에토스(ethos)의 실천으로 적절하지 않은 것은?",
+    "choices": [
+      "축구에서 상대 선수가 부상으로 쓰러져 걱정되는 마음에 공을 경기장 밖으로 걷어냈다.",
+      "배구에서 블로킹할 때 훈련한 대로 네트에 손이 닿지 않도록 주의를 기울였다.",
+      "야구에서 투수가 던진 공에 상대팀 타자가 맞아 투수는 모자를 벗어 타자에게 미안함을 표현했다.",
+      "농구에서 경기 종료 1분을 남기고, 우리 팀이 큰 점수 차로 이기고 있는 상황에서 감독은 상대를 배려하는 마음에 작전타임을 부르지 않았다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-05",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 5,
+    "question": "<보기>의 괄호에 들어갈 용어로 적절한 것은? <보기> . 함양이라고 할 수 있다. 도덕적 ( )이란 “도덕적 문제에 대한 비판적, 독립적인 사고를 바탕으로 스포츠 상황에 적용하는 능력”을 의미한다.",
+    "choices": [
+      "민감성",
+      "존엄성",
+      "자율성",
+      "우월성"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-06",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 6,
+    "question": "<보기>에서 의무론적 도덕 추론에 해당하는 것을 바르게 고른 것은? <보기> . ㉠ 행위의 결과에 상관없이 절대적인 도덕규칙에 따라 판단을 내린다. ㉡ 행위를 함에 있어 유용성의 원리, 공평성의 원리 등이 적용된다. ㉢ 행위의 옳고 그름은 그 행위로 인해 발생하는 결과에 따라 결정된다. ㉣ 의무론적 도덕 추론은 정언적 도덕 추론이라고도 한다. ㉤ 행위에 있어 선의지가 중요하며, 목적은 수단을 정당화할 수 없다.",
+    "choices": [
+      "㉠, ㉡, ㉣",
+      "㉠, ㉣, ㉤",
+      "㉡, ㉢, ㉤",
+      "㉢, ㉣, ㉤"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-07",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 7,
+    "question": "<보기>에서 국제축구연맹(FIFA)의 판단과정에 영향을 준 윤리 이론은? <보기> . 국제축구연맹은 선수부상 위험과 종교적인 갈등을 불러일으킬 수 있다는 이유로 경기 중 히잡(hijab) 착용을 금지했었다. 그러나 국제축구연맹 부회장인 알리빈 알 후세인은 이러한 조치가 오히려 종교적인 역차별이라는 주장을 내세우며 제도개선을 요구하였다. 오늘날 국제축구연맹은 히잡을 쓴 이슬람권 여성 선수의 참가를 허용하고 있다.",
+    "choices": [
+      "윤리적 의무주의",
+      "윤리적 절대주의",
+      "윤리적 상대주의",
+      "윤리적 환원주의"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-08",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 8,
+    "question": "도핑검사에서 선수의 역할 및 책임으로 적절하지 않은 것은?",
+    "choices": [
+      "시료채취가 언제든 가능하도록 해야 한다.",
+      "의료진에게 운동선수임을 고지해야 한다.",
+      "도핑방지규정위반을 조사하는 도핑방지기구에 협력해야 한다.",
+      "치료목적으로 처방되어 사용(복용)한 물질에 대해서는 책임지지 않는다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-09",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 9,
+    "question": "폭력을 설명한 학자의 개념과 그에 대한 설명으로 바르게 연결되지 않은 것은?",
+    "choices": [
+      "푸코(M. Foucault)의 규율과 권력－스포츠계에서 위계적 권력 관계는 폭력으로 변질되어 작동된다.",
+      "아렌트(H. Arendt)의 악의 평범성－스포츠계에서 폭력과 같은 잘못된 관행에 복종하는 데 익숙해진 나머지 이를 지속시키는데 기여한다.",
+      "아리스토텔레스(Aristotle)의 분노－스포츠 현장에서 인간 내면의 분노 감정에서 시작된 폭력은 전용되고 악순환을 반복하는 경향이 있다.",
+      "홉스(T. Hobbes)의 폭력론－자기가 좋아하는 운동선수의 폭력을 따라 하게 되듯이 인간 폭력의 원인을 공격 본능이나 자연 상태가 아닌 모방적 경쟁 관계라 주장한다. 면"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-10",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 10,
+    "question": "<보기>의 내용과 연관된 학자의 이론으로 적절하지 않은 것은? <보기> . 자연중심주의 환경윤리는 환경에 있어서 도덕적 고려의 대상을 자연의 생명체를 포함한 생태계 전체로 확대할 것을 주문한다. 이런 점에서 보면 동물 스포츠라 불리는 스페인의 투우, 한국의 전통 민속놀이인 소싸움 등은 동물을 인간의 오락 대상으로 삼았다는 점에서 윤리적으로 허용되기 어렵다.",
+    "choices": [
+      "베르크(A. Berque)의 환경윤리",
+      "레오폴드(A. Leopold)의 대지윤리",
+      "네스(A. Naess)의 심층적 생태주의",
+      "슈바이처(A. Schweitzer)의 생명중심주의"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-11",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 11,
+    "question": "<보기>의 (가)에서 A팀의 행동을 지지하는 이론의 제한점을 (나)에서 모두 고른 것은? <보기> . A팀과 B팀의 축구 경기가 진행 중이다. 경기 종료 20분을 남기고 A팀이 1대0으로 이기고 있으나 A팀 선수들의 체력은 이미 고갈되었고, B팀은 무섭게 공격을 이어가고 있다. 이때 A팀 (가) 감독은 이대로 경기가 진행될 경우 역전당할 위험이 있다는 판단하에 선수들에게 시간을 끌 것을 지시하였다. A팀 선수들은 부상 당한척 시간을 지연시키는 이른바 침대축구를 하였고, 결과적으로 A팀이 승리하게 되었다. ㉠ 결과로 행위를 평가하기 때문에 정의의 문제가 소홀해질 수 있다. ㉡ 도덕규칙 간의 충돌 문제가 발생했을 때 실질적인 도움을 주지 못할 수 있다. ㉢ 일반적인 사실로부터 도덕적인 당위를 (나) 추론하지 못할 수 있다. ㉣ 사회 전체의 이익을 제대로 고려하지 못하는 경우가 있다. ㉤ 개인의 이익과 공공의 이익이 충돌할 때 사익(私益)의 희생을 당연시한다.",
+    "choices": [
+      "㉠, ㉡, ㉤",
+      "㉠, ㉢, ㉤",
+      "㉡, ㉢, ㉣",
+      "㉡, ㉣, ㉤"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-12",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 12,
+    "question": "<보기>의 스포츠 현장에서 발생하는 도핑(약물복용)의 원인을 모두 고른 것은? <보기> . ㉠ 선수 또는 동물의 수행능력 향상을 위한 것이다. ㉡ 상대와의 경쟁에서 승리하기 위한 것이다. ㉢ 경기에 참가하고 싶은 지나친 욕구 때문이다. ㉣ 물질적 보상이 동기가 되기 때문이다.",
+    "choices": [
+      "㉠, ㉢",
+      "㉡, ㉢, ㉣",
+      "㉠, ㉡, ㉣",
+      "㉠, ㉡, ㉢, ㉣"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-13",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 13,
+    "question": "<보기>의 ㉠, ㉡과 스포츠에서의 정의(justice)에 대한 개념이 바르게 묶인 것은? <보기> . ㉠ 핸드볼 - 양 팀에 동일한 골대의 규격을 적용 ㉡ 테니스 - 시합 전 동전 던지기로 선공/후공을 결정 ㉠ ㉡",
+    "choices": [
+      "평균적 정의 분배적 정의",
+      "평균적 정의 절차적 정의",
+      "분배적 정의 평균적 정의",
+      "분배적 정의 절차적 정의"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-14",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 14,
+    "question": "<보기>에서 밑줄 친 A 선수의 입장과 관련된 맹자(孟子)의 사상으로 적절한 것은? <보기> . 태권도 국가대표선발 결승전, 먼저 득점하면 경기가 종료되는 서든데스(sudden death) 상황에서 A 선수가 실수로 경기장 한계선을 넘었다. A 선수가 패배해야 할 상황이었지만 심판은 감점을 선언하지 않았다. 상대 팀 감독과 선수는 강력히 항의했으나 판정은 번복되지 않았고 경기는 계속 진행됐다. 결국 A 선수는 승리했지만, 부끄러운 마음에 팀 동료들과 승리의 기쁨을 나누지 않고 조용히 집으로 돌아갔다.",
+    "choices": [
+      "수오지심(羞惡之心)",
+      "측은지심(惻隱之心)",
+      "사양지심(辭讓之心)",
+      "시비지심(是非之心) 면"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-15",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 15,
+    "question": "<보기>의 대화 내용과 성차별적 인식이 다른 것은? <보기> . 보연:내 친구 수현이는 얼마 전부터 권투를 시작했어. 남자들이나 하는 거친 운동을 여자가 겁도 없이 한다기에 내가 못 하게 적극적으로 말렸어. 지웅:잘했어. 여자에게 어울리는 스포츠도 많잖아. 요가나 필라테스처럼 여자에게 어울리는 종목을 추천해줘.",
+    "choices": [
+      "남자라면 거칠고 투쟁적인 스포츠를 즐겨야 한다.",
+      "남성다움, 여성다움을 강조하는 스포츠 참여를 권장한다.",
+      "권투에 참여하는 여성은 여성성을 잃게 되어 매력적이지 않다.",
+      "여자보다 남자의 근력이 강하기 때문에 권투와 같은 종목은 여자에게 적합하지 않다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-16",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 16,
+    "question": "심판에게 요구되는 개인윤리적 덕목에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "외부의 지시나 간섭을 단호히 뿌리쳐야 한다.",
+      "판정의 신뢰성을 높이는 제도를 도입해야 한다.",
+      "어느 한쪽으로 치우침과 사사로움이 없어야 한다.",
+      "성품이 고결하여 탐욕이 없고, 심판으로서 품위를 지켜야 한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-17",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 17,
+    "question": "<보기>의 (가)에서 환경단체의 입장과 관련이 있는 주장을 (나)에서 모두 고른 것은? <보기> . 평창올림픽 활강경기장 건립을 둘러싸고 환경단체로부터 반대의 의견이 나오게 되었다. 가리왕산은 활강경기의 특성상 최적의 장소이지만 (가) 이곳은 산림자원 보호구역으로 지정된 곳이었기 때문이다. 올림픽으로 얻어지는 경제적 효과를 강조하는 측과 산림의 가치를 경제적으로 환산할 수 없다는 환경단체의 입장이 팽팽히 맞서고 있다. ㉠ 효율성의 극대화를 목표로 하는 경제학을 추구한다. ㉡ 인간의 사용 가치에 비례하여 자연의 가치를 평가한다. (나) ㉢ 인간을 소중히 여기는 마음으로 자연환경도 소중히 대한다. ㉣ 인간도 생태계 구성원으로 보는 생태 공동체 의식을 기른다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉡, ㉣",
+      "㉢, ㉣"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-18",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 18,
+    "question": "성폭력 예방 또는 대처에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "선수는 피해 사실을 기록하도록 한다.",
+      "선수는 가능한 한 피해 상황에서 즉시 벗어나도록 한다.",
+      "성폭력 사실을 고발한 선수가 피해받지 않는 분위기를 조성한다.",
+      "여성 선수와 남성 지도자 위주로 성폭력 예방 교육이 이루어져야 한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-19",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 19,
+    "question": "스포츠윤리의 역할로 적절하지 않은 것은?",
+    "choices": [
+      "스포츠 현상에 대한 사실만을 기술한다.",
+      "스포츠인의 행위에서 요구되는 도덕적 원리와 덕목을 고찰한다.",
+      "도덕적 의미의 용어를 스포츠 환경에 적용할 때 그 기준과 방법에 대해 탐색한다.",
+      "스포츠 상황에서 행동과 목적의 옳고 그름을 결정할 수 있는 근본원리를 탐색한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  },
+  {
+    "id": "2020-sports-ethics-b-20",
+    "subjectId": "sports-ethics",
+    "year": 2020,
+    "number": 20,
+    "question": "가치판단의 사례로 적절하지 않은 것은?",
+    "choices": [
+      "2020년 제32회 도쿄올림픽이 1년 연기되었다.",
+      "선수들에게 폭력을 행사하면 안 된다.",
+      "피겨스케이팅 선수들의 연기는 매우 아름답다.",
+      "스포츠 선수들의 기부는 사회적으로 긍정적인 영향을 준다. ※국가자격 시험문제는 저작권법상 보호되는 저작물이고, 저작권자는 국민체육진흥공단입니다. 문제의 일부 또는 전부를 무단 복제, 배 포, (전자) 출판하는 등 저작권을 침해하는 일체의 행위를 금합니다. 면"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2020_life2_B"
+    ],
+    "sourceRef": "2020_life2_B",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T08:38:41Z",
+    "updatedAt": "2026-04-20T08:38:41Z"
+  }
+]
