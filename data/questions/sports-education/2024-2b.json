@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2024-sports-education-b-01",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 1,
+    "question": "<보기>에서 설명하는 박 코치의 '스포츠 지도 활동 에 해당하는 용어는? <보기> 박 코치는 관리시간올 줄이기 위해서 다음과 같이 지도 활동올 반복하다. 출석 점검은 수업 전에 회원들이 스스로 출석부에 표시하게 한다. 이후 건강에 이상이 있는 회원들올 파악한다 . 수업 중어는 대기시간을 최소화하기 위해 모문별로 학습 활동 구역올 미리 지정 한다 . 수업 후어는 일지흘 회수한다 . 성찰적 활동 적극적 활동 상규적 활동 잠재적 활동",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-02",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 2,
+    "question": "동료 평가(peer assessment)에 관한 설명으로 적절하지 않은 젓은? 학생들의 비평 능력이 향상월 수 있다 교사는 학생에게 평가의 정확한 방법흘 숙지시권다. 학생은 교사에게 받은 점검표름 통해 서로 평가한다. 교사와 학생 간 대화틀 통해 심중적인 정보름 수집한다.",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-03",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 3,
+    "question": "술만( Shulman의 '교사 지식 유형' 중 가르칠 교과목 내용에 관한 지식에 해당하는 것은? 내용 지식(content knowledge) 내용교수법 지식(nedagogical content knowledge) 교육환경 지식(knowledge of educational contexts) 학습자와 학습자 특성 지식(knowledge of learners and their characteristics)",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-04",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 4,
+    "question": "글로버(D Glover)와 엔더스( Anderson)이 인성올 강조한 수업 모형 중 <보기>의 @, @에 해당하는 것올 바르게 제시한 젓은? -<보기> '서로률 위해 서로 함께 배우기 틀 통해 팀원 간 긍정적 상호의존, 개인의 책임감 수준 증가, 인간관계 기술 및 팀 반성 등올 강조한 수업 '통합 전이, 권한 위임, 교사와 학생의 관계 틀 통해 타인의 권리와 감정 존중 , 자기 목표 설정 가능 훌륭한 역할 본보기 되기 등올 강조한 수업 협동학습 모형 개인적 사회적 책임감 지도 모형 현동학습 모형 스포츠교육 모형 개인적 사회적 책임감 지도 모형 협동학습 모형 면 2급 스포츠지",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-05",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 5,
+    "question": "<보기>의 @~@에 들어갈 교사 행동에 관한 용어가 바르게 제시된 젓은? <보기> )은 안전한 학습 환경 ,. 피드백 제공 )은 학습 지도 중에 소방 연습과 전달 방송 실시 )은 학생의 부상, 용변과 물 마시는 활동의 관리 직접기여 행동 간접기여 행동 비기여 행동 직접기여 행동 비기여 행동 간접기여 행동 비기여 행동 직접기여 행동 간접기여 행동 간접기여 행동 비기여 행동 직접기여 행동",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-06",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 6,
+    "question": "<보기>의 ~~C에 들어갈 기본 움직임 기술을 바르게 제시한 것은? <보기> 기본 움직임 예시 걷기, 달리기 뛰기 , 피하기 등 서기, 앉기, 구부리기. 비틀기 등 치기, 잡기 , 배팅하기 등 이동 움직임 비이동 움직임 표현 움직임 전락적 움직임 이동 움직임 표현 움직임 전락적 움직임 이동 움직임 조작 움직임 이동 움직임 비이동 움직임 조작 움직임",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-07",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 7,
+    "question": "학교체육진하법(시행 2024.3.24) 제10조 '학교스포츠클럽 운영' 의 내용에 해당하지 앞는 것은? 학교스포츠클럽올 운영하는 경우 전담교사름 지정해야 한다. 전담교사에게 학교 예산의 범위에서 소정의 지도수당올 지급하다. 활동 내용은 학교생활기록부에 기록하지만 상급학교 진학자로로 활용할 수 없다. 학교의 장은 학고스포츠클럽올 운영하여 학생들의 체육활동 참여 기회지 확대해야 한다.",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-08",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 8,
+    "question": "다음 중 모스템(. Moston) '상호학습형 교수 스타일'에 관한 설명으로 적절하지 않은 것은? 학습자는 교과내용올 선정한다. 학습자는 수행자나 관찰자의 역할올 수행한다. 관찰자는 지도자가 제시한 수행 기준에 따라 피드백올 제공하다. 지도자는 관찰자의 질문에 답하고 관찰자에게 피드백올 제공하다.",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-09",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 9,
+    "question": "<보기>에서 '학교체육 전문인 자질' 로 @~@에 들어갈 용어름 바르게 제시한 것은? <보기> 학습자 이해 교육과정 운영 및 개발 교직 인성 수업 계획 및 운영 사명감 교과지식 학습 모니터 및 평가 전문성 개발 협력관계 구축 교수 기능 태도 지식 수행 태도 학습 지식 기능 교수 수행 학습",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-10",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 10,
+    "question": "<보기>에서 설명하는 모스템(M. Moston)의 교수 스타일의 '인지(사고) 과정' 단계는? -<보기> 학습자가 해답올 찾고자 하는 욕구가 있는 단계이다. 학습자에 대한 자극(질문이 흥미 , 욕구 지식 수준과 적합할 때 이 단계가 발생하다. 학습자에게 알고자 하는 욕구릎 실행에 옮기도록 동기화 시키논 단계이다. 자극(stimulus) 반응(response) 사색(mediation) 인지적 불일치 (dissonance)",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-11",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 11,
+    "question": "<보기>에서 국민체육진흥법(시행 2024.3.15.) 제11조의 '스포츠윤리 교육 과정 에 관한 내용으로 옳은 것만을 모두 고른 젓은? <보기> 그 도둑 방지 교육 성폭력 등 폭력 예방 교육 L 교육부장관령으로 정하는 교육 근 스포츠 비리 및 체육계 인권침해 방지틀 위한 예방 교육 그 L L 근 L 그 L 근 그 L L 근 면 B형 2급 스포츠지_",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-12",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 12,
+    "question": "<보기>의 '수업 주도성 프로파일' 에 해당하는 체육수업 모형은? <보기> 직접적 상호작용적 간접적 내용 선정 수업 운영 과제 제시 참여 유형 상호 작용 A B 학습 진도 과제 전개 동료교수 모형 직접교수 모형 개별화지도 모형 협동학습 모형",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-13",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 13,
+    "question": "<보기>에서 설명하는 시멘립(D. Siedentop)의 교수(teaching) 기능 연습법에 해당하는 용어는? <보기> 김 교사는 교수 기능의 향상울 위해 다음과 같은 절차로 연습올 햇다. 학생 6~8명의 소집단올 대상으로 학습 목표와 평가 방법울 설명한 후 , 수업올 진행한다. 수업에 참여하 학생들의 질문지 자료틀 토대로 김 교사와 학생 다른 관찰자들이 모여 김 교사의 고수법에 대해 '토의블 한다. 객관적인 자료틀 근거로 교수 기능 효과루 살편다. 동료 교수 축소 수업 실제 교수 반성적 교수",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-14",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 14,
+    "question": "스포츠강사의 자격조건에 관한 설명으로 옳은 것은? F초- 중등교육법] 제2조제2호에 따른 초등학교에 스포츠강사흘 배치할 수 없다: r국민체육진하법] 제2조제6호에 따른 체육지도자 중에서 스포츠 강사름 임용할 수 있다: r학교체육진흉법] 제2조제6항 학교에 소속되어 학교운동부름 지도 감독하는 사람올 말한다. 5학교체육진하법] 제스조 재임용 여부는 강사로서의 자질 복무 태도 학생의 만족도 , 경기 결과에 따라 결정하여야 한다.",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-15",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 15,
+    "question": "메출러(. Metzler)가 제시한 '체육학습 활동' 중 정식 게임올 단순화 하고 몇 가지 기능에 초점올 두며 진행하는 젓은? 역할 수행(role-playing) 스크리미지 (scrimmage) 리드-업 게임(ead-up game) 학습 센터(learning centers)",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-16",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 16,
+    "question": "<보기>는 시멘립(D. siedentop)이 제시한 '스포츠 교육 모형' 의 특징울 설명한 젓이다. ~@에 들어갈 용어가 바르게 제시된 것은? <보기> 이 모형의 주제 중에 )은 스포츠틀 참여하는 태도와 관련된 정의적 영역이다. 시즌 중 심판으로서 역할울 할 때 학습영역 중 우선하는 것은 영역이다. ( 학습자 수준에 적합하게 경기 방식올 ( )해서 참여률 유도 한다 . 박식 정의적 고정 열정 인지적 변형 열정 정의적 변형 박식 인지적 고정",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-17",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 17,
+    "question": "<보기>에서 설명하는 체육수업 연구 방법으로 적절한 것은? -<보기> 연구의 특징은 집단적 (현동적) . 억동적 , 연속적으로 이루어짐 파악-개선계획-실행-관찰-반성 연구의 절차는 문제 등으로 순환하는 과정임 연구의 주체는 지도자가 동료나 연구자의 도움올 받아 자신의 수업올 담구함 문현(literature) 연구 실험 (experiment) 연구 현장 개선(action) 연구 근거이론(grounded theory) 연구",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-18",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 18,
+    "question": "<보기>에서 해당하는 평가기법으로 적절한 것은? <보기> 운동 수행올 평가하는 데 자주 사용하는 평가 방법이다. 운동 수행의 질적인 면올 파악하여 수준이나 숫자루 부여하는 평가 방법이다. 평정척도 사건기록법 체크리스트 학생저널 면 2급 스포츠지",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-19",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 19,
+    "question": "<그림>은 '국민체력100'의 운영 체계이다. 체력인증센터가 이용자에게 제공하는 서비스가 아뇨 것은? <그림 이용자 체력인증 예약 \"T 제공 서비스 체력인증센터 방문 본인체력축정/ 체력 온라인 체력인증서 발급 인증기록 조회 인종센터 온라인 잠가확인서 발급 동영상 운동처방 조회 체력평가결과 전송 V 체력축정기록 전달 중앙센터 체력즉정 서비스 맞춤형 운동처방 국민 체력 인증서 발급 스포츠클럽 등록 및 운영지원",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-sports-education-b-20",
+    "subjectId": "sports-education",
+    "year": 2024,
+    "number": 20,
+    "question": "학습자 비과제 행동올 예방하고 과제 지향적인 수업올 유지하기 위한 교수 기능 중 쿠난(. Kounin)이 제시한 '동시처리(overlapping) 에 해당 하는 젓은? 수업의 흐름올 유지하면서 수업 이달 행동 학생올 제지하는 것이다. 학생들의 행동올 항상 인지하고 있다는 것올 알리는 젓이다. 학생의 학습 활동올 중단시키고 잠시 퇴장 시키논 것이다 모든 학생에게 과제에 몰입하도록 경각심올 주는 것이다.",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  }
+]

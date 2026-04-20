@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2024-senior-pe-b-01",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 1,
+    "question": "<보기>가 설명하는 노화의 특징은? <보기> 노화는 신체기능에 부정적 영향올 미처 사망을 초래한다. 나이가 들면서 신체기능이 더 좋아지면 노화가 아니다. 보편성 내인성 점진성 쇠퇴성",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-02",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 2,
+    "question": "<보기>가 설명하는 노화이혼은? <보기> 항체의 이물질에 대한 식별능력이 저하되어 이물질이 계속 체내에 있으면서 부작용올 일으켜 노화 추진 유전적노화이론 교차연결이론 사용마모이론 면역반용이론",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-03",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 3,
+    "question": "노화에 따른 생리적 변화로 옳은 것은? 1회 박출량 증가 동. 정맥산소차 감소 근육의 산화능력 증가 심장근육의 수축시간 감소",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-04",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 4,
+    "question": "<보기>에서 설명하는 노인의 행동 변화 이론은? <보기> 인간의 행동 변화는 환경의 영향 , 개인의 내적 요인, 행동 요인에 영향올 반흔다. 자아호능감은 행동 변화와 밀접한 관련이 있다. 운동지도자의 겪러지 통해 지속적으로 운동프로그램에 참여한다. 지속성이론(continuity theory) 건강신념모형 (health belief theory) 사회인지이론 (social cognitive theory) 계획행동이론(planned behavior theory)",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-05",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 5,
+    "question": "노인 폐질환에 관한 설명으로 옮지 않은 것은? 천식의 증상은 운동으로 약화되지 안듣다. 만성페소성페질환자의 기도저항은 호흡근 약화틀 초래한다 . 만성페쇄성페질환의 주요 증상은 호흡곤관 가래, 만성적인 기찮이다 천식 환자의 운동유발성기관지수축은 추운 환경 . 대기오염. 스트레스에 의해 흑발되다. !면 B형 2급 스포츠지",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-06",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 6,
+    "question": "한국형 노인체력검사(국민체력 100)의 즉정항목과 즉정방법의 연결이 옮지 않은 젓은? 축정항목 축정방법 협응력 8자 보행 심폐지구력 6분 걷기 상지 근 기능 덥빛 들기 유연성 앉아 윗몸 앞으로 굽히기",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-07",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 7,
+    "question": "노인의 생활 기능 분류에서 도구적 일상생활 활동(Instrumental Activities of Daily Living: IADLs)에 해당하는 것은? 요리 목욕 옷 입기 화장실 사용",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-08",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 8,
+    "question": "미국스포츠의학회(ACSM, 2022)가 제시한 노인의 운동지침으로 옮지 암은 것은? 유연성 운동: 약간의 불편감이 느껴질 정도로 30~6O초 동안의 정적 스트레칭 유산소 운동: 중강도로 주 5일 이상 또는 고강도로 주 3일 이상의 대근육 운동 파위 운동: 빠른 속도로 1 RM의 60 % 이상의 고강도 근력운동올 10~14회 반복",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-09",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 9,
+    "question": "노인의 신체기능검사에 관한 설명으로 옮지 앞은 것은? 6분 걷기 검사는 6분 동안 걸을 수 있는 최대거리(m로 심페지구력올 평가하고 장거리 보행이나 계단 오르기 등의 일상생활 동작과 관련이 있다. 기능적 팔 뻗기 검사(FRT) 눈 균형올 잃지 않고 팔이 당을 수 있는 최대거리틀 즉정 하여 동적 평형성올 평가하고, 노인의 낙상 위험도 범주 분류에 사용되다. 노인체력검사(SFT)의 어깨 유연성올 평가하는 '등 뒤에서 손잡기' 검사는 머리 위로 옷올 벗거나 자동차에서 안전탤트틀 매는 동작과 관련된 항목이다. 단기신체기능검사(SPPB) 논 보행 속도 균형 능력 및 의자 앉있다 일어나기 시간의 점수름 합산하여 평가하고 점수가 높음수록 더 낮은 기능을 의미한다. 도사 펼기시험",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-10",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 10,
+    "question": "<보기> 에서 <표>의 특성올 가진 노인의 운동처방에 관한 설명으로 옳은 젓만을 모두 고른 것은? (단; ACSM, 2022 기준) 표 나이: 68세 성별: 남 훈연 벼 신장: 170 cm 체중: 65 kg BMI: 22.5 kglm? 혈안: SBP 129 mmHg DBP 88 mmHg LDL-C: 123 mgldL, HDL-C: 41 mgldL 공복시 혈당: 98 mgldL 근력운동의 경험 없음 지난 3개월 동안 주 2회 , 20분 정도의 천천히 걷기 운동 걷기 운동 시 별다른 신체적 증상 없으나 가끔 종아리 통증이 느껴짐. <보기> 그 심혈관질환 위험요인의 양성 위험요인은 1개이다. L 선별알고리증에 따라 중강도 운동 시 의로적 허가가 권장되지 안듣다. 드 운동자각도(10점 척도) 5~6의 빠르게 검는 유산소 운동올 한다. 근 1 RM의 40~50 % 의 강도로 대근육군올 활용하 근력 강화 운동올 한다 . n 과체중이므로 체중감량올 위한 운동처방울 해야 한다.",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-11",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 11,
+    "question": "폐르브뤄현과 예터(L Verbrugge & A Jette. 1994의 장애과정 모델에서 장애에 이르는 과정올 용게 나열한 것은? 손상 + 기능적 제한 + 병 - 장애 병 , 손상 ' 기능적 제한 , 장애 손상 + 병 + 기능적 제한 + 장애 병 + 기능적 제한 + 손상 + 장애",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-12",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 12,
+    "question": "에릭스(Erikson. 1986)의 심리사회적 단계가 용게 나열편 것은? 연령 증가 생산적 대 정체 자아 주체성 대 절망 ' 친분 대 고독 친분 대 고독 생산적 대 정체 ' 자아 주체성 대 절망 자아 주체성 대 절망 ' 생산적 대 정체 , 친분 대 고독 생산적 대 정체 + 친분 대 고독 자아 주체성 대 절망 면 2급 스포츠지_",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-13",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 13,
+    "question": "<보기>에서 설명하는 것은? <보기> 죽상동맥경화 병변이 특징인 질환이다. 위험요인은 연령 . 훈연; 고혈압 , 당소병 , 이상지질헬증이다. 주요 증상은 체중부하 움직임 시 하지의 간혹적 파행이다. 뇌족중(stroke) 근감소종 (sarcopenia) 신장질환(kidney disease) 말초동맥질환(peripheral arterial disease)",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-14",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 14,
+    "question": "노화에 따른 호흡계 변화로 옳은 것은? 잔기량의 감소 흉과의 경직성 감소 생리학적 사강의 감소 호흡기 중추신경 활동에 대한 민감성 감소",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-15",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 15,
+    "question": "<보기>에서 노인 당소병 환자의 운동 효과로 옳은 것만을 모두 고른 젓은? <보기> 그 인술린 저항성 증가 L 체지방 감소 드 . 죽상동맥경화 합병증 위험 감소 근 . 인술린 민감성 감소 n 골격근의 포도당 수승 능력 감소 비 당소병 전단계에서 제2형 당뇨병으로의 진행 예방 그 . 비 L L 드, 근 L 비 드 , 근 . E , 니",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-16",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 16,
+    "question": "세계보건기구(World Health Organization)가 제시한 노인의 신체활동에 대한 심리적 단기 효과는? 이완(relaxation) 기술 획득(skill acquisition) 인지 향상(cognitive improvement) 운동제어와 수행(motor control and performance)",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-17",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 17,
+    "question": "노화에 따른 인지기능 변화로 옮지 앞은 것은? 유동성 지능의 감소 결정성 지능의 감소 단기 기억력의 감소 인지 처리 속도의 지연",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-18",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 18,
+    "question": "노인 운동 시 위험관리에 관한 지침으로 옳은 것만을 모두 고른 것은? <보기> 그 신체활동 프로그램 시작 전에 신체적 기능에 따라 참여자들올 선별하다 . 노인의 L 심정지 심패소생술 시행 중어는 자동심장충격기틀 사용하지 안듣다. L 시각적 문제가 있는 경우 적절한 조명과 거울로 된 벽, 방향 표시름 한다 . 근 청각적 문제가 있는 경우 잘 들리지 않는 귀 쪽으로 큰 소리로 이야기하여 지도한다 . 심장질환의 징후인 가슴통증, 호흡곤란 , 불규칙한 심박수가 나타나면 운동올 바로 중단하다. 근 그 L 드 L L L 근",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-19",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 19,
+    "question": "<보기> 에서 치매 노인에게 적합한 운동 형태로 옳은 것만을 모두 고른 것은? <보기> 그 계단 오르내리기 L 배드틀 이용하 저항 운동 드 물건 들고 안전하게 보행하기 근 대근육군올 사용하는 자전거 타기 그 L 드 근 L 드, 근 근 E",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-senior-pe-b-20",
+    "subjectId": "senior-pe",
+    "year": 2024,
+    "number": 20,
+    "question": "노인의 근. 골격계 질환에 관한 권장 운동으로 옮지 앞은 것은? 골다공증: 골밀도 증가을 위한 수영 관절염: 관절 부담올 적게 주는 자전거 운동 척추질환: 단축된 결합조직올 이완시키는 유연성 운동 근감소증: 넘어심올 예방하기 위한 체중부하 근력 운동 면",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2b"
+    ],
+    "sourceRef": "2024-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  }
+]

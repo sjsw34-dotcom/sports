@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2024-exercise-physiology-a-01",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 1,
+    "question": "지구성 훈련에 의한 지근심유(Type I의 생리적 변화로 용지 않은 것은? 모세혈관 밀도 증가 마이오글로반 함유량 감소 미토론드리아의 수와 크기 증가 절대 운동강도에서의 젖산 농도 감소",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-02",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 2,
+    "question": "유산소성 트레이님올 통한 근육 내 미토론드리아 변화와 관련된 설명으로 옮지 않은 젓은? 근원심유 사이의 미토차드리아 밀도 증가 근육 내 젖산과 수소 이온(:+) 생성 감소 손상원 미토권드리아 분해 및 제거울 감소 근육 내 크레야실인산(phosphocreatine) 소모량 감소",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-03",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 3,
+    "question": "운동 중 지방분해틀 축진하는 요인으로 용지 앞은 것은? 인술린 증가 글루카곧 증가 에피네프린 증가 순환성(cyclic) AMP 증가",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-04",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 4,
+    "question": "운동에 대한 심혈관 반응에 관한 설명으로 옳은 것은? 점증 부하 운동 시 심근산소소비량 감소 고강도 운동 시 내장 기관으로의 혈류 분배 비율 증가 일정한 부하의 장시간 운동 시 시간 경과에 따른 심박수 감소 고강도 운동 시 활동근의 세동백(arterioles) 확장올 통한 혈류량 증가",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-05",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 5,
+    "question": "<보기>의 @, @에 들어갈 용어가 바르게 나열상 젓은? 보기> 심장의 부담올 나타내는 심근산소소비량은 심박수와 )올 급하여 산출하다. 산소섭취량이 동일한 운동 시 다리 운동이 팔 운동에 비해 심근 산소소비량이 더 ( ) 나타난다 . 1회 박출량 높게 1회 박출량 낯게 수축기 혈답 높게 수축기 혈합 낯게",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-06",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 6,
+    "question": "골격근의 수축 특성올 결정하는 요인에 대한 설명 중 <보기> 의 @ @에 들어갈 용어가 바르게 연결본 것은? <보기> 특이장력 = 근력 / ( 근파위 = 힘 X ( 근회단면적 수축속도 근회단면적 수축시간 근파위 수축속도 근파위 수축시간",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-07",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 7,
+    "question": "<보기> 의 G~G에 들어갈 용어가 바르게 나열편 것은? <보기> 수용기 역할 근방추 정보 전달 골지건기관 정보 전달 근육의 화학수용기 ) 정보 전달 근육의 길이 근육 대사량 힘 생성량 근육 대사량 힘 생성량 근육의 길이 근육 대사량 근육의 길이 힘 생성량 근육의 길이 힘 생성량 근육 대사량",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-08",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 8,
+    "question": "<그림>은 도피반사(withdrawal reflex)와 교차신전반사(crossed-extensor reflex)틀 나타번 젓이다. 이에 관한 설명으로 옮지 않은 것은? 신전근 굵곡근 신전근 굵곡근 (Extensor) (Flexor) (Extensor) (Flexor) 반사궁 경로름 통해 통증 자극에 대한 빠른 반사가 일어난다. 통증 수용기로부터 활동전위가 발생하여 척수로 전달되다 . 신체 균형올 유지하기 위해 반대편 대퇴의 굳곡근 수죽이 어제되다. 통증올 회피하기 위해 통증 부위 대되의 굵곡근과 신전근이 동시에 수축되다. 면 2급 스포츠지",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-09",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 9,
+    "question": "고온 환경의 장시간 최대하 운동 시 <보기>에서 운동수행능력올 저하시키는 요인으로 옳은 것만을 모두 고른 것은? (단. 심각한 탈수 현상은 발생하지 안는 환경) <보기> 그 글리코젠 고갈 가속 근종류량 감소 L 드 1회 박출량 감소 근 . 운동단위 활성 감소 그 L 그 L 근 L L 근 그 L L 근",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-10",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 10,
+    "question": "<보기> 의 조건으로 트레드밀 운동 시 운동량은? 보기> 체중 = 50 kg 트레드밀 속도 = 12 km/h 운동시간 = 10 분 트레드밀 경사도 = 5 % (단 , 운동량(일) = 힘 X 거리)",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-11",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 11,
+    "question": "에너지 대사 과정과 속도조절요소의 연결이 옮지 앞은 것은? 에너지 대사 _과정_ 속도조절호소_ 크레아W 키나아제 ATP-PC 시스템 (creatine kinase) 젖산 탈수소호소 해당작용 (lactate dehydrogenase) 이소시트르산탈수소요소 크렌스회로 (isocitrate dehydrogenase) 사이토크름산화호소 전자전달체계 (cytochrome oxidase)",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-12",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 12,
+    "question": "<보기>에서 근육의 힘, 파위, 속도의 관계에 대한 설명 중 옳은 젓만을 모두 고른 젓은? -<보기> 그 단축성 (concentric) 수축 시 수축 속도가 빨라짐에 따라 힘(장력) 생성은 감소한다. L 신장성 (eccentric) 수축 시 신장 속도가 빨라짐에 따라 힘(장력) 생성은 증가한다. 드 근육이 발현할 수 있는 최대 근파워는 등척성(isometric) 수축 시에 나타난다. 근 . 단축성 수축 속도가 동일할 때 속근섬유가 많울수록 근 힘율 발휘한다. 드 그 근 그 L L 그 L 근 L L 근 도사 펼기시험 A형",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-13",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 13,
+    "question": "카테콜라민에 대한 설명으로 옮지 앞은 것은? 부신피질에서 분비 교감신경의 말단에서 분비 C1 수용체 결합 시 기관지 수축 B1 수용체 결합 시 심박수 증가",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-14",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 14,
+    "question": "<보기> 의 에너지 대사 과정에 관한 설명 중 옳은 것만을 모두 고른 젓은? <보기> 그 해당과정 중 NADH는 생성되지 안듣다. 크립스 회로와 베타산화는 미토건드리아에서 관찰되는 에너지 대사 과정이다. L 포도당 한 분자의 해당과정의 최종산물은 ATP 2분자와 피루브산염 2분자(또는 젖산염 2분자이다. 근 낮은 운동강도(예: VOamax 40 %)로 30분 이상 운동 시 점진적으로 호흡교환율이 감소하고 지방 대사 비중은 높아진다. 그 그 근 근 L L",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-15",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 15,
+    "question": "운동 중 훨중 포도당 농도록 유지하기 위한 호르문에 대한 설명으로 옮지 않은 젓은? 성장호르문 - 간에서 포도당신생합성 증가 코티속 - 중성지방으로부터 유리지방산으로 분해 축진 노르에피네프린 골격근 조직 내 유리지방산 산화 억제 에피네프린 간에서 글리코젠 분해 축진 및 조직의 혈중 포도당 사용 억제",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-16",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 16,
+    "question": "운동 중 수분과 전해질 균형에 관한 설명으로 옳은 젓만을 모두 고른 것은? ~<보기> 그 장시간의 중강도 운동 시 혈장랑과 알도스데론 분비는 감소한다. 땀 분비로 인한 혈장량 감소는 뇌하수체 후업의 항이노호르문 분비름 유도한다. E 충분한 수분 섭취 없이 장시간 운동 시 체내 수분 재롭수름 위해 레년-안지오렌신 II 호르묻이 분비되다. 근 운동에 의한 땀 분비는 수분 상실올 초래하여 혈중 삼투질 농도록 감소시권다. L 그 그 L 근 }면 A형 2급 스포츠지",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-17",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 17,
+    "question": "<표는 참가자의 폐환기 검사 결과이다. <보기>에서 옳은 것만을 모두 고른 것은? 1회 호흡량 호흡률 분당환기량 사랑량 (폐포 환기량 참가자 회 (mL) min) (mLlmin) (mL) (mLlmin) 주은 375 20 150 민재 500 15 150 다영 750 10 150 <보기> 그 세 참가자의 분당환기량은 동일하다. L 다영의 폐포 환기량은 분당 6 L/min이다. 주은의 폐포 환기량이 가장 크다. L 그 L 그 L L L 그 L L",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-18",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 18,
+    "question": "1회 박출량(stroke volume) 증가 요인으로 옮지 암은 젓은? 심박수 증가 심실 수추력 증가 평균 동맥혈입(MAP) 감소 심실 이완기말 혈액량(EDV) 증가",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-19",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 19,
+    "question": "골격근 섬유에 관한 설명으로 옳은 것은? 근수축에 필요한 칼숨(Ca\")은 근형질세망에 저장되어 있다. 운동단위(motor unit)눈 감각누런과 그것이 지배하는 근심유의 결합 이다. 신경근 접합부-(neuromuscular junction)에서 분비되는 근수축 신경전 달물질은 에피네프린이다. 지연성 근통증은 골격근의 신장성 (eccentric) 수축보다 단축성 (concentric) 수축 시 더 쉽게 발생한다.",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  },
+  {
+    "id": "2024-exercise-physiology-a-20",
+    "subjectId": "exercise-physiology",
+    "year": 2024,
+    "number": 20,
+    "question": "지근심유(Type I)와 비교되는 속근심유(Type I)의 특성으로 옳은 젓은? 높은 피로 저항력 근형질세망의 발달 마이오신 ATPase의 느린 활성 운동신경세포(뉴권)의 작은 직경",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2024-2a"
+    ],
+    "sourceRef": "2024-2a",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T12:07:55Z",
+    "updatedAt": "2026-04-20T12:07:55Z"
+  }
+]

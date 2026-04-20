@@ -35,8 +35,14 @@ HEADER_RE = re.compile(
     re.MULTILINE,
 )
 
-# 문제 시작 패턴: 줄 시작에 "숫자."
-Q_START_RE = re.compile(r"(?m)^(?P<num>\d+)\.\s")
+# OCR 자주 틀리는 과목명 ↔ 정규화 (extract 단계에서 교정)
+OCR_SUBJECT_FIXES = [
+    (re.compile(r"스포츠운리"), "스포츠윤리"),
+    (re.compile(r"스포츠 운리"), "스포츠윤리"),
+]
+
+# 문제 시작 패턴: 줄 시작에 "숫자." (OCR에서 점이 누락될 수 있어 점 선택적)
+Q_START_RE = re.compile(r"(?m)^(?P<num>\d+)\.?\s")
 
 # 보기 선택지 문자 (① ② ③ ④)
 CHOICE_CHARS = ["①", "②", "③", "④"]
@@ -97,36 +103,48 @@ def parse_questions(section_text: str) -> list[ParsedQuestion]:
     """과목 본문에서 '번호. 질문 ①~④' 형태의 문제 블록 추출."""
     text = clean_lines(section_text).strip()
     starts = list(Q_START_RE.finditer(text))
-    results: list[ParsedQuestion] = []
+    by_num: dict[int, ParsedQuestion] = {}
     for i, m in enumerate(starts):
         num = int(m.group("num"))
+        # 문제 번호는 1~20 범위
+        if not (1 <= num <= 20):
+            continue
         begin = m.end()
         end = starts[i + 1].start() if i + 1 < len(starts) else len(text)
         body = text[begin:end].strip()
         parsed = parse_single_block(body)
         if parsed is None:
-            # 표/이미지 기반 문제 — ①②③④ 순서 깨짐. 본문 전체를 question으로 두고
-            # choices 비워두어 수동 보강용으로 남김.
-            results.append(
-                ParsedQuestion(
-                    number=num,
-                    question=normalize_ws(body),
-                    choices=["", "", "", ""],
-                    needsImages=True,
-                )
+            # 표/이미지 기반 문제 — ①②③④ 순서 깨짐 또는 OCR 누락.
+            # 본문 전체를 question으로 두고 choices 비워 needsImages=True로 표기.
+            candidate = ParsedQuestion(
+                number=num,
+                question=normalize_ws(body),
+                choices=["", "", "", ""],
+                needsImages=True,
             )
-            continue
-        # 보기가 전부 비었으면 그래프·그림 선택지 문제로 판정
-        needs_images = all(len(c) == 0 for c in parsed["choices"])
-        results.append(
-            ParsedQuestion(
+        else:
+            needs_images = all(len(c) == 0 for c in parsed["choices"])
+            candidate = ParsedQuestion(
                 number=num,
                 question=parsed["question"],
                 choices=parsed["choices"],
                 needsImages=needs_images,
             )
-        )
-    return results
+        # 중복: 더 구체적인(choices 있음 > 본문 길이 긴) 쪽 선택
+        prev = by_num.get(num)
+        if prev is None:
+            by_num[num] = candidate
+        else:
+            prev_has_choices = any(c for c in prev.choices)
+            cand_has_choices = any(c for c in candidate.choices)
+            if cand_has_choices and not prev_has_choices:
+                by_num[num] = candidate
+            elif (
+                cand_has_choices == prev_has_choices
+                and len(candidate.question) > len(prev.question)
+            ):
+                by_num[num] = candidate
+    return sorted(by_num.values(), key=lambda q: q.number)
 
 
 def parse_single_block(body: str) -> dict | None:
@@ -168,6 +186,10 @@ def main() -> int:
 
     with open(args.text_file, "r", encoding="utf-8") as f:
         raw = f.read()
+
+    # OCR 과목명 교정
+    for pat, repl in OCR_SUBJECT_FIXES:
+        raw = pat.sub(repl, raw)
 
     sections = split_by_subject(raw)
     result: dict[str, list[dict]] = {}
