@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2019-exercise-physiology-b-01",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 1,
+    "question": "<보기>에서 설명하는 용어는? <보기> . ∙심실이 수축할 때 배출되는 혈액의 양 ∙확장기말 혈액량(EDV)과 수축기말 혈액량(ESV)의 차이",
+    "choices": [
+      "심박수",
+      "1회박출량",
+      "분당 환기량",
+      "최대산소섭취량"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-02",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 2,
+    "question": "<보기>에서 설명하는 에너지 시스템은? <보기> . ∙순간적인 고강도 운동을 위한 주요 에너지 시스템 ∙운동 시작 시기에 가장 빠르게 에너지를 생산하는 방법 ∙역도, 높이뛰기, 20m 달리기 등에 사용되는 주요 에너지 시스템",
+    "choices": [
+      "ATP-PC 시스템",
+      "무산소성 해당과정(glycolysis)",
+      "젖산 시스템(lactic acid system)",
+      "산화적 인산화(oxidative phosphorylation)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-03",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 3,
+    "question": "혈액 내 산소운반 물질은?",
+    "choices": [
+      "글루코스(glucose)",
+      "헤모글로빈(hemoglobin)",
+      "마이오글로빈(myoglobin)",
+      "유리지방산(free fatty acid)"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-04",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 4,
+    "question": "고강도 운동 중 젖산역치(LT)가 발생하는 원인으로 적절하지 않은 것은?",
+    "choices": [
+      "근육 내 산소량 감소",
+      "속근섬유 사용률 증가",
+      "코리사이클(cori cycle) 증가",
+      "무산소성 해당과정 의존율 증가"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-05",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 5,
+    "question": "<보기>는 췌장에서 분비되는 혈당조절 호르몬에 대한 설명이다. ㉠, ㉡에 들어갈 용어를 바르게 나열한 것은? <보기> . ∙( ㉠ )은 혈당 저하 시 글리코겐과 중성지방의 분해를 증가시켜, 혈당을 높여주는 역할을 한다. ∙( ㉡ )은 혈당 증가 시 세포 안으로 포도당 흡수를 촉진하여, 혈당을 낮추는 역할을 한다. ㉠ ㉡",
+    "choices": [
+      "인슐린 글루카곤",
+      "인슐린 알도스테론",
+      "글루카곤 알도스테론",
+      "글루카곤 인슐린"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-06",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 6,
+    "question": "건강체력 요소가 아닌 것은?",
+    "choices": [
+      "순발력",
+      "유연성",
+      "신체구성",
+      "심폐지구력"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-07",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 7,
+    "question": "고지대에서 장기간 노출 시 나타나는 생리적 적응 현상으로 적절하지 않은 것은?",
+    "choices": [
+      "적혈구 수 증가",
+      "혈액의 산소운반능력 향상",
+      "근육의 모세혈관 밀도 감소",
+      "주어진 절대강도 운동 시 폐환기량 증가"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-08",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 8,
+    "question": "<보기>의 ㉠, ㉡에 들어갈 용어를 바르게 나열한 것은? <보기> . ∙신경계는 중추신경계(CNS)와 말초신경계(PNS)로 구분된다. ∙말초신경계 중, 자율신경계(autonomic nervous system)는 ‘흥분성’의 ( ㉠ )과 ‘억제성’의 ( ㉡ )으로 구분된다. ㉠ ㉡",
+    "choices": [
+      "교감신경 부교감신경",
+      "부교감신경 교감신경",
+      "원심성신경 구심성신경",
+      "구심성신경 원심성신경 면"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-09",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 9,
+    "question": "운동 시 폐포와 폐모세혈관 사이에서의 산소교환율을 증가시키는 직접적인 원인은?",
+    "choices": [
+      "폐동맥의 낮은 산소량",
+      "폐동맥의 높은 산소량",
+      "폐정맥의 낮은 산소량",
+      "폐정맥의 높은 산소량"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-10",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 10,
+    "question": "<보기>에 제시된 근수축 과정을 단계별로 바르게 나열한 것은? <보기> . ㉠ 근육세포의 활동전위(action potential)발생 ㉡ 근형질세망(SR)에서 칼슘이온(Ca2+)분비 ㉢ 축삭 종말에서 아세틸콜린(ACh)방출 ㉣ ATP 분해에 따른 근세사 활주 시작",
+    "choices": [
+      "㉠－㉢－㉣－㉡",
+      "㉡－㉢－㉠－㉣",
+      "㉢－㉠－㉡－㉣",
+      "㉣－㉢－㉡－㉠"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-11",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 11,
+    "question": "운동 시 비훈련자의 심혈관계 변화로 적절하지 않은것은?",
+    "choices": [
+      "최대강도까지 운동강도에 비례하여 심박수 증가",
+      "최대강도까지 운동강도에 비례하여 심박출량 증가",
+      "최대강도까지 운동강도에 비례하여 1회박출량 증가",
+      "최대강도까지 운동강도에 비례하여 동정맥산소차 증가"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-12",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 12,
+    "question": "<보기>에 제시된 운동단위(motor unit)에 대한 설명 중 옳은 것을 있는 대로 고른 것은? <보기> . ㉠ 하나의 운동신경과 그 신경에 의해 지배되는 근육섬유들로 정의된다. ㉡ 운동신경에 연결된 근섬유 수가 많을수록 큰 힘을 내는 데 유리하다. ㉢ 자극비율(innervation ratio)이 낮은 근육은 정교한 움직임에 적합하다.",
+    "choices": [
+      "㉠",
+      "㉠, ㉡",
+      "㉡, ㉢",
+      "㉠, ㉡, ㉢"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-13",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 13,
+    "question": "호흡교환율(Respiratory Exchange Ratio:RER)이 <보기>와 같을 때의 생리적 현상에 대한 설명으로 가장 적절한 것은? <보기> . 호흡교환율(RER)＝0.8",
+    "choices": [
+      "이산화탄소 생성량이 산소 소비량보다 많다.",
+      "에너지 대사의 주 연료로 지방을 사용하고 있다. ̇",
+      "VO max 80% 이상의 고강도 운동을 수행하고 있다.",
+      "에너지 대사의 연료로 탄수화물은 전혀 사용되지 않고 있다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-14",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 14,
+    "question": "장기간의 규칙적인 유산소 훈련에 따른 생리적 적응 현상으로 적절하지 않은 것은?",
+    "choices": [
+      "근섬유의 항산화능력 향상",
+      "지근섬유의 속근섬유로의 전환",
+      "근섬유의 미토콘드리아 밀도 증가",
+      "최대하운동 중 지방대사능력의 향상"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-15",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 15,
+    "question": "<보기>에서 설명하는 호르몬은? <보기> . ∙운동 시 부신수질로부터 분비가 증가된다. ∙간과 근육의 글리코겐 분해를 촉진시킨다. ∙심박수와 심근의 수축력을 증가시킨다.",
+    "choices": [
+      "에스트로겐(estrogen)",
+      "에피네프린(epinephrine)",
+      "성장호르몬(growth hormone)",
+      "갑상선자극호르몬(thyroid stimulating hormone)"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-16",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 16,
+    "question": "<보기>의 지방(fat)에 대한 설명 중 옳은 것으로만 묶인 것은? <보기> . ㉠ 지방은 유리지방산의 형태로 지방조직과 골격근 등에 저장된다. ㉡ 중성지방은 탄수화물이 고갈되더라도 에너지원으로 사용되지 않는다. ㉢ 중성지방은 리파아제(lipase)에 의해 지방산과 글리세롤 (glycerol)로 분해된다. ㉣ 운동강도가 증가함에 따라 에너지 생산을 위한 주 연료는 지방에서 탄수화물로 전환된다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉣",
+      "㉡, ㉢",
+      "㉢, ㉣ 면"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-17",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 17,
+    "question": "<보기>에서 설명하는 근육 기관은? <보기> . ∙골격근에서 발견된다. ∙근육의 길이를 감지한다. ∙근육의 급격한 신전 시 반사적 근육활동을 촉발시킨다.",
+    "choices": [
+      "근방추",
+      "동방결절",
+      "모세혈관",
+      "근형질세망"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-18",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 18,
+    "question": "운동 후 초과산소섭취량(Excess Post-exercise Oxygen Consumption :EPOC)이 발생하는 원인으로 적절하지 않은 것은?",
+    "choices": [
+      "운동 중 증가한 혈압 감소",
+      "운동 중 증가한 젖산 제거",
+      "운동 중 증가한 체온 저하",
+      "운동 중 증가한 산소 제거"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-19",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 19,
+    "question": "<보기>에서 설명하는 운동훈련의 원리는? <보기> . ∙운동훈련에 의한 효과는 운동량이 일상생활 수준보다 높을 때 일어난다. ∙운동량은 운동의 빈도, 강도 또는 지속시간을 증가시킴으로써 늘릴 수 있다.",
+    "choices": [
+      "가역성의 원리",
+      "개별성의 원리",
+      "과부하의 원리",
+      "특이성의 원리"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-physiology-b-20",
+    "subjectId": "exercise-physiology",
+    "year": 2019,
+    "number": 20,
+    "question": "근섬유의 형태에 따른 특성으로 적절하지 않은 것은?",
+    "choices": [
+      "지근은 속근에 비해 모세혈관의 밀도가 높다.",
+      "지근은 속근에 비해 미토콘드리아 수가 많다.",
+      "속근은 지근에 비해 ATPase의 활성도가 높다.",
+      "속근은 지근에 비해 피로에 대한 저항성이 높다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  }
+]

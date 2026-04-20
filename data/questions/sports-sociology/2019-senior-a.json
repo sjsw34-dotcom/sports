@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2019-sports-sociology-a-01",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 1,
+    "question": "스포츠사회학의 연구영역과 주제 중 거시영역의 사회제도와 관련된 연구내용이 아닌 것은?",
+    "choices": [
+      "정치",
+      "경제",
+      "교육",
+      "조직"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-02",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 2,
+    "question": "<보기>에서 설명하는 스포츠의 사회적 기능으로 적절한 것은? <보기> . 2002년 한일월드컵에서 한국축구대표팀은 4강 신화를 만들었다. 이 과정에서 성별, 연령에 관계없이 많은 국민들이 길거리 응원에 참가하며 국가에 대한 애착심과 소속감을 되새겼다.",
+    "choices": [
+      "사회통합",
+      "사회통제",
+      "신체소외",
+      "사회차별"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-03",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 3,
+    "question": "현대 스포츠의 발전에 영향을 미친 요소에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "산업의 고도화:스포츠용품의 대량 생산체계가 갖춰지고 용구가 표준화되었다.",
+      "인구의 저밀도화:쾌적한 생활환경으로 인해 스포츠 참가가 증가하였다.",
+      "교통의 발달:수송체계가 원활해지면서 다양한 스포츠 행사가 열릴 수 있게 되었다.",
+      "통신의 발달:정보 유통이 원활해져 스포츠저널리즘이 발달하게 되었다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-04",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 4,
+    "question": "스포츠로의 사회화(socialization into sport) 요인 중 <보기>의 설명에 해당하는 것은? <보기> . 여성의 신체노출을 금기시 하는 일부 중동국가의 문화는 여성의 스포츠 참가를 불가능하게 하며 스포츠 경기 관람조차 허용하지 않고 있다.",
+    "choices": [
+      "개인적 특성",
+      "사회적 상황",
+      "스포츠 개입",
+      "스포츠 사회화 주관자"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-05",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 5,
+    "question": "신자유주의 시대의 스포츠 세계화에 대한 특징으로 적절하지 않은 것은?",
+    "choices": [
+      "프로스포츠의 이윤 극대화에 기여하였다.",
+      "스포츠 시장의 경계가 국경을 초월해 전 세계로 확대되었다.",
+      "세계인들에게 표준화된 스포츠 상품을 소비하도록 만들었다.",
+      "각 나라의 전통스포츠가 전 세계로 보급되어 새로운"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-06",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 6,
+    "question": "스포츠정책과 정치에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "국가는 스포츠정책을 통해 스포츠에 개입한다.",
+      "냉전시대 국가의 국제스포츠정책은 스포츠를 통한 상업주의 팽창에 초점이 맞춰졌다.",
+      "스포츠는 상징, 동일화, 조작의 과정을 통해 정치적 기능이 극대화된다.",
+      "정부는 의료비 지출을 줄이고 산업생산력을 향상시키기 위해 스포츠에 관여한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-07",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 7,
+    "question": "<보기>에서 설명하는 스포츠일탈에 관한 스포츠사회학 이론은? <보기> . 일탈은 현존하는 사회질서의 유지에 기여한다는 점에서 정상적인 것으로 간주된다. 예를 들어, 도핑은 그 자체로는 일탈행위에 해당되지만, 이를 통해 사람들은 그런 행동을 경멸하게 되고 이에 대한 경각심을 갖게 된다.",
+    "choices": [
+      "구조기능이론",
+      "갈등이론",
+      "차별교제이론",
+      "낙인이론"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-08",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 8,
+    "question": "스포츠의 상업화에 따른 변화 중 <보기>의 사례에 해당하는 것은? <보기> . 2013년 미국프로야구 LA 다저스와 신시내티 레즈의 경기에서 한국의 류현진 선수와 추신수 선수 간의 맞대결이 펼쳐지자 미국프로야구 사무국은 이 날을 코리안 데이로 지정하고 한국의 걸그룹 소녀시대를 초청하여 애국가를 제창하게 하였다. 이 외에도 미국프로야구 사무국은 각종 의전행사 및 경품행사를 개최하여 언론의 반응에 촉각을 곤두세웠다.",
+    "choices": [
+      "스포츠 기술의 변화",
+      "스포츠 규칙의 변화",
+      "스포츠 조직의 변화",
+      "선수, 코치의 경기 성향 변화"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-09",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 9,
+    "question": "프로스포츠에서 시행되는 제도와 특징이 바르게 연결된 것은?",
+    "choices": [
+      "보류조항(reserve clause)－일정 기간 선수들의 자유로운 계약과 이적을 막아 선수단 운영비를 줄이기 위한 목적으로 도입되었다.",
+      "최저연봉제(minimum salary)－신인선수의 연봉협상력을 줄여 선수단 운영경비를 줄이기 위한 목적으로 도입되었다.",
+      "샐러리 캡(salary cap)－선수 개인에게 지불할 수 있는 최대 연봉 상한선으로, 선수 간 연봉격차를 줄이기 위한 목적으로 도입되었다.",
+      "트레이드(trade)－선수가 새로운 팀으로 이적하기 위해 구단에 요구할 수 있는 권리로, 구단은 특별한 사유가 없는 한 선수의 요구에 응해야 한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-10",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 10,
+    "question": "<보기>에서 설명하는 디 플로어(M. De Fleur)의 미디어 이론은? <보기> . ∙미디어의 영향력과 스포츠의 소비 형태는 연령, 성, 사회계층, 교육수준, 결혼여부 등에 따라 달라질 수 있다. ∙미디어의 영향력이 서로 다른 하위집단의 구성원에게 획일적으로 미치지 않을 수 있다.",
+    "choices": [
+      "개인차 이론(Individual differences theory)",
+      "사회범주 이론(Social categories theory)",
+      "사회관계 이론(Social relationships theory)",
+      "문화규범 이론(Cultural norms theory)"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-11",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 11,
+    "question": "스포츠와 계급･계층에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "부르디외(P. Bourdieu)의 계급론에 따르면, 골프는 상류계급의",
+      "베블렌(T. Veblen)의 계급론에 따르면, 상류계급이 스포츠에 참가하는 이유는 자신의 지위를 과시하기 위해서이다.",
+      "마르크스(C. Marx)의 계급론에 따르면, 운동선수는 생산수단을 소유한 지배계급에 속한다.",
+      "베버(M. Weber)의 계층론에 따르면, 프로스포츠에서 감독과 선수의 사회계층 수준은 연봉액수만으로 평가되지 않는다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-12",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 12,
+    "question": "정치가 스포츠를 이용하는 방법 중 <보기>의 사례에 해당하는 것은? <보기> . 뛰어넘어 특정 집단을 대리 또는 대표하는 것으로 의미가 확장되는 과정을 일컫는다.",
+    "choices": [
+      "상징화",
+      "동일화",
+      "조작화",
+      "우민화"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-13",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 13,
+    "question": "코클리(J. Coakley)가 제시한 일탈적 과잉동조를 유발하는",
+    "choices": [
+      "몰입규범－운동선수는 경기에 헌신해야 하며 이를 그들의 삶에서 우선순위에 두어야 한다.",
+      "구분짓기규범－운동선수는 다른 선수와 구별되기 위해 자신만의 경기 스타일을 만들어야 한다.",
+      "인내규범－운동선수는 위험을 받아들이고 고통 속에서도 경기에 참여해야 한다.",
+      "도전규범－운동선수는 스포츠에서 성공을 위해 장애물을 극복하고 역경을 헤쳐 나가는 노력을 해야 한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-14",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 14,
+    "question": "크로젯(T. Crosset)의 여성에 대한 남성선수의 폭력과 남성",
+    "choices": [
+      "지역사회는 남성 선수의 폭력에 대해 경외감을 갖지 못하도록 철저히 처벌한다.",
+      "여성 선수를 존경의 대상으로 삼고 함께 공동체성을 나누어야 할 대상으로 간주한다.",
+      "폭력이 남성다움을 확립하고 여성을 통제하는데 효과적인 전략이라는 믿음이 존재한다.",
+      "폭력이 남성의 사회적 유대를 강화하고 자만심에 사로잡히지 않도록 분위기를 조성한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-15",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 15,
+    "question": "<보기>에서 설명하고 있는 레오나르드(W.LeonardⅡ)의 <보기> . ∙A고교 농구 감독은 팀 훈련 과정에서 학생선수들의 운동 수행 능력을 향상시키기 위하여 상과 벌을 활용한다. ∙B선수는 다른 팀 선수가 독특한 타격 자세로 최다 안타상을 획득하자 그 선수의 타격자세를 관찰하여 자신만의 것으로 발전시켰다.",
+    "choices": [
+      "사회학습이론",
+      "역할이론",
+      "준거집단이론",
+      "근거이론"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-16",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 16,
+    "question": "우리나라 학원스포츠의 문화적 특성 중 <보기>의 설명에 해당하는 것은? <보기> . 학생선수들은 교실공간과 분리되어 합숙소와 운동장에서 주로 생활하며 그들만의 공동체 문화를 만들어 간다. 또한 그들만의 동질감을 바탕으로 끈끈한 인간관계를 맺지만, 일반학생들과는 이질화되고 있다.",
+    "choices": [
+      "승리지상주의 문화",
+      "군사주의 문화",
+      "섬 문화",
+      "신체소외 문화"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-17",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 17,
+    "question": "스포츠의 상업화에 따른 스포츠와 미디어의 관계에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "스포츠는 미디어의 주요 콘텐츠로 자리 잡을 때 경제적 가치를 인정받을 수 있다.",
+      "뉴미디어의 등장으로 스포츠 콘텐츠의 생산자와 수용자의 경계가 모호해 지고 있다.",
+      "스포츠가 미디어에 의존할수록 미디어의 스포츠에 대한 통제력은 감소한다.",
+      "미디어는 상업적 가치를 증가시키기 위해 스포츠 규칙의 변화를 요구한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-18",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 18,
+    "question": "스포츠 세계화와 민족주의의 관계에 대한 설명으로 적절한 것은?",
+    "choices": [
+      "냉전 시대에 스포츠 세계화는 민족주의를 약화시켰다.",
+      "민족주의는 국가 간 갈등의 원인이 되어 스포츠 세계화의 걸림돌로 작용해 왔다.",
+      "제국주의 시대에 스포츠 세계화는 식민국가의 민족주의를 약화시키는 결과를 초래하였다.",
+      "스포츠에 내재된 민족주의적 속성은 다국적 기업의 세계화 전략에 중요한 자원으로 활용되고 있다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-19",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 19,
+    "question": "스포츠사회학의 정의에 대한 설명으로 적절하지 않은것은?",
+    "choices": [
+      "스포츠의 맥락에서 인간의 사회행동 법칙을 규명한다.",
+      "스포츠 현상을 일반 사회구조의 측면에서 설명한다.",
+      "사회학의 하위분야로 스포츠 현상에 사회학적 개념을 적용한다.",
+      "선수 개인의 행동과 관련된 인간 내면의 특성 및 과정을 설명한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  },
+  {
+    "id": "2019-sports-sociology-a-20",
+    "subjectId": "sports-sociology",
+    "year": 2019,
+    "number": 20,
+    "question": "스포츠와 계층이동 유형에 대한 설명으로 적절한 것은?",
+    "choices": [
+      "수직이동은 한팀의 선수가 다른 팀으로 같은 대우를 받고 이적하는 경우를 말한다.",
+      "개인이동은 소속 집단이 특정 계기를 통하여 집합적으로 이동하는 것을 말한다.",
+      "수평이동은 팀의 2군에 소속되어 있던 선수가 1군으로 승격하여 이동하는 경우를 말한다.",
+      "세대 간 수직 이동은 운동선수가 부모보다 더 많은 수입과 명예를 얻게 되는 경우를 말한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-a"
+    ],
+    "sourceRef": "2019-senior-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:03Z",
+    "updatedAt": "2026-04-20T04:59:03Z"
+  }
+]

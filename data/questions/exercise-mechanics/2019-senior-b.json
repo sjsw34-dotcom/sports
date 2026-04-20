@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2019-exercise-mechanics-b-01",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 1,
+    "question": "파워(power)에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "단위 시간 당 수행한 일(work)의 양이다.",
+      "일의 빠르기를 나타내는 물리량이다.",
+      "단위는 watt 혹은 Joule/s이다",
+      "단위는 에너지의 단위와 같다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-02",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 2,
+    "question": "공의 포물선 운동에 대한 설명으로 옳지 않은 것은? (단, 공기저항은 무시함)",
+    "choices": [
+      "공의 속력은 항상 일정하다.",
+      "공의 수평가속도는 0m/s2이다.",
+      "공의 수직가속도는 중력가속도와 같다.",
+      "공의 투사각도는 투사거리에 영향을 미친다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-03",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 3,
+    "question": "해부학적 방향을 나타내는 용어와 의미가 바르게 묶이지 않은 것은?",
+    "choices": [
+      "앞쪽(anterior,전)－인체의 정면 쪽",
+      "아래쪽(inferior,하)－머리로부터 먼 쪽",
+      "안쪽(medial,내측)－인체의 중심 쪽",
+      "얕은(superficial,표층)－인체의 안쪽"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-04",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 4,
+    "question": "트램펄린 위에서 점프 동작을 할 때 신체의 위치에너지에 대한 설명으로 옳은 것은? (단, 공기 저항은 무시함)",
+    "choices": [
+      "위치에너지는 신체의 점프 높이에 상관없이 일정하다.",
+      "위치에너지는 신체가 트램펄린에 닿을 때 최대가 된다.",
+      "위치에너지는 신체가 트램펄린에 근접할 때 최대가 된다.",
+      "위치에너지는 신체가 수직으로 가장 높이 올라갔을 때 최대가 된다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-05",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 5,
+    "question": "인체의 좌우축을 중심으로 전후면(시상면)에서 발생하는 관절운동이 아닌 것은?",
+    "choices": [
+      "굽힘(flexion,굴곡)",
+      "폄(extension,신전)",
+      "벌림(abduction,외전)",
+      "발바닥굽힘(plantar flexion,저측굴곡) 면"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-06",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 6,
+    "question": "<그림>에서 카누선수가 보트 위에서 오른손으로 패들의 끝을 잡고, 왼손으로 패들을 잡고 당기는 순간에 적용되는 지레는?",
+    "choices": [
+      "1종 지레",
+      "2종 지레",
+      "3종 지레",
+      "1종과 2종 지레의 혼합"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-07",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 7,
+    "question": "정역학(statics)의 범주에 해당하지 않은 것은?",
+    "choices": [
+      "물체에 작용하는 모든 힘이 평형을 이루고 있고 회전이 발생하지 않을 때",
+      "물체가 일정한 속도로 움직일 때",
+      "물체가 정지하고 있을 때",
+      "물체가 가속할 때"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-08",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 8,
+    "question": "운동의 종류에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "철봉 대차돌기는 복합운동 형태이다.",
+      "각운동은 중심선(점) 주위를 회전하는 운동이다.",
+      "선운동(병진운동)에는 직선운동과 곡선운동이 있다.",
+      "대부분의 인간 움직임은 각운동과 선운동 요소가 결합 되어 나타난다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-09",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 9,
+    "question": "‘마찰’에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "마찰력은 저항력 또는 추진력으로 작용할 수 있다.",
+      "마찰계수는 접촉면의 형태와 성분에 따라 달라진다.",
+      "마찰력의 크기는 접촉면에 가한 수직 힘의 크기에 비례한다.",
+      "마찰력은 접촉면과 평행하게 작용하며 물체의 운동 방향으로 작용한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-10",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 10,
+    "question": "물체에 힘을 가할 때 충격량(impulse)의 크기가 다른 것은?",
+    "choices": [
+      "한 사람이 2초 동안 30N의 일정한 힘을 발생시켰을 때",
+      "한 사람이 3초 동안 20N의 일정한 힘을 발생시켰을 때",
+      "한 사람이 4초 동안 15N의 일정한 힘을 발생시켰을 때",
+      "한 사람이 2초 동안 40N의 일정한 힘을 발생시켰을 때"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-11",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 11,
+    "question": "인체의 무게중심에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "무게중심의 위치는 안정성에 영향을 줄 수 있다.",
+      "무게중심은 회전력의 합이 ‘0’인 지점이다.",
+      "무게중심은 인체 외부에 위치할 수 있다.",
+      "무게중심의 위치는 변하지 않는다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-12",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 12,
+    "question": "다이빙 공중 동작을 할 때 신체의 좌우축에 대한 회전속도(각속도)의 크기가 가장 큰 동작으로 적절한 것은? (단, 각운동량(angular momentum)은 같음)",
+    "choices": [
+      "두 팔과 두 다리 모두 편 자세를 취할 때",
+      "두 팔과 두 다리를 동시에 몸통 쪽으로 모으는 자세를 취할 때",
+      "두 다리는 편 상태에서 두 팔만 몸통 쪽으로 모으는 자세를 취할 때",
+      "두 팔은 편 상태에서 두 다리만 몸통 쪽으로 모으는 자세를 취할 때"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-13",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 13,
+    "question": "걷기 동작에서 측정되는 지면반력(ground reaction force)에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "지면반력기로 측정할 수 있다.",
+      "발이 지면에 가하는 근력을 측정한 값이다.",
+      "지면이 신체에 가하는 반력을 측정한 값이다.",
+      "뉴턴의 작용-반작용 법칙으로 설명할 수 있다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-14",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 14,
+    "question": "근전도(electromyography:EMG) 검사와 평가에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "근수축과 관련된 전기적 신호를 측정하는 것이다.",
+      "근전도 검사를 통해 신체 분절의 위치를 측정할 수 있다.",
+      "근전도 검사에 사용되는 전극은 표면전극과 삽입전극으로 구분된다.",
+      "근전도 신호의 분석을 통해 근 피로에 대한 정보를 일부 추정할 수 있다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-15",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 15,
+    "question": "<보기>의 ㉠, ㉡에 알맞은 내용으로 바르게 나열된 것은? <보기> . 신장성 수축(eccentric contraction)은 근육군에 의해 발휘되는 힘 모멘트가 외력에 의한 저항 모멘트보다 ( ㉠ ), 근육이 ( ㉡ ) 발생하는 수축형태이다. ㉠ ㉡",
+    "choices": [
+      "작아서 길어지며",
+      "작아서 짧아지며",
+      "커서 길어지며",
+      "커서 짧아지며 면"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-16",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 16,
+    "question": "달리기 동작의 2차원 영상분석에 대한 설명으로 옳은 것은?",
+    "choices": [
+      "지면반력기를 사용한다.",
+      "반드시 2대의 카메라가 필요하다.",
+      "2차원 상의 평면 운동을 분석하는 것이다.",
+      "움직임의 원인이 되는 힘을 직접 측정하는 방법이다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-17",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 17,
+    "question": "운동역학 연구의 주된 목적이 아닌 것은?",
+    "choices": [
+      "운동기술의 향상",
+      "운동 용기구의 개발 및 평가",
+      "멘탈 및 인지 강화 프로그램의 구성",
+      "운동수행 안전성의 향상 및 손상의 예방"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-18",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 18,
+    "question": "골프 수행에 관한 변인 중 벡터(vector)에 해당하는 것은?",
+    "choices": [
+      "골프공의 속력(speed)",
+      "골프공의 비거리(distance)",
+      "골프클럽의 가속도(acceleration)",
+      "골프공의 위치에너지(potential energy)"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-19",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 19,
+    "question": "800N 바벨을 정지상태에서 위로 올린 후 다시 정지시키는 벤치프레스 동작에서 바벨에 가한 시간－수직 힘크기 그래프로 가장 옳은 것은?",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  },
+  {
+    "id": "2019-exercise-mechanics-b-20",
+    "subjectId": "exercise-mechanics",
+    "year": 2019,
+    "number": 20,
+    "question": "400m 트랙 한 바퀴를 50초에 달린 육상선수의 평균속력과 평균 속도로 적절한 것은? (단, 출발점과 도착점의 위치가 같음) 평균속력(m/s) 평균속도(m/s)",
+    "choices": [
+      "0 8",
+      "0 0",
+      "8 0",
+      "8 8"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-senior-b"
+    ],
+    "sourceRef": "2019-senior-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:59:39Z",
+    "updatedAt": "2026-04-20T04:59:39Z"
+  }
+]
