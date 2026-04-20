@@ -1,1 +1,68 @@
-[]
+[
+  {
+    "id": "life-2",
+    "name": "생활스포츠지도사 2급",
+    "level": "2급",
+    "type": "life",
+    "requiredSubjects": [],
+    "optionalSubjects": [
+      "sports-education",
+      "sports-sociology",
+      "sports-psychology",
+      "exercise-physiology",
+      "exercise-mechanics",
+      "korean-pe-history",
+      "sports-ethics"
+    ],
+    "examConfig": {
+      "totalSubjects": 5,
+      "questionsPerSubject": 20,
+      "timeLimit": 100,
+      "passingScore": 40
+    }
+  },
+  {
+    "id": "youth",
+    "name": "유소년스포츠지도사",
+    "level": "2급",
+    "type": "youth",
+    "requiredSubjects": ["youth-pe"],
+    "optionalSubjects": [
+      "sports-education",
+      "sports-sociology",
+      "sports-psychology",
+      "exercise-physiology",
+      "exercise-mechanics",
+      "korean-pe-history",
+      "sports-ethics"
+    ],
+    "examConfig": {
+      "totalSubjects": 5,
+      "questionsPerSubject": 20,
+      "timeLimit": 100,
+      "passingScore": 40
+    }
+  },
+  {
+    "id": "senior",
+    "name": "노인스포츠지도사",
+    "level": "2급",
+    "type": "senior",
+    "requiredSubjects": ["senior-pe"],
+    "optionalSubjects": [
+      "sports-education",
+      "sports-sociology",
+      "sports-psychology",
+      "exercise-physiology",
+      "exercise-mechanics",
+      "korean-pe-history",
+      "sports-ethics"
+    ],
+    "examConfig": {
+      "totalSubjects": 5,
+      "questionsPerSubject": 20,
+      "timeLimit": 100,
+      "passingScore": 40
+    }
+  }
+]

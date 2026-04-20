@@ -1,1 +1,124 @@
-[]
+[
+  {
+    "id": "sports-education",
+    "name": "스포츠교육학",
+    "shortName": "교육",
+    "nameEn": "Sports Pedagogy",
+    "description": "스포츠 지도의 철학, 교수·학습 이론, 수업 모형과 평가를 다루는 학문",
+    "icon": "📘",
+    "color": "#3B82F6",
+    "requiredFor": [
+      { "certId": "life-2", "type": "optional" },
+      { "certId": "youth", "type": "optional" },
+      { "certId": "senior", "type": "optional" }
+    ]
+  },
+  {
+    "id": "sports-sociology",
+    "name": "스포츠사회학",
+    "shortName": "사회",
+    "nameEn": "Sociology of Sport",
+    "description": "스포츠와 사회 구조, 계층, 문화, 미디어, 일탈의 상호작용을 분석",
+    "icon": "🏛️",
+    "color": "#10B981",
+    "requiredFor": [
+      { "certId": "life-2", "type": "optional" },
+      { "certId": "youth", "type": "optional" },
+      { "certId": "senior", "type": "optional" }
+    ]
+  },
+  {
+    "id": "sports-psychology",
+    "name": "스포츠심리학",
+    "shortName": "심리",
+    "nameEn": "Sports Psychology",
+    "description": "운동학습·제어·발달, 불안·동기·집단 등 스포츠 상황의 심리 요인",
+    "icon": "🧠",
+    "color": "#8B5CF6",
+    "requiredFor": [
+      { "certId": "life-2", "type": "optional" },
+      { "certId": "youth", "type": "optional" },
+      { "certId": "senior", "type": "optional" }
+    ]
+  },
+  {
+    "id": "exercise-physiology",
+    "name": "운동생리학",
+    "shortName": "생리",
+    "nameEn": "Exercise Physiology",
+    "description": "운동 시 인체의 에너지 대사, 심폐 기능, 근·골격계 반응과 적응",
+    "icon": "❤️",
+    "color": "#EF4444",
+    "requiredFor": [
+      { "certId": "life-2", "type": "optional" },
+      { "certId": "youth", "type": "optional" },
+      { "certId": "senior", "type": "optional" }
+    ]
+  },
+  {
+    "id": "exercise-mechanics",
+    "name": "운동역학",
+    "shortName": "역학",
+    "nameEn": "Biomechanics",
+    "description": "운동 수행의 물리적 원리. 힘, 운동량, 회전, 유체 저항 등을 분석",
+    "icon": "⚙️",
+    "color": "#F97316",
+    "requiredFor": [
+      { "certId": "life-2", "type": "optional" },
+      { "certId": "youth", "type": "optional" },
+      { "certId": "senior", "type": "optional" }
+    ]
+  },
+  {
+    "id": "korean-pe-history",
+    "name": "한국체육사",
+    "shortName": "체육사",
+    "nameEn": "History of Korean Physical Education",
+    "description": "선사시대부터 현대까지 한국 체육·스포츠의 제도와 변천",
+    "icon": "📜",
+    "color": "#D97706",
+    "requiredFor": [
+      { "certId": "life-2", "type": "optional" },
+      { "certId": "youth", "type": "optional" },
+      { "certId": "senior", "type": "optional" }
+    ]
+  },
+  {
+    "id": "sports-ethics",
+    "name": "스포츠윤리",
+    "shortName": "윤리",
+    "nameEn": "Sports Ethics",
+    "description": "스포츠 상황의 도덕 판단, 공정성, 도핑, 폭력, 인권 문제",
+    "icon": "⚖️",
+    "color": "#06B6D4",
+    "requiredFor": [
+      { "certId": "life-2", "type": "optional" },
+      { "certId": "youth", "type": "optional" },
+      { "certId": "senior", "type": "optional" }
+    ]
+  },
+  {
+    "id": "youth-pe",
+    "name": "유아체육론",
+    "shortName": "유아",
+    "nameEn": "Youth Physical Education",
+    "description": "유아 발달 특성과 신체활동 지도 원리, 프로그램 설계",
+    "icon": "🧒",
+    "color": "#F59E0B",
+    "requiredFor": [
+      { "certId": "youth", "type": "required" }
+    ]
+  },
+  {
+    "id": "senior-pe",
+    "name": "노인체육론",
+    "shortName": "노인",
+    "nameEn": "Senior Physical Education",
+    "description": "노화에 따른 신체·심리 변화와 노인 대상 운동 지도의 원리",
+    "icon": "🧓",
+    "color": "#14B8A6",
+    "requiredFor": [
+      { "certId": "senior", "type": "required" }
+    ]
+  }
+]

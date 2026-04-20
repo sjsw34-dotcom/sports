@@ -4,13 +4,26 @@
 
 ```
 data/
-├── subjects.json          # 과목 메타데이터 배열
-├── certifications.json    # 자격증 정의 배열
-├── concepts.json          # 전체 개념 사전 배열
+├── subjects.json              # 과목 메타데이터 배열
+├── certifications.json        # 자격증 정의 배열
+├── concepts.json              # 전체 개념 사전 배열
 └── questions/
     └── {subject-id}/
-        └── {year}.json    # 연도별 문제 배열
+        ├── {year}.json        # 과년도 기출 (source: "past-exam")
+        ├── {year}-practice.json   # 연습문제 (source: "practice")
+        └── {year}-predicted.json  # 예상문제 (source: "predicted")
 ```
+
+### 1.1 파일명 규칙
+- `{year}.json` (suffix 없음): 해당 연도 공식 기출만 수록. 모든 항목이 `source: "past-exam"`.
+- `{year}-practice.json`: 해당 연도 출제기준을 바탕으로 만든 연습문제. `source: "practice"`.
+- `{year}-predicted.json`: 출제 가능성이 높은 예상문제. `source: "predicted"`.
+- 한 파일 안의 모든 문제는 동일한 `source`를 가진다.
+
+### 1.2 ID 규칙
+- 과년도 기출: `{year}-{subjectId}-{number}` 예) `2024-sports-psychology-15`
+- 연습문제: `{year}-{subjectId}-p{NN}` 예) `2024-sports-psychology-p01`
+- 예상문제: `{year}-{subjectId}-e{NN}` 예) `2024-sports-psychology-e01`
 
 ## 2. TypeScript 타입 정의
 
@@ -214,8 +227,9 @@ export interface Certification {
 - `choices.length === 4`
 - `0 <= answer <= 3`
 - `conceptIds` 내 모든 ID가 `concepts.json`에 존재
-- 해설 안 `{{concept:xxx}}` 태그의 모든 xxx가 `concepts.json`에 존재
-- `id` 형식: `{year}-{subjectId}-{number}`
+- 해설(`explanation`, `enhancedExplanation`) 안 `{{concept:xxx}}` 태그의 모든 xxx가 `concepts.json`에 존재
+- `id` 형식: §1.2 참조. source에 맞는 패턴 준수
+- 파일 내 모든 문제의 `source`가 일치해야 함
 
 ### 4.2 Concept
 - `id` 형식: kebab-case
