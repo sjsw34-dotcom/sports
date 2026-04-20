@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { BookOpen, Network, FileText } from "lucide-react";
+import { BookOpen, Network, FileText, Shuffle } from "lucide-react";
 import { Card, CardContent } from "@/components/ui/card";
 import {
   loadSubjects,
@@ -24,7 +24,13 @@ const QUICK_LINKS = [
     href: "/years" as const,
     icon: FileText,
     label: "연도별 기출",
-    description: "실제 시험 형식 (Phase 3)",
+    description: "실제 시험 형식, 타이머는 선택",
+  },
+  {
+    href: "/mock" as const,
+    icon: Shuffle,
+    label: "랜덤 모의고사",
+    description: "과목·문항 수 커스텀 모의고사",
   },
 ];
 

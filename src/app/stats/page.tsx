@@ -1,10 +1,30 @@
+import {
+  loadAllQuestions,
+  loadConcepts,
+  loadSubjects,
+} from "@/lib/data-loader";
+import { StatsDashboard } from "@/components/stats-dashboard";
+import type { Concept, Subject } from "@/lib/types";
+
 export default function StatsIndexPage() {
+  const questions = loadAllQuestions();
+  const subjects = loadSubjects();
+  const concepts = loadConcepts();
+
+  const subjectsById: Record<string, Subject> = Object.fromEntries(
+    subjects.map((s) => [s.id, s])
+  );
+  const conceptsById: Record<string, Concept> = Object.fromEntries(
+    concepts.map((c) => [c.id, c])
+  );
+  const questionsById: Record<string, (typeof questions)[number]> =
+    Object.fromEntries(questions.map((q) => [q.id, q]));
+
   return (
-    <section className="px-6 py-10">
-      <h1 className="text-xl font-semibold">학습 통계</h1>
-      <p className="mt-2 text-sm text-muted-foreground">
-        Phase 4에서 정답률·진도 대시보드가 추가됩니다.
-      </p>
-    </section>
+    <StatsDashboard
+      subjectsById={subjectsById}
+      conceptsById={conceptsById}
+      questionsById={questionsById}
+    />
   );
 }

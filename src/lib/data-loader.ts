@@ -65,3 +65,37 @@ export function getConceptById(id: string): Concept | undefined {
 export function getQuestionsByConcept(conceptId: string): Question[] {
   return loadAllQuestions().filter((q) => q.conceptIds.includes(conceptId));
 }
+
+export interface ExamSetSummary {
+  year: number;
+  subjectId: SubjectId;
+  count: number;
+}
+
+/** 연도 × 과목 조합별 문제 수 (연도별 기출 모드용) */
+export function loadExamSets(): ExamSetSummary[] {
+  const all = loadAllQuestions();
+  const map = new Map<string, ExamSetSummary>();
+  for (const q of all) {
+    const key = `${q.year}-${q.subjectId}`;
+    const cur = map.get(key);
+    if (cur) {
+      cur.count += 1;
+    } else {
+      map.set(key, { year: q.year, subjectId: q.subjectId, count: 1 });
+    }
+  }
+  return Array.from(map.values()).sort(
+    (a, b) => b.year - a.year || a.subjectId.localeCompare(b.subjectId)
+  );
+}
+
+/** 특정 연도·과목 문제만 (번호 오름차순) */
+export function loadQuestionsForYear(
+  subjectId: SubjectId,
+  year: number
+): Question[] {
+  return loadQuestionsForSubject(subjectId)
+    .filter((q) => q.year === year)
+    .sort((a, b) => a.number - b.number);
+}

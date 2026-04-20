@@ -3,26 +3,22 @@ import {
   loadConcepts,
   loadSubjects,
 } from "@/lib/data-loader";
-import { ReviewPanel } from "@/components/review-panel";
-import type { Concept, Subject } from "@/lib/types";
+import { MockExam } from "@/components/mock-exam";
+import type { Concept } from "@/lib/types";
 
-export default function ReviewIndexPage() {
+export default function MockExamPage() {
+  const subjects = loadSubjects();
   const questions = loadAllQuestions();
   const concepts = loadConcepts();
-  const subjects = loadSubjects();
-
   const conceptsById: Record<string, Concept> = Object.fromEntries(
     concepts.map((c) => [c.id, c])
   );
-  const subjectsById: Record<string, Subject> = Object.fromEntries(
-    subjects.map((s) => [s.id, s])
-  );
 
   return (
-    <ReviewPanel
+    <MockExam
+      subjects={subjects}
       questions={questions}
       conceptsById={conceptsById}
-      subjectsById={subjectsById}
     />
   );
 }

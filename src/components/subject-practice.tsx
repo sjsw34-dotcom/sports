@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { QuestionCard } from "@/components/question-card";
 import { ExplanationPanel } from "@/components/explanation-panel";
+import { recordAttempt } from "@/lib/db-hooks";
 import type { Concept, Question, Subject } from "@/lib/types";
 
 type Props = {
@@ -56,9 +57,14 @@ export function SubjectPractice({ subject, questions, conceptsById }: Props) {
 
   function handleChoose(index: number): void {
     if (!current) return;
-    setAnswers((prev) =>
-      prev[current.id] !== undefined ? prev : { ...prev, [current.id]: index }
-    );
+    if (answers[current.id] !== undefined) return;
+    setAnswers((prev) => ({ ...prev, [current.id]: index }));
+    void recordAttempt({
+      questionId: current.id,
+      subjectId: current.subjectId,
+      chosenAnswer: index,
+      isCorrect: index === current.answer,
+    });
   }
 
   function handlePrev(): void {

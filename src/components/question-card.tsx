@@ -1,9 +1,10 @@
 "use client";
 
-import { Check, X } from "lucide-react";
+import { Check, Star, X } from "lucide-react";
 import { Card, CardContent, CardHeader } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
 import { cn } from "@/lib/utils";
+import { toggleBookmark, useIsBookmarked } from "@/lib/db-hooks";
 import type { Question, QuestionSource, Difficulty } from "@/lib/types";
 
 type Props = {
@@ -26,6 +27,7 @@ const DIFF_LABEL: Record<Difficulty, string> = {
 
 export function QuestionCard({ question, chosen, onChoose }: Props) {
   const answered = chosen !== null;
+  const bookmarked = useIsBookmarked(question.id);
 
   return (
     <Card className="overflow-hidden">
@@ -40,6 +42,26 @@ export function QuestionCard({ question, chosen, onChoose }: Props) {
           <span className="ml-auto text-xs text-muted-foreground">
             #{question.number}
           </span>
+          <button
+            type="button"
+            onClick={() => {
+              void toggleBookmark(question.id);
+            }}
+            aria-pressed={bookmarked}
+            aria-label={bookmarked ? "북마크 해제" : "북마크"}
+            className={cn(
+              "flex h-8 w-8 flex-none items-center justify-center rounded-md transition-colors",
+              bookmarked
+                ? "text-amber-400 hover:bg-amber-400/10"
+                : "text-muted-foreground hover:bg-accent"
+            )}
+          >
+            <Star
+              className="h-5 w-5"
+              fill={bookmarked ? "currentColor" : "none"}
+              aria-hidden
+            />
+          </button>
         </div>
         <p className="text-[17px] font-medium leading-relaxed">
           {question.question}
