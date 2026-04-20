@@ -36,6 +36,11 @@ export type CertId =
   | "senior";      // 노인스포츠지도사
 
 export type Difficulty = "easy" | "mid" | "hard";
+
+export type QuestionSource =
+  | "past-exam"    // 과년도 기출
+  | "predicted"    // 예상문제 (출제기준 기반 생성)
+  | "practice";    // 연습문제 (개념 다지기용)
 ```
 
 ### 2.2 Subject
@@ -68,11 +73,14 @@ export interface Question {
   question: string;          // 문제 본문 (마크다운 가능)
   choices: string[];         // 4지선다. length === 4
   answer: number;            // 정답 인덱스 0~3
-  explanation: string;       // 해설 (마크다운 + {{concept:id}} 태그)
+  explanation: string;       // 기본 해설 (마크다운 + {{concept:id}} 태그)
+  enhancedExplanation?: string; // 심화 해설 (원리/맥락/유사 기출 비교 등)
   conceptIds: string[];      // 이 문제가 다루는 개념들의 id
+  source: QuestionSource;    // 출처 구분. "past-exam"이 기본
   difficulty?: Difficulty;
   tags?: string[];           // 자유 태그 ["고전역학", "뉴턴"]
-  sourcePdf?: string;        // 원본 PDF 파일명
+  sourcePdf?: string;        // 원본 PDF 파일명 (past-exam인 경우)
+  sourceRef?: string;        // 참고 출처 (predicted/practice인 경우, URL 또는 교재명)
   verified: boolean;         // 사람 검수 완료 여부
   createdAt: string;         // ISO 8601
   updatedAt: string;
