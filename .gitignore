@@ -53,3 +53,8 @@ coverage/
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
+
+.vercel
+
+# PDF 파싱 중간 산출물 (텍스트·임시 JSON)
+scripts/out/

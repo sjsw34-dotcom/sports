@@ -104,14 +104,10 @@ function readJson<T>(file: string): T {
 const KEBAB_RE = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 const CONCEPT_TAG_RE = /\{\{concept:([a-z0-9-]+)\}\}/g;
 const ID_PATTERNS: Record<QuestionSource, RegExp> = {
-  "past-exam": /^(\d{4})-([a-z-]+)-(\d{1,3})$/,
+  // past-exam: 과목 ID 뒤에 자격증/형 태그(소문자 알파벳·숫자)가 붙을 수 있음
+  "past-exam": /^(\d{4})-[a-z-]+?(?:-[a-z0-9]+)*-(\d{1,3})$/,
   practice: /^(\d{4})-([a-z-]+)-p(\d{2,3})$/,
   predicted: /^(\d{4})-([a-z-]+)-e(\d{2,3})$/,
-};
-const FILENAME_SOURCE: Record<string, QuestionSource> = {
-  "": "past-exam",
-  "-practice": "practice",
-  "-predicted": "predicted",
 };
 
 function collectConceptTags(markdown: string): string[] {
@@ -131,18 +127,20 @@ function validateQuestionFile(
 ): void {
   const rel = path.relative(ROOT, file);
   const basename = path.basename(file, ".json");
-  const match = basename.match(/^(\d{4})(-practice|-predicted)?$/);
+  // {year} | {year}-practice | {year}-predicted | {year}-{tag} (past-exam, tag 은 자격증/형 구분)
+  const match = basename.match(/^(\d{4})(?:-([a-z0-9-]+))?$/);
   if (!match) {
-    err(`[${rel}] 파일명 형식 오류. {year}.json | {year}-practice.json | {year}-predicted.json`);
+    err(`[${rel}] 파일명 형식 오류. {year}[-{tag}].json (tag: a-z 0-9 hyphens)`);
     return;
   }
   const fileYear = Number(match[1]);
   const suffix = match[2] ?? "";
-  const expectedSource = FILENAME_SOURCE[suffix];
-  if (!expectedSource) {
-    err(`[${rel}] 알 수 없는 파일명 접미사: ${suffix}`);
-    return;
-  }
+  const expectedSource: QuestionSource =
+    suffix === "practice"
+      ? "practice"
+      : suffix === "predicted"
+        ? "predicted"
+        : "past-exam";
 
   const questions = readJson<Question[]>(file);
   if (!Array.isArray(questions)) {

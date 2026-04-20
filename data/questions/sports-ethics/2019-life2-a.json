@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2019-sports-ethics-a-01",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 1,
+    "question": "스포츠윤리의 개념에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "윤리는 실천의 자율성을 중시한다.",
+      "도덕은 양심, 자율성 등 개인의 내면성 문제를 주로 다룬다.",
+      "절묘한 기술로서 ‘좋은 패스’는 도덕적 선(善)으로 해석된다.",
+      "스포츠맨십은 합규칙성을 넘는 적극적인 도덕적 마음가짐 이다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-02",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 2,
+    "question": "<보기>의 법 또는 헌장이 지향하고 있는 개념으로 가장 적절한 것은? <보기> . ∙모든 국민은 인간으로서 존엄과 가치를 가지며, 행복을 추구할 권리를 가진다(헌법 제10조). ∙어느 국가 또는 개인에 대해서도 인종･종교 또는 정치상의 이유로 차별대우해서는 안 된다(올림픽 헌장 6조). ∙학교의 장은 학생선수가 일정 수준의 학력기준에 도달하지 못한 경우에는 별도의 기초학력보장 프로그램을 운영하여 최저학력이 보장될 수 있도록 노력하여야 하며, 필요할 경우 경기대회 출전을 제한할 수 있다(학교체육진흥법 제11조).",
+    "choices": [
+      "스포츠와 평등",
+      "스포츠와 인권",
+      "스포츠와 환경",
+      "스포츠와 교육"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-03",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 3,
+    "question": "세계반도핑규약(WADC)에서 규정하고 있는 도핑 금지방법에 해당하지 않은 것은?",
+    "choices": [
+      "물리적 조작",
+      "화학적 조작",
+      "침술의 활용",
+      "유전자 도핑"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-04",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 4,
+    "question": "<보기>에서 지영이의 윤리적 입장에 대한 설명으로 적절하지 않은 것은? <보기> . 상화:스포츠윤리는 선수들이 규칙과 도덕적 원리만 따르면 확립될 수 있다고 생각해. 지영:아니야. 나는 스포츠윤리에서 중요한 것은 도덕적 원리가 아니라 행위자의 내면적 품성과 도덕적 행위의 실천이라고 생각해.",
+    "choices": [
+      "행위의 주체보다는 행위 자체에 초점을 맞추고 있다.",
+      "인간에게 내재되어 있는 감정을 도덕적 동기로 인정한다.",
+      "‘무엇을 해야 하는가’보다 ‘어떻게 살아야 하는가’가 중요하다.",
+      "인간 내면에 있는 도덕성의 근원과 개인의 인성을 중요시한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-05",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 5,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 심판의 덕목으로 바르게 묶인 것은? <보기> . ㉠ 심판은 선수의 이익을 동등하게 대우하는 엄격한 중립성을 가져야 하며, 개인적 감정을 배제해야 한다. ㉡ 심판은 한 번 내린 판정을 번복하기가 힘들기 때문에, 정확한 판정을 내릴 수 있는 오랜 경험과 훈련이 필요하다. ㉠ ㉡",
+    "choices": [
+      "공정성 자율성",
+      "공정성 전문성",
+      "전문성 자율성",
+      "개방성 전문성"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-06",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 6,
+    "question": "<보기>에서 (가)의 상황과 동일한 윤리적 입장으로 볼 수 있는 내용을 (나)에서 찾아 바르게 묶은 것은? <보기> . 블루팀과 레드팀의 농구경기는 종료까지 2분 남았다. 블루팀은 1점 차이로 뒤지고 있고, 팀 파울에 (가) 걸려 있다. 그때부터 블루팀은 의도적인 반칙을 통해, 시간 단축과 더불어 공격기회를 한 번이라도 더 얻기 위해 노력하였다. ㉠ 팀 승리 및 사기 진작을 위해서는 스포츠에서 용인될 수 있는 행동이다. ㉡ 상대에게 고의적으로 반칙을 하는 행동은 목적 자체가 그릇된 행동이다. (나) ㉢ 팀원뿐 아니라 팀을 위해 응원하는 관중에게 보답하고자 하는 행동이다. ㉣ 형식주의 관점에서 규칙을 위반했기 때문에 정당화될 수 없는 행동이다.",
+    "choices": [
+      "㉠, ㉢",
+      "㉠, ㉣",
+      "㉡, ㉢",
+      "㉡, ㉣"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-07",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 7,
+    "question": "<보기>에서 설명하는 롤스(J. Rawls)의 ‘정의의 원칙’으로 가장 적절한 것은? <보기> . 상대적으로 사회적 약자인 저소득층 자녀들에게 지역의 사설 스포츠 센터 무료 이용권, 건강운동 강좌 수강이 가능한 스포츠 바우처(voucher)를 제공하여 누구나 경제적 형편에 상관없이 공평하게 스포츠를 누릴 수 있도록 정책을 마련한다.",
+    "choices": [
+      "자유의 원칙",
+      "차등의 원칙",
+      "기회균등의 원칙",
+      "원초적 원칙 면"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-08",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 8,
+    "question": "<보기>의 상황과 관련된 학자와 이론이 바르게 연결된 것은? <보기> . 학생선수 A는 양심적으로 교칙을 준수하고, 다친 친구 대신 가방을 들어주는 등 도덕적 성품을 지니고 있다. 하지만 축구 경기에서는 상대 선수를 심판 모르게 공격하는 등 반칙을 하거나 상대 선수를 배려하지 않고 팀의 이익을 위해 행동하는 팀 분위기에 동화되고 있다.",
+    "choices": [
+      "베버(M. Weber)－책임윤리",
+      "요나스(H. Jonas)－책임윤리",
+      "니부어(R. Niebuhr)－사회윤리",
+      "나딩스(N. Noddings)－배려윤리"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-09",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 9,
+    "question": "<보기>에서 설명하는 스포츠에 대한 입장으로 적절한 사상가는? <보기> . 승리지상주의가 팽배하는 현대 스포츠 현장에서 승리의 추구보다 스포츠 자체를 즐길 수 있도록 자기 자신을 낮추고 겸양과 배려로 상대를 대할 때, 진정한 의미의 스포츠윤리가 발현될 수 있다. 이를 위해서는 스포츠에서 인위적 제도나 구속이 최소화되도록 해야 하며, 윤리적 행위가 스포츠 자체를 통해 자연스럽게 발현되도록 해야 한다.",
+    "choices": [
+      "공자(孔子)",
+      "맹자(孟子)",
+      "순자(荀子)",
+      "노자(老子)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-10",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 10,
+    "question": "<보기>의 (가)에 해당하는 윤리적 관점에서 제기할 수 있는 (나) 상황의 문제점으로 가장 적절한 것은? <보기> . 만약 한 존재가 고통이나 행복이나 즐거움을 느낄 수 없다면, 고려해야 할 것은 아무것도 없다. 이러한 (가) 것이 타자의 이익을 고려할 때, ‘쾌고감수능력’이라는 기준이 유일하게 옹호되는 이유이다. 경마(競馬)는 일정 거리를 말을 타고 달려 그 빠르기를 겨루는 경기이다. 이를 위해 말들은 자신의 (나) 의지와 무관하게 고통스러운 훈련을 받고 비좁은 축사에 갇혀 살아가게 된다.",
+    "choices": [
+      "동물도 이익에 맞는 동등한 대우를 받아야 한다.",
+      "모든 생명이 지니고 있는 고유한 가치를 존중해야 한다.",
+      "인간의 생존을 위해 동물을 더욱 효율적으로 사육해야 한다.",
+      "생태계 전체의 이익을 고려하여 그들의 정체성을 존중해야 한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-11",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 11,
+    "question": "<보기>는 레스트(J. Rest)의 도덕성 4구성요소 모형을 것으로 바르게 연결된 것은? <보기> . 1.도덕적 민감성(moral sensitivity):스포츠 상황에서 도덕적 딜레마를 지각하게 하는 것 2.도덕적 판단력(moral judgement):스포츠 상황에서 옳고 그름을 판단하게 하는 것 3.( ㉠ ):( ㉡ ) 4.도덕적 품성화(moral character):스포츠 상황에서 장애 요인을 극복하여 실천할 수 있는 강한 의지, 용기, 인내 등의 품성을 갖게 하는 것 ㉠ ㉡ 도덕적 추론화 상대 선수와 팀을 존중하게 하는 것",
+    "choices": [
+      "(moral reasoning) 도덕적 동기화 상대 선수의 의도적 반칙에 반응하게",
+      "(moral motivation) 하는 것 도덕적 추론화 감독의 부당한 지시를 도덕적 문제",
+      "(moral reasoning) 상황으로 감지하게 하는 것 도덕적 동기화 다른 가치보다 정정당당하게 경기하는",
+      "(moral motivation) 것에 가치를 두게 하는 것"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-12",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 12,
+    "question": "<보기>에서 A선수가 취한 윤리적 입장의 난점으로 가장 적절한 것은? <보기> . A선수는 마라톤 대회에 참가하여 2등으로 달리고 있던 중, 결승선 바로 앞에서 탈진하여 쓰러진 1등 선수를 발견하였다. A선수는 그 선수를 무시하고 1등을 차지할 수 있었지만, 쓰러진 선수를 돕는 것이 스포츠선수로서의 마땅한 행위라고 생각했다. 그래서 넘어진 선수를 부축하여 결승선까지 함께 도착하였으나 최종 성적은 순위권 밖으로 밀려났다.",
+    "choices": [
+      "인간 그 자체를 항상 목적으로 대해야 한다.",
+      "자연적인 경향성을 극복하고 의무를 따라야 한다.",
+      "보편적 입법의 원리가 될 수 있도록 행동해야 한다.",
+      "행위가 가져올 사회의 이익과 손해를 고려하여 행동해야 한다. 면"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-13",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 13,
+    "question": "스포츠에서 규제적 규칙(regulative rules)을 위반한 행위가 아닌 것은?",
+    "choices": [
+      "야구에서 배트에 철심을 넣어 보다 강력한 타격이 나오게 만드는 행위",
+      "태권도에서 전자호구를 조작하여 타격이 없더라도 점수를 높이는 행위",
+      "수영에서 화상자국을 은폐하기 위해 전신수영복을 입고 출전하는 행위",
+      "사이클에서 산소운반능력을 높이기 위하여 도핑을 하고 출전하는 행위"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-14",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 14,
+    "question": "페어플레이에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "선수 개인의 의도나 목적에 따라 변화하는 도덕적 행위이다.",
+      "규칙 준수, 상대 존중 등 근대적 시민의 도덕규범과 일치한다.",
+      "규칙의 준수로서 페어플레이는 행위에 대한 요구와 제재를 의미한다.",
+      "패자 앞에서 과도한 승리 세리모니를 하는 것은 규범으로서의 페어플레이를 위반한 것이다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-15",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 15,
+    "question": "<보기>의 대화 내용에서 나타나는 스포츠에서의 차별에 대한 설명으로 적절한 것은? <보기> . 아나운서:A선수의 파워와 스피드, 그리고 순발력 앞에서 아무도 버틸 수 없을 것 같네요. 해설위원:맞습니다. A선수는 흑인 특유의 탄력과 유연성뿐만 아니라 파워까지 겸비하고 있기에 지금까지 승승장구해 왔다고 할 수 있지요. 아나운서:위원님, 그렇다면 이번 대결에서 B선수는 어떤 방법으로 대처하는 것이 좋을까요? 해설위원:아무래도 B선수는 백인들의 장점이라 할 수 있는 냉철한 판단력을 바탕으로 A선수의 허점을 공략하는 것이 가장 좋을 것 같습니다. A선수는 신체능력이 우수한 반면에 심리적으로 약할 가능성이 큽니다. 아나운서:저도 그렇게 생각합니다. 신체능력을 극복하는 판단력과 의지, 그것이 백인의 우수성 아니겠습니까?",
+    "choices": [
+      "단일 민족에게는 해당되지 않는 문제이다.",
+      "여성 스포츠에서 성의 상품화는 문제가 될 수 있다.",
+      "여성의 스포츠 참여 제한은 차별에 해당하지 않는다.",
+      "피부색에 따른 정신적·신체적 능력의 차이는 절대적이지 않다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-16",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 16,
+    "question": "<보기>의 대화에서 스포츠와 환경윤리에 대한 견해가 다른 사람은? <보기> . 우준:우리 집 근처에 스키장이 생겼으면 좋겠어. 나는 스키가 좋은데, 스키장이 너무 멀어서 불편해. 경태:스키장 건설은 환경을 파괴하는 행위야. 그래서 나는 환경파괴가 없는 서핑이 좋더라. 관훈:서핑은 환경파괴가 없는 거야? 나는 잘 모르겠어. 그냥 나는 그런 것보다 동물과 함께하는 것이 좋아. 그래서 주말에 승마를 하러 가. 지영:나는 쾌적한 환경에서 운동하는 게 좋더라. 그래서 집 앞 센터에서 요가를 하고 있어. 나는 실내운동이 좋아.",
+    "choices": [
+      "우준",
+      "경태",
+      "관훈",
+      "지영"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-17",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 17,
+    "question": "<보기>의 대화에서 ㉠, ㉡에 들어갈 학교체육진흥법과 관련된 용어가 바르게 나열된 것은? <보기> . A:( ㉠ )가 도입되면서부터 운동할 시간이 줄어들었어. B:그것은 지금까지 우리가 ( ㉡ )을 보장 받지 못했기 때문이야. A:그래도 갑작스러운 ( ㉠ ) 도입은 형평성에 문제가 있어. 일반학생들은 공부하기 싫으면 안 해도 되지만, 우리는 시합 출전을 위해 어쩔 수 없이 해야 되는 제도잖아. B:그것도 틀린 말은 아니지만, ( ㉡ )은 우리가 정당하게 누려야 하는 권리이면서 의무이기도 해. 그것을 보장받기 위해 이런 제도가 도입된 거야. ㉠ ㉡",
+    "choices": [
+      "최저학력제 학습권",
+      "기초학력제 학습권",
+      "최저학력제 경기출전권",
+      "기초학력제 경기출전권"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-18",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 18,
+    "question": "관중폭력에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "선수나 심판에 대한 욕설이나 비방도 넓은 의미에서 관중폭력에 해당한다.",
+      "신체적 폭행이 아닌 경기 시설물을 파괴하는 행위도 관중폭력에 해당한다.",
+      "군중으로 있을 때보다 선수와 단둘이 있을 때, 상대적으로 발생하기 쉽다.",
+      "축구팬의 훌리거니즘(hooliganism)은 관중폭력의 실제 사례 중 하나이다. 면 ※ [19~20] <보기>는 고대 동양 사상가들의 윤리적 입장이다. 물음에 답하시오. <보기> . ㉠ 인(仁), 의(義), 효(孝), 우(友), 충(忠), 신(信), 관(寬), 서(恕), 공(恭), 경(敬)을 포함한 10가지 덕을 터득하여, 그 상황에서의 인식, 판단, 도덕적 행위를 선택할 수 있는 능력을 배양해야 한다. ㉡ 인(仁), 의(義), 예(禮), 지(智)가 도덕적 성향의 토대가 되면, 윤리적 사고가 필요한 상황에서 자연스럽게 실천적 행위가 가능하다. ㉢ 무릇 도(道)는 실재한다는 확실한 믿음이 있지만, 인위적인 행함이 없고, 그 형체도 없다. 마음으로 전할 수는 있으나, 형체가 있는 것처럼 주고받을 수는 없다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-19",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 19,
+    "question": "㉠과 ㉡의 입장에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "㉠:정도(正道)를 지키기 위해 정정당당하게 승부한다.",
+      "㉡:상선약수(上善若水)를 중심으로 한 스포츠맨십을 중요시한다.",
+      "㉠:선수 개인의 윤리와 함께 스포츠에서 제도의 중요성을 강조한다.",
+      "㉡:부상 당한 선수를 도와주는 것은 본능적인 행동이기에 권장한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  },
+  {
+    "id": "2019-sports-ethics-a-20",
+    "subjectId": "sports-ethics",
+    "year": 2019,
+    "number": 20,
+    "question": "㉢의 입장에서 ㉡에 대해 제기할 수 있는 반론으로 가장 적절한 것은?",
+    "choices": [
+      "지속적인 교육을 통해 넘어진 선수를 도와줄 수 있도록 만들어야 한다.",
+      "넘어진 선수를 도와줄 수 있도록 제도나 규정을 강화하여야 할 것이다.",
+      "넘어진 선수를 부축하는 것은 순자(荀子)의 주장에 위배 되는 행동이다.",
+      "남의 눈치 때문에 다른 사람을 부축하기보다 내면의 윤리성이 중요하다. 수고하셨습니다. 면"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-life2-a"
+    ],
+    "sourceRef": "2019-life2-a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:40:38Z",
+    "updatedAt": "2026-04-20T04:40:38Z"
+  }
+]
