@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2022-sports-education-a-01",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 1,
+    "question": "스포츠기본법(시행 2022.2.11.)의 용어 정의에 관한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "‘학교스포츠’란 건강과 체력 증진을 위하여 행하는 자발적이고 일상적인 스포츠 활동을 말한다.",
+      "‘스포츠산업’이란 스포츠와 관련된 재화와 서비스를 통하여 부가가치를 창출하는 산업을 말한다.",
+      "‘장애인스포츠’란 장애인이 참여하는 스포츠 활동(생활스포츠와 전문",
+      "‘전문스포츠’란 「국민체육진흥법」 제2조제4호에 따른 선수가 행하는 스포츠 활동을 말한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-02",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 2,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 취약계층 생활스포츠 지원사업이 바르게 연결된 것은? <보기> . ㉠스포츠복지 사회 구현의 일환으로 저소득층 유･청소년(만5세~18세) 과 장애인(만12세~23세)에게 스포츠강좌 혜택을 받을 수 있는 일 정 금액의 이용권을 제공하는 사업이다. ㉡소외계층 청소년을 대상으로 다양한 체육활동 참여기회를 제공함 으로써 참여 형평성을 높이고 사회 적응력을 배양하는 것을 목 적으로 시행되는 사업이다. ㉠ ㉡",
+    "choices": [
+      "여성체육활동 지원 국민체력100",
+      "국민체력100 스포츠강좌이용권 지원",
+      "스포츠강좌이용권 지원 행복나눔스포츠교실 운영",
+      "행복나눔스포츠교실 운영 여성체육활동 지원"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-03",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 3,
+    "question": "<보기>의 발달특성을 가진 대상을 위한 스포츠 프로그램 구성 시 고려사항으로 적절하지 않은 것은? <보기> . ∙신체적･정서적･사회적 발달이 뚜렷하다. ∙개인의 요구와 흥미가 뚜렷하게 나타난다. ∙2차 성징이 나타난다.",
+    "choices": [
+      "생활패턴 고려",
+      "개인의 요구와 흥미 고려",
+      "정적운동 위주의 프로그램 구성",
+      "스포츠 프로그램의 지속적 참여 고려 A형 2급 스포츠지"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-04",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 4,
+    "question": "<보기>에서 생활스포츠 프로그램의 교육목표 진술에 관한 설명으로 옳은 것만을 모두 고른 것은? <보기> . ㉠프로그램의 목표는 추상적으로 진술한다. ㉡학습 내용과 기대되는 행동을 동시에 진술한다. ㉢스포츠 참여자에게 기대하는 행동의 변화에 따라 동사를 다르게 진술한다. ㉣해당 스포츠 활동이 끝났을 때 참여자에게 나타난 최종 행동 변화 용어로 진술한다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉢, ㉣",
+      "㉠, ㉡, ㉢",
+      "㉡, ㉢, ㉣"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-05",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 5,
+    "question": "<보기>의 교수 전략을 포함하는 체육수업모형은? <보기> . ∙모든 팀원은 자신의 팀에 할당된 과제를 익힌 후, 교사가 되어 다른 팀에게 자신이 학습한 내용을 지도한다. ∙각 팀원들이 서로 다른 내용을 배운 다음, 동일한 내용을 배운 사람끼리 모여 전문가 집단을 구성한다. 이들은 자신이 배운 내용을 공유하며, 원래 자신의 집단으로 돌아가 배운 것을 다른 팀원들에게 지도한다.",
+    "choices": [
+      "직접 교수 모형",
+      "개별화 지도 모형",
+      "협동학습 모형",
+      "전술게임 모형"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-06",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 6,
+    "question": "메츨러(M. Metzler)의 교수･학습 과정안(수업계획안) 작성 시 고려해야 할 구성요소 중 <보기>의 설명과 관련 있는 것은? <보기> . ∙학생의 흥미를 유발시킬 수 있는 수업 도입 ∙과제 제시에 적합한 모형과 단서 사용 ∙학생에게 방향을 제시할 과제 구조 설명 ∙다양한 과제의 계열성과 진도(차시별)",
+    "choices": [
+      "학습 목표",
+      "수업 맥락의 간단한 기술",
+      "시간과 공간의 배정",
+      "과제 제시와 과제 구조"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-07",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 7,
+    "question": "<보기>에서 안전한 학습환경 유지에 관한 설명으로 옳은 것만을 모두 고른 것은? <보기> . ㉠위험한 상황이 예측되더라도 시작한 과제는 끝까지 수행한다. ㉡안전한 수업운영에 필요한 절차를 분명히 전달하고 상기시켜야 한다. ㉢사전에 안전 문제를 예측하고 교구･공간･학생 등을 학습에 도움이 되는 방향으로 배열 또는 배치한다. ㉣새로운 연습과제나 게임을 시작할 때 지도자는 학생들의 활동을 주시하고 적극적으로 감독한다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉡, ㉢",
+      "㉠, ㉢, ㉣",
+      "㉡, ㉢, ㉣"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-08",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 8,
+    "question": "헬리슨(D. Hellison)이 제시한 개인적･사회적 책임감 수준과 사례가 적절하지 않은 것은? 수준 사례 타인에 대해 상호 협력적이고 다른 학",
+    "choices": [
+      "타인의 권리와 감정 존중 생들을 돕고자 한다. 새로운 과제에 도전하며 노력하면",
+      "참여와 노력 성공할 수 있다고 여긴다. 지도자가 없는 상황에서도 자신이",
+      "자기 방향 설정 수립한 목표를 달성한다. 체육 수업을 통해 학습한 배려를 일상",
+      "일상생활로의 전이 생활에 실천한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-09",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 9,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 평가 방법을 바르게 연결한 것은? <보기> . ㉠수업 전 학습목표에 따른 참여자 수준을 결정하고, 학습과정에서 참여자가 계속적인 오류 상황을 발생시킬 때 적절한 의사결정을 하도록 한다. ㉡학생들에게 자신의 높이뛰기 목표와 운동계획을 수립하게 한 다음 육상 단원이 끝나는 시점에서 종합적 목표 달성여부 확인을 위해 평가를 실시한다. ㉠ ㉡ ㉠ ㉡",
+    "choices": [
+      "진단평가 형성평가",
+      "진단평가 총괄평가",
+      "형성평가 총괄평가",
+      "총괄평가 형성평가"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-10",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 10,
+    "question": "다음에 해당하는 평가기법에 대한 설명으로 옳지 않은 것은? 테니스 포핸드 스트로크 과정 운동수행 ∙두 발이 멈춘 상태에서 스트로크를 시도하는가? Y/N ∙몸통 회전을 충분히 활용하는가? Y/N ∙임팩트까지 시선을 공에 고정하는가? Y/N ∙팔로우스로우를 끝까지 유지하는가? Y/N",
+    "choices": [
+      "쉽게 제작이 가능하며 사용이 편리하다.",
+      "운동수행과정의 질적 평가가 불가하다.",
+      "어떤 사건이나 행동의 발생 여부를 신속히 확인할 때 주로 사용한다.",
+      "관찰행동을 구체적으로 정의하고 그 행동의 발생 시점을 확인할 수 있다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-11",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 11,
+    "question": "학교체육진흥법(시행 2021.6.24.)의 제10조에서 규정하고 있는 학교장의 역할에 관한 내용으로 옳지 않은 것은?",
+    "choices": [
+      "학생들이 신체활동 프로그램에 참여할 수 있도록 학교스포츠클럽을 운영하여 학생들의 체육활동 참여기회를 확대하여야 한다.",
+      "학교스포츠클럽을 운영하는 경우 전문코치를 지정하여야 한다.",
+      "학교스포츠클럽 활동 내용을 학교생활기록부에 기록하여 상급학교 진학자료로 활용할 수 있도록 하여야 한다.",
+      "교육부령으로 정하는 바에 따라 일정 비율 이상의 학교스포츠클럽 을 해당 학교의 여학생들이 선호하는 종목으로 운영하여야 한다. 2급 스포츠지"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-12",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 12,
+    "question": "다음 ㉠~㉤에서 체육시설법 시행규칙(시행 2021.7.1.) 제22조 ‘체육 지도자 배치기준’에 부합되는 것을 모두 고른 것은? 체육시설업의 종류 규모 배치인원 -슬로프 10면 이하 1명 이상 ㉠스키장업 -슬로프 10면 초과 2명 이상 -말 20마리 이하 1명 이상 ㉡승마장업 -말 20마리 초과 2명 이상 -수영조 바닥면적이 400㎡ 이하인 실내 수영장 1명 이상 ㉢수영장업 -수영조 바닥면적이 400㎡를 2명 이상 초과하는 실내 수영장 -20타석 이상 50타석 이하 1명 이상 ㉣골프연습장업 -50타석 초과 2명 이상 -운동전용면적 200㎡ 이하 1명 이상 ㉤체력단련장업 -운동전용면적 200㎡ 초과 2명 이상",
+    "choices": [
+      "㉠, ㉡, ㉢, ㉣",
+      "㉠, ㉡, ㉣, ㉤",
+      "㉠, ㉢, ㉣, ㉤",
+      "㉡, ㉢, ㉣, ㉤"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-13",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 13,
+    "question": "국민체육진흥법(시행 2021.6.9.)에서 규정하는 생활스포츠지도사 의 자격으로 옳지 않은 것은?",
+    "choices": [
+      "체육지도자의 자격은 19세 이상인 사람에게 부여한다.",
+      "생활스포츠지도사는 1급, 2급으로 구분한다.",
+      "2급 생활스포츠지도사는 2급 생활스포츠지도사 자격검정에 합격 하고, 연수과정을 이수한 사람으로 한다.",
+      "1급 생활스포츠지도사는 자격 종목의 2급 생활스포츠지도사 자격을 취득한 후 3년 이상 해당 자격 종목의 지도경력이 있는 사람으로 한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-14",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 14,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 단계가 바르게 연결된 것은? <보기> . 마튼스(R. Martens)가 제시한 전문체육 프로그램 개발 6단계는 ㉠ , 선수 이해, 상황 분석, 우선순위 결정 및 목표 설정, ㉡ , 연습계획 수립이다. ㉠ ㉡",
+    "choices": [
+      "스포츠에 대한 이해 공간적 맥락 고려",
+      "선수 발달 단계에 대한 이해 전술 선택",
+      "선수단(훈련) 규모 설정 체력상태의 이해",
+      "선수에게 필요한 기술 파악 지도 방법 선택"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-15",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 15,
+    "question": "㉠, ㉡에 해당하는 용어가 바르게 연결된 것은? 동료교수모형의 수업방식 ㉠ ㉡ ㉠ ㉡",
+    "choices": [
+      "관찰자 교정적",
+      "개인교사 중립적",
+      "개인교사 교정적",
+      "교사 가치적"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-16",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 16,
+    "question": "그리핀(L. Griffin), 미첼(S. Mitchell), 오슬린(J. Oslin)의 이해중심게임모 형에서 변형게임 구성 시 반영해야 할 2가지 핵심 개념은?",
+    "choices": [
+      "전술과 난이도",
+      "연계성과 위계성",
+      "공간의 특성과 학습자",
+      "대표성과 과장성"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-17",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 17,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 젠틸(A. Gentile)의 스포츠 기술이 바르게 연결된 것은? <보기> . ㉠ 은 환경의 변화나 상태에 의해 변화되는 기술을 말한다. ㉡ 은 상대적으로 환경적 조건이 안정적이며 외부 조건이 대부분 변하지 않는 속성이 있다. ㉠ ㉡",
+    "choices": [
+      "개별기술 복합기술",
+      "개방기술 폐쇄기술",
+      "시작형 기술 세련형 기술",
+      "부분기술 전체기술"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-18",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 18,
+    "question": "<보기>와 같이 종목을 구분하는 근거로 적합한 것은? <보기> . ∙영역형:농구, 축구, 하키, 풋볼 ∙네트형:배드민턴, 배구, 탁구 ∙필드형:야구, 소프트볼, 킥볼 ∙표적형:당구, 볼링, 골프",
+    "choices": [
+      "포지션의 수",
+      "게임전술의 전이 가능성",
+      "기술(skill)의 특성",
+      "선수의 수 A형 2급 스포츠지"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-19",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 19,
+    "question": "<보기>의 설명에 해당하는 피드백 유형은? <보기> . ∙모스턴(M. Mosston)이 제시한 피드백 유형이며, 사실적으로 행동을 기술한다. ∙판단이나 수정 지시를 하지 않으나, 피드백 진술의 의미를 변경할 수 있다. ∙다른 피드백 형태로 옮겨가는 특징을 가지고 있다.",
+    "choices": [
+      "교정적 피드백(corrective statements)",
+      "가치적 피드백(value statements)",
+      "중립적 피드백(neutral statements)",
+      "불분명한 피드백(ambiguous statements)"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-sports-education-a-20",
+    "subjectId": "sports-education",
+    "year": 2022,
+    "number": 20,
+    "question": "링크(J. Rink)의 내용발달 단계가 순서대로 연결된 것은?",
+    "choices": [
+      "시작과제-확대과제-세련과제-적용과제",
+      "적용과제-시작과제-확대과제-세련과제",
+      "세련과제-적용과제-시작과제-확대과제",
+      "확대과제-세련과제-적용과제-시작과제"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  }
+]

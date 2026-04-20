@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2022-senior-pe-a-01",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 1,
+    "question": "<보기>에서 설명하는 연령지표는? <보기> . ∙연령적 노화라고 일컬어지는 출생 이후의 햇수인 역연령과 대비되는 개념이다. ∙연령과 성을 기준으로한 기능적 체력과 관련이 있다. ∙신체 연령이라고도 말한다.",
+    "choices": [
+      "기능적(functional) 연령",
+      "주관적(subjective) 연령",
+      "심리적(psychological) 연령",
+      "연대기적(chronological) 연령"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-02",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 2,
+    "question": "건강수명에 대한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "건강과 일상생활의 기능을 유지하는 기간을 뜻한다.",
+      "질병이나 신체장애 없이 생존한 삶의 기간을 뜻한다.",
+      "성별･연령별로 몇 년을 더 살아갈 것인지 통계적으로 추정한 기대치로 생존 연수를 뜻한다.",
+      "신체적･정서적･인지적 활력 또는 기능적 웰빙을 유지할 것으로 예상되는 삶의 기간을 뜻한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-03",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 3,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 노화와 관련된 심리학적 이론이 바르게 나열된 것은? <보기> . ∙자부심과 만족을 느끼면서 자신의 삶을 되돌아볼 수 있으며 죽음을 위엄있게 받아들인다. ㉠ ∙삶에서 달성해야 하는 것들을 달성하지 못했다고 느끼며, 삶의 종말이 다가오는 것에 대해 좌절감을 느낀다. ∙성공적 노화는 신체적･정신적･사회적 손실에 적응하는 노인의 능력과 관련이 있다. ㉡ ∙기능적 능력을 향상함으로써 노화로 인한 손실을 보완하도록 도움을 준다. ㉠ ㉡ 하비거스트(R. Havighust)의 로우(J. Rowe)와 칸(R. Kahn)의",
+    "choices": [
+      "발달과업 이론 성공적 노화 이론 하비거스트(R. Havighust)의 펙(R. Peck)의",
+      "발달과업 이론 발달과업 이론 에릭슨(E. Erikson)의 로우(J. Rowe)와 칸(R. Kahn)의",
+      "심리사회발달단계 이론 성공적 노화 이론 에릭슨(E. Erikson)의 발테스와 발테스(M. Baltes & P. Baltes)의",
+      "심리사회발달단계 이론 보상이 수반된 선택적 적정화 이론 면 A형 2급 스포츠지"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-04",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 4,
+    "question": "<보기>에서 설명하는 노화와 관련된 사회학적 이론은? <보기> . ∙노화와 관련된 사회학적 이론에서 가장 널리 인정되는 이론이다. ∙노인의 사회활동 참여 정도가 높을수록 생활만족도가 높아진다. ∙지속적인 활동이 성공적 노화의 핵심이다.",
+    "choices": [
+      "분리이론",
+      "활동이론",
+      "현대화이론",
+      "하위문화이론"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-05",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 5,
+    "question": "<보기>의 ㉠, ㉡에 들어갈 용어가 바르게 나열된 것은? <보기> . ∙노인은 사회적 역할의 상실 등으로 인하여 자신감을 잃기 쉬우며, 점점 고립되어 고독감을 느끼게 되기 때문에, 다른 사람이나 사회로부터의 보살핌, 존중, 도움을 받는 ( ㉠ )이/가 필요하다. ∙노인은 일정 수준의 목표를 성취할 수 있다는 자신의 역량에 대한 믿음을 뜻하는 ( ㉡ )을 가져야 한다. ㉠ ㉡",
+    "choices": [
+      "사회적 지지 자기효능감",
+      "사회적 설득 자기효능감",
+      "사회적 설득 자부심",
+      "사회적 지지 자부심"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-06",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 6,
+    "question": "<보기>에서 운동이 노인에게 미치는 심리적 효과로 옳은 것만을 모두 고른 것은? <보기> . ㉠운동 기술 습득 ㉡우울증 감소 ㉢심리적 웰빙 향상 ㉣사회적 연결망 확장",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉡, ㉢",
+      "㉢, ㉣"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-07",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 7,
+    "question": "노화와 관련된 신체적 변화로 옳지 않은 것은?",
+    "choices": [
+      "근 질량 감소",
+      "관절 유연성 감소",
+      "폐 탄력성과 흉곽 경직성 증가",
+      "수축기혈압과 이완기혈압 증가"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-08",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 8,
+    "question": "<보기>에서 운동이 노인에게 미치는 생리적 효과로 옳은 것만을 모두 고른 것은? <보기> . ㉠인슐린 내성 증가 ㉡체지방 감소 ㉢인슐린 감수성 증가 ㉣안정시 심박수 감소 ㉤주어진 절대 강도에서 심박수 증가 ㉥고밀도지단백콜레스테롤(HDL-C) 감소",
+    "choices": [
+      "㉠, ㉡, ㉥",
+      "㉡, ㉢, ㉣",
+      "㉡, ㉢, ㉥",
+      "㉣, ㉤, ㉥"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-09",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 9,
+    "question": "체력요인에 따른 노인의 운동 방법과 효과가 바르게 연결되지 않은 것은? 체력요인 운동 방법 효과 고정식 자전거",
+    "choices": [
+      "심폐지구력 심혈관계 질환의 위험률 감소 타기 덤벨 들고 앉았다 근육 및 뼈 강화로 인한",
+      "근력 일어서기 일상생활수행능력 향상 앉아서 윗몸",
+      "유연성 신체활동 시 기능적 제한 예방 앞으로 굽히기 의자 잡고 옆으로 신체 각 부위가 조화를 이루면서",
+      "평형성 한발 들기 원활히 움직일 수 있는 능력 향상"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-10",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 10,
+    "question": "<보기>의 ㉠, ㉡에 들어갈 목표심박수 범위가 바르게 나열된 것은? <보기> . ∙나이:70세 ∙성별:남성 ∙안정시 심박수:80회/분 ∙최대심박수:150회/분 ∙의사는 심폐지구력 운동 시 목표심박수 40~50% 강도를 권고 ∙카보넨(Karvonen) 공식을 활용한 목표심박수의 범위는 ( ㉠ )%HRR에서 ( ㉡ )%HRR이다. ㉠ ㉡ ㉠ ㉡",
+    "choices": [
+      "108 115",
+      "115 122",
+      "122 129",
+      "129 136"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-11",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 11,
+    "question": "노인운동 시의 위험 관리 항목과 방법이 바르게 연결된 것은?",
+    "choices": [
+      "환경과 장소 안전:참가자 중 당뇨 환자가 있을 경우, 사탕이나 초콜릿을 준비해 둔다.",
+      "시설 안전:운동장비의 사용방법과 사용 시 주의사항을 적절한 장소에 게시해야 한다.",
+      "환경과 장소 안전:운동 동선을 파악하여 시설과 장비를 배치한다.",
+      "시설 안전:무덥고 다습한 곳은 피해야 한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-12",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 12,
+    "question": "<보기>에서 고혈압 질환이 있는 노인의 운동 지도 시 고려해야 할 사항으로 적절한 것만을 모두 고른 것은? <보기> . ㉠등척성 운동을 권장한다. ㉡나트륨 섭취 제한, 체중조절, 유산소 운동을 권장한다. ㉢저항성 운동 시 발살바 메뉴버에 의한 혈압 상승에 주의한다. ㉣이뇨제, 칼슘채널차단제, 혈관확장제 등의 약물에 의한 운동 후 혈압 상승에 주의한다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉡, ㉢",
+      "㉢, ㉣ 면 2급 스포츠지"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-13",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 13,
+    "question": "노인체력검사(Senior Fitness Test) 항목에서 2.4m 왕복 걷기와 관련된 활동으로 옳은 것은?",
+    "choices": [
+      "자동차나 목욕탕에 들어가고 나오기",
+      "손자 안기, 식료품 가방 들기",
+      "장거리 보행, 계단 오르기",
+      "버스 빠르게 타고 내리기"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-14",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 14,
+    "question": "<보기>에서 노화로 인한 평형성과 기동성(balance and mobility) 변화에 영향을 미치는 요인을 모두 고른 것은? <보기> . ㉠체성감각계 ㉡시각계 ㉢전정계 ㉣운동계",
+    "choices": [
+      "㉠, ㉡, ㉢, ㉣",
+      "㉡, ㉢, ㉣",
+      "㉢, ㉣",
+      "㉣"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-15",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 15,
+    "question": "<보기>에서 근골격계 질환이 있는 노인에게 적합한 운동만을 모두 고른 것은? <보기> . ㉠등산 ㉡수영 ㉢테니스 ㉣수중 운동 ㉤스케이팅 ㉥고정식 자전거 타기",
+    "choices": [
+      "㉠, ㉡, ㉢",
+      "㉡, ㉣, ㉥",
+      "㉢, ㉣, ㉤",
+      "㉣, ㉤, ㉥"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-16",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 16,
+    "question": "건강신념모형에서 건강신념행동을 구성하는 요소로 옳지 않은 것은?",
+    "choices": [
+      "지각된 장애",
+      "지각된 이익",
+      "지각된 심각성",
+      "지각된 자기 인식"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-17",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 17,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 노인운동 교육의 원리와 설명이 바르게 나열된 것은? <보기> . ∙( ㉠ )-지적 능력, 학력, 흥미, 성격, 경험, 건강상태 등 개개인의 학습 욕구를 충족시켜줄 수 있는 방법을 모색한다. ∙( ㉡ )-지도자와 학습자 간의 동등한 관계에서 출발하여 교육활동 전반에서 상호 간의 합의를 이루도록 한다. ㉠ ㉡",
+    "choices": [
+      "다양화의 원리 사회화의 원리",
+      "개별화의 원리 사제동행의 원리",
+      "개별화의 원리 사회화의 원리",
+      "다양화의 원리 사제동행의 원리"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-18",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 18,
+    "question": "<보기>에서 미국스포츠의학회(ACSM, 2018)의 노인을 위한 유산소 운동 지침으로 옳은 것만을 모두 고른 것은? <보기> . ∙중강도시 5일/주 ㉠ 운동 빈도(F) ∙고강도시 3일/주 ∙중강도 시 5~6(RPE 10점 만점 도구 기준) ㉡ 운동 강도(I) ∙고강도 시 7~8(RPE 10점 만점 도구 기준) ∙중강도 시 150분~300분/주 ㉢ 운동 시간(T) ∙고강도 시 75분~100분/주 ㉣ 운동 형태(T) ∙앉았다 일어서기(스쿼트), 스트레칭",
+    "choices": [
+      "㉠, ㉡, ㉢",
+      "㉠, ㉡, ㉣",
+      "㉠, ㉢, ㉣",
+      "㉡, ㉢, ㉣"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-19",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 19,
+    "question": "<보기>에 해당하는 대상자의 운동참여 동기유발을 위한 노인스포츠 지도사의 상담 내용으로 적절하지 않은 것은? <보기> . ∙68세 어르신은 체중조절과 건강관리를 위한 운동에 관심이 있다. ∙운동 참여 경험은 없지만, 지속적으로 운동에 참여하고 싶다.",
+    "choices": [
+      "가족, 친구들과 함께 운동하며, 사회적 교류 기회가 확대됨을 설명한다.",
+      "스트레스 해소와 활력감 증진에 도움이 됨을 설명한다.",
+      "건강 및 체중 관리에 도움이 됨을 설명한다.",
+      "질병치료에 대한 기대감을 갖도록 설명한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  },
+  {
+    "id": "2022-senior-pe-a-20",
+    "subjectId": "senior-pe",
+    "year": 2022,
+    "number": 20,
+    "question": "노인운동 지도 시 의사소통에 관한 설명으로 옳은 것은?",
+    "choices": [
+      "어린아이를 다루듯 말한다.",
+      "스킨십은 사용하지 않는다.",
+      "소리를 질러가며 말하지 않는다.",
+      "대상자를 정면에서 쳐다보는 언어적 기술을 사용한다. ※국가자격 시험문제는 저작권법상 보호되는 저작물이고, 저작권자는 국민체육진흥공단입니다. 문제의 일부 또는 전부를 무단 복제, 배포, (전자)출판하는 등 저작권을 침해하는 일체의 행위를 금합니다. 면"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2022-2a"
+    ],
+    "sourceRef": "2022-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:34:37Z",
+    "updatedAt": "2026-04-20T11:34:37Z"
+  }
+]
