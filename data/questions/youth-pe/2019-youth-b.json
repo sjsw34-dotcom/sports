@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2019-youth-pe-b-01",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 1,
+    "question": "유아가 외상으로 머리를 다쳤을때, 일반적으로 나타나는 증상으로 적절하지 않은 것은?",
+    "choices": [
+      "먹은 것을 내뿜듯이 토한다.",
+      "평소보다 잠의 양이 눈에 띄게 늘어난다.",
+      "식욕이 왕성해지고 신체활동량이 증가한다.",
+      "평소와 달리 아이가 늘어지거나 칭얼거리며 보챈다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-02",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 2,
+    "question": "유아기 운동발달의 방향성에 대한 특징으로 적절하지 않은 것은?",
+    "choices": [
+      "중심에서 말초로 발달한다.",
+      "전면에서 후면으로 발달한다.",
+      "대근육에서 소근육으로 발달한다.",
+      "머리(위)에서 발가락(아래)으로 발달한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-03",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 3,
+    "question": "유아기 건강체력 발달에 대한 특징으로 적절하지 않은것은?",
+    "choices": [
+      "최대 심박수는 성인기에 비해 높다.",
+      "유아기 1회박출량은 성인기에 비해 높다.",
+      "유아기 안정시 호흡수는 성인기에 비해 높다.",
+      "성장함에 따라 근력이 증가하고 근섬유도 굵어진다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-04",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 4,
+    "question": "<보기>에서 설명하는 갤라휴(D. Gallahue)의 운동발달 단계는? <보기> . ∙초보 움직임의 습득으로 전문화된 움직임을 위한 준비 기간이다. ∙걷기, 달리기, 던지기 등의 기본동작을 적절하게 발달시켜야 한다. ∙육체･정신적으로 발달이 왕성한 시기이므로 놀이 위주의 신체활동이 필요하다.",
+    "choices": [
+      "기본 움직임 단계",
+      "전문화된 움직임 단계",
+      "초보 움직임 단계",
+      "반사 움직임 단계"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-05",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 5,
+    "question": "유아체육 지도자의 역할로 적절하지 않은 것은?",
+    "choices": [
+      "호기심을 자극하고, 반응에 관심을 보이며 지도한다.",
+      "이기는 것이 제일 중요하다는 것을 강조하며 지도한다.",
+      "주제와 장소를 고려하여 적절한 장비를 선택하며 지도한다.",
+      "“해보자!”, “해보지 않겠니?” 등의 권유형 언어를 사용하여 지도한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-06",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 6,
+    "question": "<보기>에서 운동기술체력 요소와 운동능력이 적절한 것으로 바르게 묶인 것은? <보기> . ㉠ 협응력－상대방에게 공을 던지고 받는 능력 ㉡ 유연성－무릎을 펴고 몸을 앞으로 굽히는 능력 ㉢ 순발력－제자리에서 모둠발로 점프하여 멀리 뛰는 능력 ㉣ 민첩성－오래달리기를 하며 속도를 오랫동안 유지하는 능력",
+    "choices": [
+      "㉠, ㉡",
+      "㉡, ㉣",
+      "㉠, ㉢",
+      "㉢, ㉣"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-07",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 7,
+    "question": "<보기>의 괄호 안에 들어갈 알맞은 용어는? <보기> . ( )은 날아오거나 굴러오는 물체에 힘을 가해서 정지시키거나 속도를 줄이는 운동으로 잡기, 받기, 볼 멈추기 운동 등이 포함된다.",
+    "choices": [
+      "정적(static) 안정성 운동",
+      "추진(propulsive) 조작 운동",
+      "흡수(absorptive) 조작 운동",
+      "동적(dynamic) 안정성 운동"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-08",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 8,
+    "question": "<보기>에서 설명하는 유아기 발달이론은? <보기> . 다양한 속도로 날아오는 공을 때리는(striking) 경험은 도식(schema)의 변화를 유도하여 때리기 동작을 점차 발달시킨다.",
+    "choices": [
+      "피아제(J. Piaget)의 인지발달이론",
+      "프로이드(S. Freud)의 정신분석이론",
+      "에릭슨(E. Erickson)의 심리사회발달이론",
+      "하비거스트(R. J. Havighurst)의 환경이론"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-09",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 9,
+    "question": "<보기>에서 설명하는 유아체육 프로그램의 기본원리는? <보기> . ∙신체조정능력과 판단력이 완전히 발달되지 않은 유아에게 우선적으로 고려해야 할 원리이다. ∙자신의 능력을 과대평가하는 아동의 성향을 고려한 운동환경을 마련한다. ∙우발적 사고에 대한 부모나 지도자의 올바른 인식이 중요하다.",
+    "choices": [
+      "연계성의 원리",
+      "방향성의 원리",
+      "안전성의 원리",
+      "주도성의 원리"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-10",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 10,
+    "question": "아래의 ㉠, ㉡에 들어갈 유아기 발달 이론이 바르게 묶인 것은? 발달이론 내용 ∙발달단계에 이르게 되는 결정적인 힘은 개체가 가진 유전적 요인에 전적으로 의존한다는 관점이다. ( ㉠ ) ∙유아가 발달 준비가 되었을 때, 성인의 개입을 최소화하고 자신의 발달수준에 적합한 활동을 스스로 선택하도록 한다. ∙최근 대두되는 관점으로, 인간이 생물로서 다양한 환경에 적응하는 것을 발달적 관점에서 연구하는 ( ㉡ ) 이론이다. ∙유아의 행동을 미시체계, 메소체계, 엑소체계, 거시체계의 개념으로 나누어 연구한다. ㉠ ㉡ 성숙주의 심리사회발달 이론",
+    "choices": [
+      "(A. Gesell) (E. Erikson) 성숙주의 생태학적 이론",
+      "(A. Gesell) (U. Bronfenbrenner) 인지주의 생태학적 이론",
+      "(J. Piaget) (U. Bronfenbrenner) 인지주의 심리사회발달 이론",
+      "(J. Piaget) (E. Erikson)"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-11",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 11,
+    "question": "<보기>에서 설명하는 유아체육의 지도 원리는? <보기> . ∙대근육 운동능력 중 안정과 이동의 기초운동기술, 협응과 균형의 운동능력, 공간과 방향의 지각-운동능력 발달이 이루어지도록 한다. ∙과거 경험, 현재 흥미의 고려는 물론 다양한 문화적 경험을 할 수 있도록 한다.",
+    "choices": [
+      "통합의 원리",
+      "개별화의 원리",
+      "반복학습의 원리",
+      "탐구학습의 원리"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-12",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 12,
+    "question": "<보기>에서 설명하는 기초이동 운동능력은? <보기> . ∙모든 구간에서 체중 이동이 자연스러움 ∙체중 이동이 이루어지는 동안 팔의 움직임이 줄어듦 ∙호핑 구간 동안 지지하는 다리의 발이 지면 가까이 있음",
+    "choices": [
+      "리핑(leaping)",
+      "겔로핑(galloping)",
+      "슬라이딩(sliding)",
+      "스키핑(skipping)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-13",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 13,
+    "question": "아래의 ㉠, ㉡에 들어갈 갤라휴(D. Gallahue)의 운동발달 단계로 바르게 묶인 것은? 단계 내용 ∙움직임은 일상생활, 기본 스포츠 기술, 레크리 에이션 분야 등에 응용되고, 세련된 활동이 ( ㉠ ) 가능하다. ∙기술 발달의 시작과 정도는 다양한 과제요인, 개인요인, 환경요인에 의해 좌우된다. ∙수행이 역학적 효율성을 가지며, 5~6세 유아의 움직임 기술에 해당된다. ( ㉡ ) ∙움직이는 물체를 추적하는 정교한 시각운동과 신체의 움직임 등은 완전히 발달하지 않는다. ㉠ ㉡",
+    "choices": [
+      "전문화된 움직임 초보 움직임",
+      "전문화된 움직임 기본 움직임",
+      "기본 움직임 초보 움직임",
+      "기본 움직임 전문화된 움직임"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-14",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 14,
+    "question": "유아의 지각운동발달 요소와 설명이 적절하지 않은것은?",
+    "choices": [
+      "공간지각－높이가 다른 뜀틀 넘기를 한다.",
+      "시간지각－음악에 맞추어 율동 동작을 한다",
+      "시간지각－다양한 속도로 날아오는 야구공을 받는다.",
+      "공간지각－신체 각 부분의 명칭과 근육의 긴장과 이완을 이해한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-15",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 15,
+    "question": "<보기>에서 설명하는 반사의 종류는? <보기> . ∙신생아에게 나타날 수 있는 자세반사로써 중력반사라고도 한다. ∙자세 유지를 위해 나타나며, 생후 10개월 이후에도 나타난다. ∙아기를 뒤에서 안아 상체를 아래로 내리면 손을 앞으로 뻗고 손바닥을 펴 자신을 보호하려 한다. ∙추락에 대한 보호반응이다",
+    "choices": [
+      "모로반사(Moro reflex)",
+      "당김반사(pull-up reaction)",
+      "낙하산반사(parachute reaction)",
+      "바빈스키반사(Babinski reflex)"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-16",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 16,
+    "question": "<보기>의 대화에서 지도자가 활용한 유아체육 교수방법은? <보기> . 지도자:제자리에서 공을 앞으로 멀리 던져볼까? 아 동 :어떻게 하면 공을 멀리 보낼 수 있어요? 지도자:공을 던지는 팔은 뒤로 하고 반대쪽 발은 앞으로 나가야 해. 아 동:그럼 몸통도 같이 돌아가요. 손을 뒤로 많이 하니까 공이 더 멀리 가요. 지도자:멋진 걸 발견했구나!",
+    "choices": [
+      "결과 중심 교수방법",
+      "교사 주도적 교수방법",
+      "유아 주도적 교수방법",
+      "유아-교사 상호 주도적･통합적 교수방법"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-17",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 17,
+    "question": "3~4세 유아의 체육활동에서 진행 통제가 어려운 경우 지도자의 역할로 적절하지 않은 것은?",
+    "choices": [
+      "경쟁과 결과를 강조하는 진행자 역할",
+      "서로 다투는 유아를 위한 중재자 역할",
+      "뜀틀을 무서워하는 유아의 수행을 위한 보조자 역할",
+      "언어적 지시를 이해하지 못하는 유아에게 시범을 보여주는 안내자 역할"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-18",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 18,
+    "question": "유아기의 심리적 특성을 고려한 지도방법으로 적절하지 않은 것은?",
+    "choices": [
+      "차례를 오래 기다리지 않도록 한다.",
+      "복잡한 운동을 지속적으로 반복한다.",
+      "규칙과 약속을 잘 지킬 수 있도록 한다.",
+      "활동이 정적 위주로 진행되지 않도록 한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-19",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 19,
+    "question": "누리과정에서 제시한 유아체육의 목표에 해당하지 않은 것은?",
+    "choices": [
+      "원시반사에 의존하여 자극에 반응하게 한다.",
+      "신체 각 부분의 명칭을 알고 움직임에 관심을 가지게 한다.",
+      "신체 각 부분의 움직임을 조절해보며, 눈과 손을 협응하여 소근육을 조절한다.",
+      "자신과 다른 사람의 운동능력의 차이를 이해하며 친구와 함께 신체활동에 참여한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  },
+  {
+    "id": "2019-youth-pe-b-20",
+    "subjectId": "youth-pe",
+    "year": 2019,
+    "number": 20,
+    "question": "<보기>에서 유아기의 운동 효과에 해당하는 내용으로만 묶인 것은? <보기> . ㉠ 운동기능 발달 ㉡ 사회성 촉진 ㉢ 원시반사 촉진 ㉣ 성조숙증 촉진 ㉤ 정서 발달 ㉥ 체력 발달",
+    "choices": [
+      "㉠, ㉢, ㉤",
+      "㉠, ㉣, ㉤",
+      "㉡, ㉣, ㉥",
+      "㉡, ㉤, ㉥"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2019-youth-b"
+    ],
+    "sourceRef": "2019-youth-b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T04:55:25Z",
+    "updatedAt": "2026-04-20T04:55:25Z"
+  }
+]
