@@ -19,6 +19,11 @@ import os
 from datetime import datetime, timezone
 
 
+def load_known_subjects(subjects_path: str) -> set[str]:
+    with open(subjects_path, encoding="utf-8") as f:
+        return {s["id"] for s in json.load(f)}
+
+
 def iso_now() -> str:
     return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
@@ -83,7 +88,13 @@ def main() -> int:
     ap.add_argument("--source", default="past-exam")
     ap.add_argument("--out-root", default="data/questions")
     ap.add_argument("--tag", required=True, help="파일명·sourceRef용 태그")
+    ap.add_argument(
+        "--subjects-json",
+        default="data/subjects.json",
+        help="허용된 과목 id 출처 (필터용)",
+    )
     args = ap.parse_args()
+    known_ids = load_known_subjects(args.subjects_json)
 
     with open(args.questions, encoding="utf-8") as f:
         questions_by_subject: dict[str, list[dict]] = json.load(f)
@@ -107,6 +118,9 @@ def main() -> int:
     # 과목별 파일 기록
     for subject_id, items in final.items():
         if not items:
+            continue
+        if subject_id not in known_ids:
+            print(f"SKIP {subject_id} (subjects.json에 없음)")
             continue
         dir_path = os.path.join(args.out_root, subject_id)
         os.makedirs(dir_path, exist_ok=True)

@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2021-youth-pe-a-01",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 1,
+    "question": "피아제(J. Piaget)의 도식(schema) 형성과정이 아닌 것은?",
+    "choices": [
+      "동화과정(assimilation)",
+      "조절과정(accommodation)",
+      "평형과정(equilibrium)",
+      "가역과정(reversibility)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-02",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 2,
+    "question": "<보기>에서 영유아의 신체 및 운동발달 특징 중 옳은 것으로만 묶인 것은? <보기> . ㉠ 머리에서 다리 방향으로 발달한다. ㉡ 반사 및 반응 행동은 운동발달에 필수적인 단계이다. ㉢ 근육량의 증가로 안정 시 분당 심박수는 점차 증가한다. ㉣ 연령증가에 따라 상체와 하체의 비율은 변화하지 않는다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉡, ㉢",
+      "㉢, ㉣"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-03",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 3,
+    "question": "비대칭목경직반사(Asymmetric Tonic Neck Reflexes:ATNR)에 관한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "생후 6개월에 나타난다.",
+      "원시반사의 한 유형이다.",
+      "눈과 손의 협응력 발달에 중요하다.",
+      "머리를 오른쪽으로 돌리면 오른쪽 팔과 다리가 펴진다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-04",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 4,
+    "question": "<보기>에서 설명하는 발달 이론은? <보기> . ∙환경을 변화시켜 바람직한 행동을 형성한다. ∙피드백을 통해 유아의 바람직한 행동을 촉진한다.",
+    "choices": [
+      "게셀(A. Gesell)의 성숙주의 이론",
+      "피아제(J. Piaget)의 인지발달 이론",
+      "스키너(B. Skinner)의 행동주의 이론",
+      "프로이드(S. Freud)의 정신분석 이론"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-05",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 5,
+    "question": "성숙단계 드리블동작(dribbling)의 특징으로 옳은 것은?",
+    "choices": [
+      "가슴 높이에서 공을 드리블한다.",
+      "한발을 앞으로 내밀고 반대편 손으로 드리블한다.",
+      "바운드되는 공의 높이가 일정하지 않게 드리블한다.",
+      "손목 스냅을 이용하지 않고 손바닥으로 공을 때리면서 드리블한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-06",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 6,
+    "question": "안정성 운동기술에 관한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "정적, 동적, 축성 안정성으로 구분한다.",
+      "구르기(rolling)는 동적 안정성과 관련이 있다.",
+      "재빨리 피하기(dodging)는 동적 안정성과 관련이 있다.",
+      "몸통 앞으로 굽히기(bending)는 정적 안정성과 관련이 있다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-07",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 7,
+    "question": "에릭슨(E. Erikson)의 심리사회발달 단계 중 주도성 대 죄책감에 관한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "자기개념 형성이 시작되는 시기이다.",
+      "놀이를 스스로 시도할 수 있는 시기이다.",
+      "취학 전 연령기(만 3세∼6세)에 해당 된다.",
+      "놀이를 통한 성공경험은 주도성 형성에 도움이 된다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-08",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 8,
+    "question": "<보기>의 ㉠∼㉢에 해당하는 지각운동의 요소로 바르게 연결된 것은? <보기> . 요소 활동 ㉠ 몸을 구부려 훌라후프 통과하기 ㉡ 박수 소리에 맞추어 리듬감 있게 점프하기 ㉢ 신호에 따라 오른쪽으로 회전하기 ㉠ ㉡ ㉢",
+    "choices": [
+      "공간 시간 방향",
+      "관계 시간 신체",
+      "관계 방향 공간",
+      "공간 방향 관계"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-09",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 9,
+    "question": "유아의 체력 요인과 검사 방법으로 적절한 것은?",
+    "choices": [
+      "순발력: 모둠발로 멀리 뛴 거리의 측정",
+      "근지구력: 왕복달리기(2m) 시간의 측정",
+      "평형성: 1분 간 앉았다 일어나기 동작 횟수의 측정",
+      "민첩성: 평균대 위에서 한 발로 서있는 시간의 측정"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-10",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 10,
+    "question": "<그림>의 동작이 성숙단계로 발달하도록 지도하는 방법으로 적절하지 않은 것은? <그림> . 수직점프(vertical jump)의 초보단계",
+    "choices": [
+      "도약과 착지 지점이 멀리 떨어지도록 지도한다.",
+      "두 팔을 동시에 위로 올리는 협응동작을 지도한다.",
+      "두 발로 동시에 도약하고 착지할 수 있도록 지도한다.",
+      "도약 후 공중에서 몸 전체를 뻗을 수 있도록 지도한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-11",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 11,
+    "question": "<보기>의 ㉠, ㉡에 들어갈 유아체육 프로그램의 구성원리로 바르게 묶인 것은? <보기> . ∙( ㉠ ) 자신의 운동능력을 과대평가하는 경우 안전에 주의하도록 한다. ∙( ㉡ ) 동일 연령의 유아라도 발육발달의 개인차를 프로그램에 반영한다. ㉠ ㉡",
+    "choices": [
+      "안전성 다양성",
+      "안전성 적합성",
+      "적합성 다양성",
+      "적합성 주도성"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-12",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 12,
+    "question": "<보기>에서 설명하는 유아의 기본운동기술 유형은? <보기> . ∙물체를 다루는 능력이다. ∙추진운동 기술과 흡수운동 기술로 구분한다. ∙예로는 치기(striking)와 받기(catching)가 있다.",
+    "choices": [
+      "안정성(stability)",
+      "지각성(perception)",
+      "이동성(locomotion)",
+      "조작성(manipulation) 면 2급 스포츠지"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-13",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 13,
+    "question": "유아 운동프로그램의 구성방법으로 적절하지 않은 것은?",
+    "choices": [
+      "체력을 고려한 신체활동으로 구성한다.",
+      "연령과 운동발달 수준을 고려한 신체활동으로 구성한다.",
+      "눈과 손의 협응력 향상에 필요한 다양한 활동을 포함한다.",
+      "남아와 여아의 흥미가 다르기 때문에 분리활동이 필요하다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-14",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 14,
+    "question": "세계보건기구(WHO, 2020)가 권장한 유아･청소년기 신체활동 지침으로 옳은 것은?",
+    "choices": [
+      "만 1세 이전: 신체활동을 권장하지 않는다.",
+      "만 1∼2세: 하루 180분 이상의 저･중강도 신체활동을 권장한다.",
+      "만 3∼4세: 최소 60분 이상의 중･고강도 신체활동을 포함한 하루 180분 이상의 신체활동을 권장한다.",
+      "만 5∼17세: 최소 주 5회 이상의 고강도 근력 운동을 포함한 하루 60분 이상의 중･고강도 신체활동을 권장한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-15",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 15,
+    "question": "체육수업 중 유아의 신체활동 참여시간을 증가시키는 방법으로 적절하지 않은 것은?",
+    "choices": [
+      "활동적 참여에 대해 정적 강화를 한다.",
+      "과제와 동작을 최대한 자세히 설명한다.",
+      "수업 전에 교구를 배치하여 대기시간을 줄인다.",
+      "일부 유아들이 어려워하는 활동이나 게임은 피한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-16",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 16,
+    "question": "유아의 신체적 자기개념(self-concept)에 관한 설명으로 적절한 것은?",
+    "choices": [
+      "신체적 자기개념은 단일 개념이다.",
+      "신체적 자기개념은 자기효능감과는 관련이 없다.",
+      "스포츠 참여를 통한 성공경험과 스포츠유능감 간의 관련성은 없다.",
+      "스포츠 참여는 신체적 능력에 대한 개념을 형성하는 데 도움을 준다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-17",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 17,
+    "question": "유아의 신체활동 참여 동기를 증진시키는 방법으로 적절하지 않은 것은?",
+    "choices": [
+      "수행력 향상을 위해 역할모델을 활용한다.",
+      "쉬운 과제를 성취한 경우라도 칭찬해 준다.",
+      "과제성취를 운에 의한 것으로 생각하도록 지도한다.",
+      "성취경험의 빈도를 높이기 위해 과제 난이도를 조절한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-18",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 18,
+    "question": "유아대상의 운동 지도방법으로 적절하지 않은 것은?",
+    "choices": [
+      "자세한 설명보다는 시범을 자주 보여준다.",
+      "게임 파트너를 교대하며 다양한 변화를 준다.",
+      "미디어를 활용하여 운동참여에 대한 관심을 유도한다.",
+      "어렵고 위험한 과제에도 신체적 가이던스(physical guidance)를 자제한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-19",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 19,
+    "question": "유아체육수업의 환경 조성에 관한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "유아가 선호하는 하나의 교구만을 배치한다.",
+      "다양한 감각 자극을 제공할 수 있는 환경을 조성한다.",
+      "유아가 자유롭게 몸을 움직일 수 있도록 충분한 공간을 확보한다.",
+      "적절한 교구 배치를 통해 효과적 지도가 가능한 환경을 조성한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-youth-pe-a-20",
+    "subjectId": "youth-pe",
+    "year": 2021,
+    "number": 20,
+    "question": "누리과정(2019)에서 ‘신체운동･건강 영역’의 내용범주가 아닌 것은?",
+    "choices": [
+      "신체활동 즐기기",
+      "건강하게 생활하기",
+      "안전하게 생활하기",
+      "창의적으로 표현하기"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  }
+]

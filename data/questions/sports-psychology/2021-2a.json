@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2021-sports-psychology-a-01",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 1,
+    "question": "스포츠와 운동의 참여가 개인의 심리적 발달에 미치는 영향에 관한 연구주제로 적절하지 않은 것은?",
+    "choices": [
+      "달리기는 우울증을 조절하는가?",
+      "스포츠클럽 활동은 사회성과 집중력을 높이는가?",
+      "태권도 수련은 아동의 인성 발달에 도움이 되는가?",
+      "수영에 대한 자신감이 수영 학습에 어떤 영향을 주는가?"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-02",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 2,
+    "question": "보강적 피드백(augmented feedback)의 유형에 해당하는 것은?",
+    "choices": [
+      "시각(visual)",
+      "촉각(tactile)",
+      "청각(auditory)",
+      "결과지식(knowledge of result)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-03",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 3,
+    "question": "나이데퍼(R. Nideffer)의 주의초점모형을 근거로, <보기>의 내용에 해당하는 주의의 폭과 방향은? <보기> . 배구 선수가 서브를 준비하면서 상대 진영을 살핀 후, 빈 곳을 확인하여 그곳으로 공을 서브하였다.",
+    "choices": [
+      "광의 외적에서 협의 외적으로",
+      "광의 내적에서 광의 외적으로",
+      "협의 내적에서 광의 외적으로",
+      "협의 외적에서 협의 외적으로"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-04",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 4,
+    "question": "아이젠(I. Ajen)의 계획된행동이론(theory of planned behavior)의 구성요인으로만 묶인 것은?",
+    "choices": [
+      "태도(attitude), 의도(intention), 주관적규범(subjective norm), 동기(motivation)",
+      "태도(attitude), 의도(intention), 주관적규범(subjective norm), 행동통제인식(perceived behavioral control)",
+      "주관적규범(subjective norm), 자신감(confidence), 의도(intention), 태도(attitude)",
+      "행동통제인식(perceived behavioral control), 자신감(confidence), 태도(attitude), 동기(motivation)"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-05",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 5,
+    "question": "스포츠심리기술 훈련에 관한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "경기력 향상에 즉각적 효과를 줄 수 있다.",
+      "평소 연습과 통합되어 지속적으로 진행되어야 한다.",
+      "심상, 루틴, 사고조절 등의 심리기법이 활용된다.",
+      "연령, 성별, 경기수준과 관계없이 모든 선수들에게 적용될 수 있다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-06",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 6,
+    "question": "캐런(A.V. Carron)의 팀 응집력 모형에서 응집력의 결정요인으로만 묶인 것은?",
+    "choices": [
+      "리더십 요인(leadership factor), 발달 요인(development factor), 환경 요인(environment factor), 팀 요인(team factor)",
+      "리더십 요인(leadership factor), 팀 요인(team factor), 개인 요인(personal factor), 발달 요인(development factor)",
+      "팀 요인(team factor), 리더십 요인(leadership factor), 환경 요인(environment factor), 개인 요인(personal factor)",
+      "팀 요인(team factor), 발달 요인(development factor), 환경 요인(environment factor), 개인 요인(personal factor)"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-07",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 7,
+    "question": "인지평가이론(cognitive evaluation theory)에서 내적 동기를 높일 수 있는 방법으로 옳지 않은 것은?",
+    "choices": [
+      "타인과의 관계성을 높여준다.",
+      "자신의 능력에 대해 유능감을 높여준다.",
+      "행동을 결정하는데 있어 자율성을 갖게 한다.",
+      "행동결과에 대한 보상의 연관성을 강조한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-08",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 8,
+    "question": "<보기>의 정보처리 과정과 반응시간의 관계에서 ㉠∼㉢에 들어갈 단계가 바르게 연결된 것은? <보기> . ㉠ ㉡ ㉢",
+    "choices": [
+      "의사결정 단계 반응선택 단계 반응실행 단계",
+      "의사결정 단계 반응실행 단계 반응선택 단계",
+      "감각, 지각 단계 반응선택 단계 반응실행 단계",
+      "감각, 지각 단계 반응실행 단계 반응선택 단계"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-09",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 9,
+    "question": "운동실천을 위한 행동수정 중재전략으로 적절하지 않은 것은?",
+    "choices": [
+      "운동화를 눈에 잘 띠는 곳에 둔다.",
+      "구체적이고 실현 가능한 목표를 설정한다.",
+      "지각이나 결석이 없는 회원에게 보상을 제공한다.",
+      "출석상황과 운동수행 정도를 공공장소에 게시한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-10",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 10,
+    "question": "<보기>의 사례와 관련있는 데시(E..L.. Deci)와 라이언(R..M.. Ryan)의 자결성이론(self－determination theory)의 구성요인이 바르게 연결된 것은? <보기> . ㉠ 현우는 뛰는 것을 그다지 좋아하지는 않지만, 체중조절과 건강증진을 위해서 매일 1시간씩 조깅을 한다. ㉡ 승아는 필라테스를 그다지 좋아하지는 않지만, 개인강습비를 지원해준 부모님에 대한 죄책감 때문에 학원에 다닌다. ㉠ ㉡",
+    "choices": [
+      "확인규제(identified regulation) 의무감규제(introjected regulation)",
+      "외적규제(external regulation) 의무감규제(introjected regulation)",
+      "내적규제(internal regulation) 확인규제(identified regulation)",
+      "의무감규제(introjected regulation) 확인규제(identified regulation)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-11",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 11,
+    "question": "<보기>는 성취목표성향 이론에서 자기목표성향(ego－goal orientation)과 과제목표성향(task－goal orientation)에 관한 예시이다. 이에 대한 해석이 옳은 것은? <보기> . 인호와 영찬이는 수업에서 테니스를 배운다. 이 둘은 실력이 비슷하다. 하지만 수업에서 인호는 테니스 기술을 배우는 것보다 다른 친구와 테니스 게임을 하여 이기는 것을 좋아한다. 반면에 영찬이는 테니스 기술에 중점을 두며 테니스 기술을 연마할 때마다 뿌듯해 한다.",
+    "choices": [
+      "영찬이는 실현 불가능한 과제를 자주 선택할 것이다.",
+      "인호는 자신의 기술향상을 위하여 개인 노력을 중시한다.",
+      "인호는 영찬이를 이겼을 때 자신이 잘해서 승리하였다고 생각한다.",
+      "인호는 학습의 증진과 연관된 자기－참고적(self－reference)인 목표를 가진 학생이다. A형 2급 스포츠지"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-12",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 12,
+    "question": "<보기>의 운동기능 연습법 내용과 관련 있는 것은? <보기> . 각 부분을 따로 연습한 후 전체 기술을 종합적으로 연습하는 순수 분습법(pure－part practice)과 전체 운동기술 중에 첫 번째와 두 번째 요소를 각각 연습한 후 그 두 요소를 결합하고 이후 다음 요소를 다시 연습하는 과정을 거쳐 전체 기술을 습득해가는 점진적 분습법(progressive－part practice)으로 구분된다.",
+    "choices": [
+      "분절화",
+      "부분화",
+      "분산연습",
+      "집중연습"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-13",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 13,
+    "question": "특성불안을 측정하는 검사지는?",
+    "choices": [
+      "SCQ(Sport Cohesion Questionnaire)",
+      "SCAT(Sport Competitive Anxiety Test)",
+      "CSAI－2(Competitive State Anxiety Inventory－2)",
+      "16PF(Cattell’s Sixteen Personality Factor Questionnaire)"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-14",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 14,
+    "question": "<보기>의 ㉠∼㉢에 들어갈 운동발달의 단계를 바르게 나열한 것은? <보기> . 반사운동단계 → ( ㉠ ) → ( ㉡ ) → 스포츠기술단계 → ( ㉢ ) → 최고수행단계→퇴보단계 ㉠ ㉡ ㉢",
+    "choices": [
+      "초기움직임단계 성장과 세련단계 기본움직임단계",
+      "초기움직임단계 기본움직임단계 성장과 세련단계",
+      "기본움직임단계 성장과 세련단계 초기움직임단계",
+      "기본움직임단계 초기움직임단계 성장과 세련단계"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-15",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 15,
+    "question": "와인버그(R.S. Weinberg)와 굴드(D. Gould)의 바람직한 처벌 행동 지침에 관한 내용으로 옳지 않은 것은?",
+    "choices": [
+      "사람이 아니라 행동을 처벌한다.",
+      "동일한 규칙위반에 대해서는 동일하게 처벌한다.",
+      "연습 중에 실수한 것에 대해서는 가볍게 처벌한다.",
+      "규칙위반에 관한 처벌규정을 만들 때 선수의 의견을 반영한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-16",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 16,
+    "question": "스포츠심리상담에서 상담자가 활용할 수 있는 기법에 관한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "적극적 경청: 내담자의 말에 적절하게 행동으로 반응한다.",
+      "관심집중: 내담자의 말이 끝날 때까지 내담자를 계속 관찰한다.",
+      "신뢰형성: 내담자 개인의 정신적 고민이나 감정적 호소에 귀 기울인다.",
+      "공감적 이해: 내담자에게는 생각할 시간을 충분히 주고, 상담자는 반응을 짧게 한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-17",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 17,
+    "question": "운동발달에 관한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "운동발달에는 개인차가 존재한다.",
+      "운동발달 과정에는 민감기(sensitive period)가 있다.",
+      "운동발달은 운동행동이 연속적으로 변화하는 과정이다.",
+      "운동발달 상황에서 공통적으로 나타나는 행동을 개체발생적 운동행동이라고 한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-18",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 18,
+    "question": "신체활동은 일련의 단계를 거쳐 변화한다는 것을 기본적인 전제로 하는 운동행동이론은?",
+    "choices": [
+      "계획행동이론(theory of planned behavior)",
+      "건강신념모형(health belief model)",
+      "변화단계이론(transtheoretical model)",
+      "합리적 행동이론(theory of reasoned action)"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-19",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 19,
+    "question": "<보기>의 내용과 관련 있는 불안이론은? <보기> .",
+    "choices": [
+      "적정수준이론(optimal level theory)",
+      "전환이론(reversal theory)",
+      "다차원불안이론(multidimensional anxiety model)",
+      "최적수행지역이론(zone of optimal functioning theory)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-sports-psychology-a-20",
+    "subjectId": "sports-psychology",
+    "year": 2021,
+    "number": 20,
+    "question": "사회적 태만(social loafing) 현상을 극복하기 위한 지도전략으로 옳지 않은 것은?",
+    "choices": [
+      "사회적 태만 허용상황을 미리 설정하지 않게 한다.",
+      "대집단보다는 소집단(포지션별)을 구성하여 훈련한다.",
+      "지도자는 선수 개개인의 노력을 확인하고 이를 인정한다.",
+      "선수들이 자신의 포지션뿐만 아니라 다른 역할도 경험하게 한다. 2급 스포츠지"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  }
+]

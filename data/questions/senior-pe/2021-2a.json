@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2021-senior-pe-a-01",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 1,
+    "question": "노화로 인한 생리적 변화가 아닌 것은?",
+    "choices": [
+      "최대산소섭취량의 감소",
+      "폐의 탄력성과 호흡기 근력의 저하",
+      "수축기 및 이완기 혈압수치의 감소",
+      "동정맥산소차의 감소"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-02",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 2,
+    "question": "<보기>의 ㉠∼㉢에 해당하는 노화의 생물학적 이론이 바르게 연결된 것은? <보기> . ∙( ㉠ ): 유전적 요인이 노화의 속도를 결정한다. ∙( ㉡ ): 세포손상의 누적이 세포의 기능장애에 결정요소로 작용한다. ∙( ㉢ ): 인체기관이 다른 속도로 노화하면서 신경내분비계에 불균형을 초래한다. ㉠ ㉡ ㉢",
+    "choices": [
+      "유전적 이론 손상 이론 점진적 불균형 이론",
+      "성공적 노화이론 손상 이론 점진적 불균형 이론",
+      "손상 이론 점진적 불균형 이론 유전적 이론",
+      "지속성 이론 점진적 불균형 이론 손상 이론"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-03",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 3,
+    "question": "에릭슨(E. Erikson)의 심리사회발달 단계에 관한 내용이 옳은 것은? 연령 단계 긍정적 결과 어떻게 살기 원하는지에 대한 생각을 발",
+    "choices": [
+      "13∼18세 역량 대 열등감 달시킨다.",
+      "젊은 성인 독자성 대 역할혼동 타인과 밀접한 관계를 형성한다. 가족의 부양 또는 어떤 형태의 일을 통해",
+      "중년 성인 친분 대 고독 생산적인 생활을 할 수 있다. 자부심과 만족을 느끼면서 삶을 되돌아볼",
+      "노년기 자아주체성 대 절망 수 있다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-04",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 4,
+    "question": "<보기>에서 설명하는 노화에 관한 심리학적 관점은? <보기> . ∙성공적 노화는 신체적, 정신적, 사회적 손실에 대한 적응력과 관련이 있다. ∙기능적 능력의 향상을 통해 노화로 인한 손실을 보완하도록 도움을 준다.",
+    "choices": [
+      "성공적 노화 모델",
+      "분리이론",
+      "자아통합 이론",
+      "보상이 수반된 선택적 적정화 모델"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-05",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 5,
+    "question": "노인체육 관련 용어의 의미가 옳지 않은 것은?",
+    "choices": [
+      "신체활동(physical activity): 골격근에 의해 에너지 소비가 이루어지는 신체의 움직임",
+      "운동(exercise): 관찰 가능한 외현적인 움직임",
+      "체력(physical fitness): 신체활동을 수행할 수 있는 기능적 특성",
+      "건강(health): 질병이 없거나 허약하지 않을 뿐만 아니라 신체적, 심리적, 사회적으로 안녕한 상태"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-06",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 6,
+    "question": "<보기>의 대화에서 노인에게 나타날 수 있는 증상이 아닌 것은? <보기> . A: 코로나19로 경로당 운영이 중단돼서 운동도 못하고, 친구들도 못 만나니 너무 두렵고 슬퍼. 예전에 친구들과 함께 운동하던 때가 그립구만……. B: 나도 그래. 최근 옆집에 혼자 사는 최 씨가 안보여 찾아가보니 술로 잠을 자려고 하던데 정말 걱정이야. 밖으로 나가 운동도 하고 친구도 만나야 하는데……. 저러다 치매에 걸릴까 겁이 나네.",
+    "choices": [
+      "수면 장애",
+      "불안감 고조",
+      "고립감 약화",
+      "사고력 약화 면 A형 2급 스포츠지"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-07",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 7,
+    "question": "노인의 운동참여에서 불안과 두려움을 극복하기 위한 반두라(A. Bandura)의 자기효능감 이론의 변인과 증진전략으로 옳지 않은 것은? 변인 증진전략 운동참여에 대한 불안과 두려움을 극복하는 경험을 갖도록",
+    "choices": [
+      "성공수행경험 지도한다. 운동에 함께 참여하는 동료 노인을 통해 간접경험을 갖게",
+      "간접경험 한다.",
+      "언어적 설득 운동과 관련된 의사결정을 스스로 내리도록 한다.",
+      "정서적 상태 불안과 두려움을 조절할 수 있도록 인지적 훈련을 시킨다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-08",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 8,
+    "question": "노인과의 올바른 의사소통 방법이 아닌 것은?",
+    "choices": [
+      "노인이 원하는 존칭을 사용한다.",
+      "어린아이를 다루듯 말한다.",
+      "분명하고 천천히 말한다.",
+      "따뜻한 표정으로 비언어적 의사소통을 사용한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-09",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 9,
+    "question": "행동주의적 지도방법이 아닌 것은?",
+    "choices": [
+      "개별상담을 통해 운동의 중요성을 인식하게 한다.",
+      "체육관 복도에 출석률을 게시한다.",
+      "성공적인 운동참여에 대해 긍정적 강화를 제공한다.",
+      "런닝머신 걷기를 할 때만 좋아하는 연속극을 시청하게 한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-10",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 10,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 노인체력검사(SFT) 항목이 바르게 연결된 것은? <보기> . ∙( ㉠ ): 식료품 나르기와 손자 안아주기가 어렵다. ∙( ㉡ ): 버스에서 신속하게 내리기가 어렵다. ㉠ ㉡",
+    "choices": [
+      "30초 아령 들기 등 뒤에서 양손 마주잡기",
+      "30초 아령 들기 2.4m 왕복 걷기",
+      "등 뒤에서 양손 마주잡기 2분 제자리 걷기",
+      "2.4m 왕복 걷기 2분 제자리 걷기"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-11",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 11,
+    "question": "운동경험이 없는 노인이 장기간 저항성 운동을 했을 때 예상되는 변화는?",
+    "choices": [
+      "골밀도와 낙상 위험의 감소",
+      "20대의 근비대 수준으로 근력 회복",
+      "근력과 제지방량의 증가",
+      "혈관 경직도 증가"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-12",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 12,
+    "question": "미국스포츠의학회(ACSM)가 제시한 노인을 대상으로 한 운동부하검사의 고려사항으로 옳지 않은 것은?",
+    "choices": [
+      "시력 손상, 보행 실조, 발의 문제가 있는 경우 자전거 에르고미터 검사를 실시한다.",
+      "트레드밀 부하는 경사도보다는 속도를 증가시킨다.",
+      "균형감과 근력이 낮고, 신경근 협응력이 저조하여 검사의 두려움이 있다면 트레드밀의 양측 손잡이를 잡고 검사를 실시한다.",
+      "낮은 체력을 가진 노인은 초기 부하가 낮고(3METs 이하), 부하 증가량도 작은(0.5∼1.0METs) 노턴(Naughton) 트레드밀 프로토콜을 이용한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-13",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 13,
+    "question": "노인을 위한 수중운동 지도방법으로 옳지 않은 것은?",
+    "choices": [
+      "안전을 위해 처음 몇 회는 물속에서 자세를 취하는 방법을 가르친다.",
+      "물에 저항하여 움직이도록 지도하여 에너지 소비를 증가시킨다.",
+      "관절염을 앓고 있는 노인은 아픈 관절이 물에 잠기게 한다.",
+      "물이 몸통 근육의 역할을 하도록 직립자세로 서서 운동하게 한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-14",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 14,
+    "question": "요통을 예방하는 방법으로 옳은 것은?",
+    "choices": [
+      "등을 굽히고 선다.",
+      "등을 굽히고 걷는다.",
+      "장시간 계속 서 있는 것을 피한다.",
+      "등을 굽히고 앉는다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-15",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 15,
+    "question": "<보기>의 특성을 보인 노인에게 미국스포츠의학회(ACSM)가 제시한 관상동맥 질환의 위험인자를 모두 제시한 것은? <보기> . ∙연령: 71세, 성별: 여자, 신장: 158cm, 체중: 54kg ∙가족력: 어머니는 54세에 심혈관 질환으로 돌아가셨다. ∙허리둘레: 79cm ∙총콜레스테롤: 200mg/dL ∙고밀도지단백질 콜레스테롤: 30mg/dL ∙공복혈당: 135mg/dL ∙안정 시 혈압: 190mmHg/90mmHg ∙10대 때 흡연(하루에 20개 피 이상) ∙평생 전업주부로 생활하고 현재 특별한 신체활동은 하지 않았다.",
+    "choices": [
+      "연령, 가족력, 허리둘레, 혈압, 흡연",
+      "비만, 공복혈당, 혈압, 흡연, 신체활동",
+      "가족력, 총콜레스테롤, 고밀도지단백질 콜레스테롤, 혈압, 신체활동",
+      "허리둘레, 총콜레스테롤, 고밀도지단백질 콜레스테롤, 공복혈당, 혈압"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-16",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 16,
+    "question": "미국스포츠의학회(ACSM)가 제시한 노인 신체활동 프로그램으로 옳지 않은 것은?",
+    "choices": [
+      "고강도로 주 3일 이상 또는 중강도로 주 5일 이상의 유산소운동",
+      "체중부하 유연체조와 계단 오르기를 제외한 근력강화 운동",
+      "근육의 긴장과 약간의 불편감이 느껴질 정도의 유연성 운동",
+      "저･중강도로 주 2회 이상의 대근육군을 이용한 저항운동"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-17",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 17,
+    "question": "노인을 위한 준비 및 정리운동의 생리적 효과에 관한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "준비운동은 혈중산소포화도를 증가시켜 근육의 산소 이용률을 증가시킨다.",
+      "준비운동은 폐 혈류의 저항을 증가시켜 폐의 혈액 순환을 향상시킨다.",
+      "정리운동은 호흡, 체온, 심박수를 활동 전 수준으로 되돌리는데 도움을 준다.",
+      "정리운동은 혈중젖산농도를 낮추는데 도움을 준다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-18",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 18,
+    "question": "노인의 걷기 특성으로 옳지 않은 것은?",
+    "choices": [
+      "분당 보폭수(cadence)의 증가",
+      "보행주기 중 양발 지지기(double support time) 비율의 증가",
+      "안정된 걷기를 위한 의식적 관여의 증가",
+      "보폭(step length)의 증가와 활보장(stride length)의 감소"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-19",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 19,
+    "question": "노인의 단기기억 문제를 고려한 지도방법으로 옳지 않은 것은?",
+    "choices": [
+      "각자의 페이스로 동작을 수행하도록 한다.",
+      "동작을 단순화하여 반복적으로 시범을 보여준다.",
+      "동작의 속도와 방향을 다양하게 한다.",
+      "심상훈련을 활용한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-senior-pe-a-20",
+    "subjectId": "senior-pe",
+    "year": 2021,
+    "number": 20,
+    "question": "노인의 균형감에 관한 설명으로 옳은 것은?",
+    "choices": [
+      "의식적인 노력은 균형감 향상과 무관하다.",
+      "시력 약화는 균형감을 향상시킨다.",
+      "전정계 기능의 저하는 균형감을 향상시킨다.",
+      "체성감각 기능의 저하는 균형감을 떨어뜨린다. ※국가자격 시험문제는 저작권법상 보호되는 저작물이고, 저작권자는 국민체육진 흥공단입니다. 문제의 일부 또는 전부를 무단 복제, 배포, (전자) 출판하는 등 저작권을 침해하는 일체의 행위를 금합니다. 면"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2a"
+    ],
+    "sourceRef": "2021-2a",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  }
+]

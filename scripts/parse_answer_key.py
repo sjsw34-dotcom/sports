@@ -38,6 +38,12 @@ CERT_PATTERNS = {
     "pro-1": re.compile(r"1급 전문스포츠지도사"),
     "disabled-1": re.compile(r"1급 장애인스포츠지도사"),
     "health": re.compile(r"건강운동관리사"),
+    # 2021+ 통합 포맷: "2급류 체육지도사" 한 세트에 10과목
+    "2geup-ryu": re.compile(r"2급류 체육지도사(?!\s*장애인)"),
+    # 장애인특별과정 별도 (특수체육론만)
+    "disabled-special": re.compile(r"2급류 체육지도사 장애인특별과정"),
+    # 1급류 통합 (있을 경우)
+    "1geup-ryu": re.compile(r"1급류 체육지도사"),
 }
 
 FORM_RE = re.compile(r"^([AB])형\s*$")
@@ -57,19 +63,26 @@ def parse_answers_from_pdf(
     with pdfplumber.open(path) as pdf:
         full = "\n".join((pg.extract_text() or "") for pg in pdf.pages)
 
-    # 자격증별 섹션 경계 찾기
-    cert_spans: list[tuple[str, int, int]] = []
+    # 자격증별 섹션 경계 찾기: 같은 cert는 여러 페이지에 걸쳐 등장할 수 있음
     cert_matches: list[tuple[str, int]] = []
     for cid, pat in CERT_PATTERNS.items():
         for m in pat.finditer(full):
             cert_matches.append((cid, m.start()))
     cert_matches.sort(key=lambda x: x[1])
+    # 다른 cert 등장점으로 각 구간 자름
+    sections_by_cert: dict[str, list[str]] = {}
     for i, (cid, start) in enumerate(cert_matches):
-        end = cert_matches[i + 1][1] if i + 1 < len(cert_matches) else len(full)
-        cert_spans.append((cid, start, end))
+        # 다른 cert의 다음 등장점 찾기
+        end = len(full)
+        for j in range(i + 1, len(cert_matches)):
+            other_cid, other_start = cert_matches[j]
+            if other_cid != cid:
+                end = other_start
+                break
+        sections_by_cert.setdefault(cid, []).append(full[start:end])
 
-    for cid, start, end in cert_spans:
-        section = full[start:end]
+    for cid, parts in sections_by_cert.items():
+        section = "\n".join(parts)
         result.setdefault(cid, {})
         # 형 단위 쪼갬
         form_positions: list[tuple[str, int]] = []

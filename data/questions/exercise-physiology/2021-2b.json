@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2021-exercise-physiology-b-01",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 1,
+    "question": "<보기>의 ㉠∼㉣에 해당하는 용어를 바르게 나열한 것은? <보기> . ∙골격근은 ( ㉠ )신경계의 조절에 의해 ( ㉡ )으로 수축한다. ∙걷기와 같은 저강도 운동 중에는 ( ㉢ ) 섬유가 주로 동원되고 전력 질주와 같은 고강도 운동 중에는 ( ㉣ ) 섬유가 주로 동원된다. ㉠ ㉡ ㉢ ㉣",
+    "choices": [
+      "자율 수의적 typeⅠ typeⅡ",
+      "체성 불수의적 typeⅡ typeⅠ",
+      "자율 불수의적 typeⅡ typeⅠ",
+      "체성 수의적 typeⅠ typeⅡ"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-02",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 2,
+    "question": "안정 시와 운동 중 에너지 소비량 측정 및 추정에 관한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "직접 열량 측정법은 열 생산을 측정함으로써 에너지 소비량을 측정한다.",
+      "간접 열량 측정법은 산소 소비량과 이산화탄소 배출량을 이용하여 에너지 소비량을 추정한다.",
+      "호흡교환율은 질소 배출량과 산소 소비량의 비율을 의미하며, 체내 지방과 단백질의 대사 이용 비율을 추정한다.",
+      "이중표식수(doubly labeled water) 검사법은 동위원소 기법을 사용해 에너지 소비량을 추정한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-03",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 3,
+    "question": "운동 중 심근(myocardium)으로 혈액을 공급하는 동맥은?",
+    "choices": [
+      "관상동맥",
+      "폐동맥",
+      "하대동맥",
+      "상대동맥"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-04",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 4,
+    "question": "근섬유(muscle fiber) 및 근원섬유(myofibril)에 관한 설명으로 옳은 것은?",
+    "choices": [
+      "근섬유는 여러 개의 핵을 가진 다른 세포들과 다르게 단핵세포로 구성된다.",
+      "근섬유는 결합조직인 근내막(endomysium)으로 싸여 있다.",
+      "근원섬유는 근세포라 불리며, 가는 세사와 굵은 세사로 구성된다.",
+      "근원섬유의 막 주위에는 위성세포(satellite cells)가 존재한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-05",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 5,
+    "question": "유산소 트레이닝에 의한 골격근의 적응 현상으로 옳지 않은 것은?",
+    "choices": [
+      "모세혈관의 밀도 증가",
+      "TypeⅡ 섬유의 현저한 크기 증가",
+      "마이오글로빈의 함유량 증가",
+      "미토콘드리아의 수와 크기 증가"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-06",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 6,
+    "question": "<보기>에서 운동 중 호흡계 전도영역의 기능으로만 묶인 것은? <보기> . ㉠ 호흡하는 공기에 습기를 제공한다. ㉡ 폐포의 표면장력을 감소시키는 표면활성제(surfactant)를 제공한다. ㉢ 공기를 여과하는 역할을 한다. ㉣ 호흡가스 확산을 증가시킨다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉡, ㉢",
+      "㉢, ㉣"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-07",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 7,
+    "question": "<보기>의 내용 중 옳은 것으로만 묶인 것은? <보기> . ㉠ 유산소 시스템: 장시간의 운동 시 글루코스 외에도 유리지방산을 이용하여 ATP 합성 ㉡ 유산소 시스템: 세포질에서 크렙스회로와 전자전달계를 통해 ATP 합성 ㉢ 무산소 해당 시스템: 혈액 혹은 글리코겐으로부터 얻어진 포도당을 피루브산으로 분해 ㉣ 무산소 해당 시스템: 산화적 인산화를 통해 피루브산을 젖산으로 분해 ㉤ ATP－PCr 시스템: 세포 내 ADP 또는 Pi의 농도가 증가할 때 포스포프록토키나아제(PFK)를 활성화시켜 ATP 합성 ㉥ ATP－PCr 시스템: 단시간의 폭발적인 힘을 발휘하는 운동 시 PCr이 분해되며 발생한 에너지를 이용하여 ATP 합성",
+    "choices": [
+      "㉠, ㉢, ㉥",
+      "㉠, ㉣, ㉤",
+      "㉡, ㉢, ㉥",
+      "㉡, ㉣, ㉤"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-08",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 8,
+    "question": "<보기>의 ㉠, ㉡에 들어갈 호르몬이 바르게 연결된 것은? <보기> . 규칙적인 신체활동을 통해 골형성을 자극하거나 활동부족으로 골손실을 자극하는 칼슘(Ca2+) 조절 호르몬의 역할에 대한 설명이다. ∙( ㉠ )은 혈중 칼슘 농도가 증가하면 뼈의 칼슘 방출을 감소시킨다. ∙( ㉡ )은 혈중 칼슘 농도가 감소하면 뼈의 칼슘 방출을 증가시킨다. ㉠ ㉡",
+    "choices": [
+      "인슐린 부갑상선호르몬",
+      "안드로겐 티록신",
+      "칼시토닌 부갑상선호르몬",
+      "글루카곤 티록신"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-09",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 9,
+    "question": "해수면과 비교하여 고지 환경에서 운동 시 생리적 반응으로 옳지 않은 것은?",
+    "choices": [
+      "최대하 운동 시 폐환기량이 증가한다.",
+      "최대하 운동 시 심박수와 심박출량은 감소한다.",
+      "최대하 운동 시 동맥혈 산화헤모글로빈 포화도는 감소한다.",
+      "무산소 운동능력보다 유산소 운동능력이 더 감소한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-10",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 10,
+    "question": "골격근의 수축형태와 기능에 관한 설명으로 옳은 것은?",
+    "choices": [
+      "단축성 수축은 동적 수축이며 속도가 빠를수록 더 큰 힘이 생성된다.",
+      "단축성 수축은 근절의 길이가 짧아지는 수축이며 근절의 길이가 최소일 때 최대 힘이 생성된다.",
+      "신장성 수축은 정적 수축이며 속도가 0일 때 최대 힘이 생성된다.",
+      "동일 근육에서의 신장성 수축은 단축성 수축에 비해 같은 속도에서 더 큰 힘이 생성된다. B형 2급 스포츠지"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-11",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 11,
+    "question": "<보기>에 제시된 감각－운동 신경계의 인체 운동 반응 조절 과정을 단계별로 바르게 나열한 것은? <보기> . ㉠ 자극이 감각 뉴런을 통해 중추신경계로 전달된다. ㉡ 운동 자극이 중추신경계에서 운동 뉴런으로 전달된다. ㉢ 운동 자극이 근섬유에 전달되면 운동 반응이 일어난다. ㉣ 중추신경계가 정보를 해석하고 운동 반응을 결정한다. ㉤ 감각 수용기가 감각 자극을 받아들인다.",
+    "choices": [
+      "㉠→㉤→㉡→㉢→㉣",
+      "㉠→㉤→㉣→㉢→㉡",
+      "㉤→㉠→㉡→㉢→㉣",
+      "㉤→㉠→㉣→㉡→㉢"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-12",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 12,
+    "question": "운동 시 호르몬이 분비되는 내분비선과 주요기능에 관한 설명으로 옳지 않은 것은? 호르몬 내분비선 주요기능",
+    "choices": [
+      "알도스테론 부신피질 나트륨(Na+) 흡수, 수분 손실 억제",
+      "코티졸 부신피질 당신생, 유리지방산 동원 증가",
+      "에피네프린 부신수질 근육과 간 글리코겐 분해, 유리지방산 동원 증가",
+      "성장호르몬 뇌하수체후엽 단백질 합성 증가, 유리지방산 동원 증가"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-13",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 13,
+    "question": "유산소 운동 중 호흡계의 환기량 증가 요인에 관한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "중추 화학적 수용체인 경동맥체와 대동맥체는 동맥의 산소 분압 증가에 따라 환기량 증가를 자극한다.",
+      "근육 내 화학적 수용체는 칼륨(K+)과 수소(H+)의 농도 증가에 따라 환기량 증가를 자극한다.",
+      "근방추나 골지힘줄기관의 구심성 신경자극 증가는 환기량 증가를 자극한다.",
+      "사용된 근육의 운동단위 증가는 환기량 증가를 자극한다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-14",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 14,
+    "question": "<보기>에서 설명하는 신경세포 활동전위의 단계는? <보기> . ∙칼륨(K+) 채널이 열려있고, 칼륨이 세포 외로 이동하면서 세포 내는 음전하를 띠게 되는 단계 ∙이 단계 이후 칼륨 채널이 닫히고, 칼륨의 세포 외 유출이 적어짐에 따라 안정막 전위로 복귀",
+    "choices": [
+      "과분극",
+      "탈분극",
+      "재분극",
+      "불응기"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-15",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 15,
+    "question": "<보기>에서 설명하는 용어는? <보기> . ∙운동뉴런의 말단과 근섬유가 접합되어 있는 기능적 연결부위 ∙신경전달물질이 분비되는 공간 ∙시냅스 전 축삭말단, 시냅스 간극, 근섬유 원형질막의 운동종판으로 구성",
+    "choices": [
+      "시냅스(synapse, 연접)",
+      "운동단위(motor unit)",
+      "랑비에르 결절(node of Ranvier)",
+      "신경근 접합부(neuromuscular junction)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-16",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 16,
+    "question": "<보기>에서 설명하는 열손실 기전은? <보기> . ∙피부의 땀이나 호흡을 통하여 체열을 손실시킨다. ∙실내 트레드밀 달리기 중 열손실의 가장 주된 기전이다. ∙대기조건(습도, 온도)과 노출된 피부 표면적의 영향을 받는다.",
+    "choices": [
+      "복사",
+      "대류",
+      "증발",
+      "전도"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-17",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 17,
+    "question": "<보기>에서 설명하는 것은? <보기> . ∙고온환경의 운동 중 극도의 피로, 혼란, 혼미, 현기증, 구토 ∙심한 탈수 현상으로 심혈관계가 인체의 요구에 적절히 대처하지 못함 ∙심부체온 40℃ 미만",
+    "choices": [
+      "열사병",
+      "열탈진",
+      "열순응",
+      "저나트륨혈증"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-18",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 18,
+    "question": "<보기>의 심전도(ECG)에 관한 설명 중 옳은 것으로만 묶인 것은? <보기> . ㉠ 심방을 통한 전도속도가 감소하면 P파는 넓어진다. ㉡ PR간격은 심방의 탈분극부터 심실의 탈분극 전까지 걸리는 시간이다. ㉢ QRS복합파를 이용해서 심박수를 측정할 수 없다. ㉣ QRS복합파는 심실에서의 탈분극을 일컫는다. ㉤ ST분절은 심실 재분극에 소요되는 총 시간이다.",
+    "choices": [
+      "㉠, ㉡, ㉣",
+      "㉠, ㉡, ㉤",
+      "㉡, ㉢, ㉣",
+      "㉢, ㉣, ㉤"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-19",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 19,
+    "question": "저항성 트레이닝에 의한 근력 향상의 요인으로 적절하지 않은 것은?",
+    "choices": [
+      "TypeⅠ 섬유 수의 증가",
+      "TypeⅡ 섬유 크기의 증가",
+      "동원되는 운동단위 수의 증가",
+      "동원되는 십자형교(cross－bridge) 수의 증가"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-exercise-physiology-b-20",
+    "subjectId": "exercise-physiology",
+    "year": 2021,
+    "number": 20,
+    "question": "고강도 운동 시 심박출량 증가 요인으로 옳지 않은 것은?",
+    "choices": [
+      "혈중 에피네프린 증가에 따른 심박수 증가",
+      "활동근의 근육펌프 작용에 따른 정맥회귀량 증가",
+      "교감신경계의 활성에 따른 심실수축력 증가",
+      "부교감신경계의 활성에 따른 심박수 증가 면 2급 스포츠지"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  }
+]

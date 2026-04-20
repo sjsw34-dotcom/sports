@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2021-korean-pe-history-b-01",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 1,
+    "question": "한국체육사의 시대구분에 관한 내용으로 적절하지 않은 것은?",
+    "choices": [
+      "고대체육은 부족국가 및 삼국시대로 구분할 수 있다.",
+      "광복을 전후로 고대체육과 전통체육으로 구분할 수 있다.",
+      "갑오경장을 전후로 전통체육과 근대체육으로 구분할 수 있다.",
+      "고대체육, 중세체육, 근대체육, 전통체육으로 구분할 수 있다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-02",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 2,
+    "question": "체육 관련 사료 중 문헌사료가 아닌 것은?",
+    "choices": [
+      "고구려 무용총 수렵도(狩獵圖)",
+      "무예도보통지(武藝圖譜通志)",
+      "조선체육계(朝鮮體育界)",
+      "손기정 회고록(回顧錄)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-03",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 3,
+    "question": "조선시대 사정(射亭)에 관한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "전국에 사정(射亭)을 설치하고 습사(習射)를 장려하였다.",
+      "관설사정(官設射亭)과 민간사정(民間射亭)이 있었다.",
+      "병서(兵書) 강습과 마상(馬上) 무예 훈련을 주로 하였다.",
+      "민간사정(民間射亭)으로 오운정(五雲亭), 등룡정(登龍亭) 등이 있었다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-04",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 4,
+    "question": "화랑도의 교육방법에 관한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "입산수행은 화랑도 교육활동의 하나였다.",
+      "심신일체론적 사상을 바탕으로 전인 교육을 지향하였다.",
+      "편력(遍歷)은 명산대천을 돌아다니며 수련하는 야외활동이었다.",
+      "삼강오륜(三綱五倫)의 붕우유신(朋友有信)을 바탕으로 도의 교육을 실시하였다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-05",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 5,
+    "question": "삼국시대 민속놀이의 명칭이 바르게 연결된 것은?",
+    "choices": [
+      "석전(石戰)－제기차기",
+      "마상재(馬上才)－널뛰기",
+      "방응(放鷹)－매사냥",
+      "수박(手搏)－장기"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-06",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 6,
+    "question": "<보기>의 ( ) 안에 들어갈 용어는? <보기> . 고려시대 최고의 교육기관인 국자감에는 7재(七齋)를 두었는데, 그 중 무학을 공부하는 ( )가 있었다. 이를 통해 고려의 관학에서는 무예교육이 중시되었음을 알 수 있다.",
+    "choices": [
+      "강예재(講藝齋)",
+      "대빙재(待聘齋)",
+      "경덕재(經德齋)",
+      "양정재(養正齋)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-07",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 7,
+    "question": "<보기>의 고려시대 격구(擊毬)에 관한 설명 중 옳은 것으로만 묶인 것은? <보기> . ㉠ 왕, 귀족, 무인들의 오락이나 스포츠로 발달했다. ㉡ 가죽주머니로 만든 공을 발로 차는 형식의 무예이다. ㉢ 말타기 능력의 향상 및 군사훈련을 위한 수단으로 활용되었다. ㉣ 서민들의 오락적 신체 활동으로 급속히 확산되었다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉡, ㉣",
+      "㉢, ㉣"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-08",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 8,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 고려시대 무예의 명칭이 바르게 연결된 것은? <보기> . ( ㉠ )은/는 고려시대 무인들에게 적극 권장되었으며, 명종(明宗, 1170∼1197) 때에는 이 무예를 겨루게 하여 승자에게 벼슬을 주었다. ( ㉡ )은/는 유교를 치국의 도(道)로 삼았던 고려시대에도 6예의 어(御)에 속하는 것으로 군자의 중요한 덕목 중 하나였다. ㉠ ㉡",
+    "choices": [
+      "격구(擊毬) 수박(手搏)",
+      "수박(手搏) 마술(馬術)",
+      "마술(馬術) 궁술(弓術)",
+      "궁술(弓術) 방응(放鷹)"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-09",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 9,
+    "question": "부족국가시대의 저포(樗蒲)에 관한 설명으로 옳은 것은?",
+    "choices": [
+      "위기(圍祺)라는 용어로 불리기도 하였다.",
+      "제천의식과 관련된 대표적인 민속놀이였다.",
+      "두 사람이 서로 맞잡고 힘을 겨루는 경기였다.",
+      "달리는 말 위에서 여러 가지 동작을 행하는 경기였다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-10",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 10,
+    "question": "조선시대 줄다리기에 관한 설명으로 옳은 것은?",
+    "choices": [
+      "동채싸움으로도 불리며, 동네별로 승부를 겨루는 경기였다.",
+      "상박(相搏)으로도 불리며, 궁정과 귀족사회의 유희 중 하나였다.",
+      "추천(鞦韆)으로도 불리며, 단오절에 많이 행해진 서민들의 민속놀이였다.",
+      "삭전(索戰), 갈전(葛戰)으로도 불리며, 촌락공동체의 의례적 연중행사로 성행했다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-11",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 11,
+    "question": "개화기 이화학당에 관한 설명으로 옳은 것은?",
+    "choices": [
+      "스크랜턴(M. Scranton)이 설립한 학교로 체조를 교과목으로 편성했다.",
+      "아펜젤러(H. Appenzeller)가 설립한 학교로 각종 서구 스포츠를 도입했다.",
+      "이승훈이 설립한 학교로 민족정신의 고취와 체력단련을 위해 체육을 강조했다.",
+      "개화파 관리들이 중심이 되어 설립한 학교로 무사양성을 위한 무예반을 설치했다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-12",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 12,
+    "question": "<보기>의 ㉠, ㉡에 들어갈 용어가 바르게 연결된 것은? <보기> . ( ㉠ )은/는 1903년 10월 18일에 발족되었으며, 1906년 운동부를 개설하여 개화기에 가장 활발하게 체육활동을 전개한 체육단체 중 하나였다. 이 단체의 총무였던 ( ㉡ )은/는 야구, 농구 등의 다양한 근대스포츠 문화를 우리나라 에 소개하고 확산시키는 노력을 하였다. ㉠ ㉡",
+    "choices": [
+      "회동구락부 언더우드(H. Underwood)",
+      "대동체육부 노백린",
+      "무도기계체육부 윤치호",
+      "황성기독교청년회 질레트(P. Gillett)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-13",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 13,
+    "question": "개화기에 설립된 체육단체가 아닌 것은?",
+    "choices": [
+      "조선체육협회",
+      "대한체육구락부",
+      "대한국민체육회",
+      "대한흥학회운동부 B형 2급 스포츠지"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-14",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 14,
+    "question": "<보기>에서 설명하는 인물은? <보기> . ∙조선체력증진법연구회를 설립하고, 전국의 역도 보급에 앞장섰다. ∙1926년 휘문고등학교 체육교사로 부임해 역도부를 조직하고 지도했다. ∙대한체조협회 회장, 대한씨름협회 회장을 역임하며 한국 스포츠 발전에 공헌을 했다.",
+    "choices": [
+      "서상천",
+      "백용기",
+      "이원용",
+      "유억겸"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-15",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 15,
+    "question": "일제강점기에 발생한 체육사적 사실이 아닌 것은?",
+    "choices": [
+      "경성운동장이 설립되어 각종 스포츠대회가 개최되었다.",
+      "덴마크의 닐스 북(Neils Bukh)이 체조강습회를 개최했다.",
+      "남승룡이 베를린 올림픽경기대회에서 동메달을 획득했다.",
+      "영어학교에서 한국 최초의 운동회인 화류회가 개최되었다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-16",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 16,
+    "question": "<보기>에서 설명하는 올림픽경기대회는? <보기> . ∙1936년에 개최된 하계올림픽경기대회였다. ∙마라톤경기에서 손기정 선수가 금메달을 획득했다. ∙일장기 말소사건은 국권회복과 민족의식을 일깨워주는 계기가 되었다.",
+    "choices": [
+      "제9회 암스테르담 올림픽경기대회",
+      "제11회 베를린 올림픽경기대회",
+      "제14회 런던 올림픽경기대회",
+      "제17회 로마 올림픽경기대회"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-17",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 17,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 국제대회가 바르게 연결된 것은? <보기> . 1990년 남북체육장관회담의 결과, 1991년 사상 첫 남북 스포츠 단일팀이 구성되었다. ( ㉠ )에 남북단일팀으로 참가한 코리아 팀은 여자단체전에서 세계를 제패했으며, ( ㉡ )에도 청소년대표팀이 남북단일팀으로 참가하여 8강 진출이라는 위업을 달성했다. ㉠ ㉡",
+    "choices": [
+      "41회 지바세계탁구선수권 대회 제4회 멕시코세계청소년축구대회",
+      "32회 사라예보세계탁구선수권 대회 제6회 포르투갈세계청소년축구대회",
+      "32회 사라예보세계탁구선수권 대회 제4회 멕시코세계청소년축구대회",
+      "41회 지바세계탁구선수권 대회 제6회 포르투갈세계청소년축구대회"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-18",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 18,
+    "question": "<보기>의 ㉠∼㉣을 연대순으로 바르게 연결한 것은? <보기> . ㉠ 한국은 동계올림픽경기대회에 최초로 태극기를 단 선수단을 파견하였다. ㉡ 한국은 최초로 하계올림픽경기대회를 개최하였고 종합 4위의 성적을 거두었다. ㉢ 남한과 북한의 선수가 최초로 하계올림픽경기대회에서 동시 입장을 하였다. ㉣ 한국은 광복 후 하계올림픽경기대회에서 최초로 금메달을 획득하였다.",
+    "choices": [
+      "㉠－㉢－㉡－㉣",
+      "㉠－㉢－㉣－㉡",
+      "㉠－㉣－㉡－㉢",
+      "㉣－㉠－㉡－㉢"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-19",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 19,
+    "question": "<보기>에 해당하는 체육단체에 관한 설명으로 옳지 않은 것은? <보기> . ∙고려구락부를 모체로 설립된 단체이다. ∙1920년 7월 동아일보사의 후원으로 일본유학생과 국내체육인들이 조선인의 체육을 장려할 목적으로 설립하였다.",
+    "choices": [
+      "1920년 전조선야구대회를 개최했다.",
+      "스포츠 보급의 일환으로 운동구점을 설치하고 운영하였다.",
+      "1925년 경성운동장 개장을 기념하기 위해 조선신궁경기대회를 개최했다.",
+      "육상경기의 연구를 위한 육상경기위원회 조직과 육상경기규칙을 편찬했다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  },
+  {
+    "id": "2021-korean-pe-history-b-20",
+    "subjectId": "korean-pe-history",
+    "year": 2021,
+    "number": 20,
+    "question": "<보기>의 내용을 실시한 정권의 스포츠 정책이 아닌 것은? <보기> . 1982년 중앙정부행정조직에 체육부를 신설하고, 아시안게임과 올림픽 경기대회의 준비, 우수선수육성 및 지도자의 양성 등 스포츠 진흥운동을 전개했다.",
+    "choices": [
+      "프로축구의 출범",
+      "프로야구의 출범",
+      "태릉선수촌의 건립",
+      "국군체육부대의 창설 2급 스포츠지"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2021-2b"
+    ],
+    "sourceRef": "2021-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T05:18:22Z",
+    "updatedAt": "2026-04-20T05:18:22Z"
+  }
+]

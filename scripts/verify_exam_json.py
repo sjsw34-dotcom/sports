@@ -39,6 +39,9 @@ CERT_PATTERNS = {
     "pro-1": r"1급 전문스포츠지도사",
     "disabled-1": r"1급 장애인스포츠지도사",
     "health": r"건강운동관리사",
+    "2geup-ryu": r"2급류 체육지도사(?!\s*장애인)",
+    "disabled-special": r"2급류 체육지도사 장애인특별과정",
+    "1geup-ryu": r"1급류 체육지도사",
 }
 
 
@@ -56,17 +59,21 @@ def extract_answer_line(
     if not cm:
         raise SystemExit(f"cert '{cert}' not found")
 
-    # 다음 자격증 등장 전까지가 해당 섹션
-    all_cert_starts = []
-    for c_pat in CERT_PATTERNS.values():
-        all_cert_starts.extend(m.start() for m in re.finditer(c_pat, text))
-    all_cert_starts.sort()
+    # 같은 cert가 여러 번(페이지마다) 등장할 수 있으니 모든 섹션을 이어 붙임.
+    # 다음 "다른" cert 등장 전까지가 각 섹션.
+    other_starts = []
+    for c_id, c_pat in CERT_PATTERNS.items():
+        if c_id == cert:
+            continue
+        other_starts.extend(m.start() for m in re.finditer(c_pat, text))
+    other_starts.sort()
 
-    sec_start = cm[0].start()
-    sec_end = next(
-        (s for s in all_cert_starts if s > sec_start), len(text)
-    )
-    section = text[sec_start:sec_end]
+    pieces: list[str] = []
+    for m in cm:
+        s = m.start()
+        e = next((o for o in other_starts if o > s), len(text))
+        pieces.append(text[s:e])
+    section = "\n".join(pieces)
 
     # 형 구간 자르기
     form_matches = list(re.finditer(r"(?m)^([AB])형\s*$", section))
