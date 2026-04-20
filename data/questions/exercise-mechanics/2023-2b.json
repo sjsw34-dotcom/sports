@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2023-exercise-mechanics-b-01",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 1,
+    "question": "단위 시간당 이동한 변위(displacement)를 나타내는 벡터량은?",
+    "choices": [
+      "속도(velocity)",
+      "거리(distance)",
+      "가속도(acceleration)",
+      "각속도(angular velocity)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-02",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 2,
+    "question": "근육의 신장(원심)성 수축(eccentric contraction)이 아닌 것은?",
+    "choices": [
+      "스쿼트의 다리를 굽히는 동작에서 큰볼기근(대둔근, gluteus maximus)의 수축",
+      "팔굽혀펴기의 팔을 펴는 동작에서 위팔세갈래근(상완삼두근, triceps brachii)의 수축",
+      "턱걸이의 팔을 펴는 동작에서 넓은등근(광배근, latissimus dorsi)의 수축",
+      "윗몸일으키기의 뒤로 몸통을 펴는 동작에서 배곧은근(복직근, rectus abdominis)의 수축"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-03",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 3,
+    "question": "운동역학(sports biomechanics)의 내용으로 적절한 것은?",
+    "choices": [
+      "스포츠 현상을 사회학적 연구 이론과 방법으로 설명하는 학문이다.",
+      "운동에 의한 생리적･기능적 변화를 기술하고 설명하는 학문이다.",
+      "스포츠 수행에 영향을 주는 심리적 요인을 설명하는 학문이다.",
+      "스포츠 상황에서 인체에 발생하는 힘과 그 효과를 설명하는 학문이다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-04",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 4,
+    "question": "지면반력기(force plate)를 통해 얻을 수 있는 변인이 아닌 것은?",
+    "choices": [
+      "걷기 동작에서 디딤발에 가해지는 힘의 방향",
+      "외발서기 동작에서 디딤발 압력중심(center of pressure)의 이동거리",
+      "서전트 점프 동작에서 발로 지면에 힘을 가한 시간",
+      "달리기 동작의 체공기(non-supporting phase)에서 발에 작용하는 힘의 크기"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-05",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 5,
+    "question": "인체의 시상(전후)면(sagittal plane)에서 수행되는 움직임이 아닌 것은?",
+    "choices": [
+      "인체의 수직축(종축)을 중심으로 회전하는 피겨스케이팅 선수의 몸통분절 움직임",
+      "페달링하는 사이클 선수의 무릎관절 굴곡/신전 움직임",
+      "100m 달리기를 하는 육상 선수의 발목관절 저측/배측굴곡 움직임",
+      "앞구르기를 하는 체조 선수의 몸통분절 움직임 면 B형 2급 스포츠지"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-06",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 6,
+    "question": "<보기>에서 복합운동(general motion)에 해당하는 것을 모두 고른 것은? <보기> . ㉠ 커브볼로 던져진 야구공의 움직임 ㉡ 페달링하면서 직선구간을 질주하는 사이클 선수의 대퇴(넙다리) 분절 움직임 ㉢ 공중회전하면서 낙하하는 다이빙 선수의 몸통 움직임",
+    "choices": [
+      "㉠",
+      "㉠, ㉢",
+      "㉡, ㉢",
+      "㉠, ㉡, ㉢"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-07",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 7,
+    "question": "인체 무게중심에 대한 설명으로 옳은 것은? (단, 공기저항은 무시함)",
+    "choices": [
+      "무게중심은 항상 신체 내부에 위치한다.",
+      "체조 선수는 공중회전하는 동안 무게중심을 지나는 축을 중심으로 회전하게 된다.",
+      "지면에 선 상태로 팔을 위로 올리면 무게중심은 아래로 이동한다.",
+      "서전트 점프 이지(take-off) 후, 공중에서 팔을 위로 올리면 무게중심은 위로 이동한다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-08",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 8,
+    "question": "농구 자유투에서 투사된 농구공의 운동에 대한 설명으로 옳은 것은? (단, 공기저항은 무시함)",
+    "choices": [
+      "농구공 질량중심의 수직속도는 일정하다.",
+      "최고점에서 농구공 질량중심의 수평속도는 0m/s가 된다.",
+      "최고점에서 농구공 질량중심은 수평방향으로 등속도 운동을 한다.",
+      "최고점에서 농구공 질량중심은 수직방향으로 등속도 운동을 한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-09",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 9,
+    "question": "<그림>과 같이 공이 지면(수평 고정면)에 충돌하는 상황에 관한 설명으로 옳은 것은? (단, 공의 충돌 전 수평속도 및 수직속도는 같음)",
+    "choices": [
+      "충돌 후, 무회전에 비해 백스핀된 공의 수평속도가 크다.",
+      "충돌 후, 무회전에 비해 톱스핀된 공의 수직속도가 크다.",
+      "충돌 후, 무회전에 비해 톱스핀된 공의 반사각이 크다.",
+      "충돌 후, 무회전된 공과 백스핀된 공의 리바운드 높이는 같다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-10",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 10,
+    "question": "<그림>에서 달리기 선수의 질량은 60kg이며 오른발 착지 시 무게중심의 수평속도는 2m/s이다. A와 B의 면적이 각각 80N･s와 20N･s일 때, 오른발 이지(take-off) 순간 무게중심의 수평속도는?",
+    "choices": [
+      "3m/s",
+      "4m/s",
+      "5m/s",
+      "6m/s"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-11",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 11,
+    "question": "<보기>의 ㉠, ㉡에 들어갈 용어가 바르게 연결한 것은? <보기> . 농구선수는 양손 체스트패스 캐치 동작에서 공을 몸쪽으로 당겨 받는다. 그 과정에서 공을 받는 ( ㉠ )은 늘리고 ( ㉡ )은 줄일 수 있다. ㉠ ㉡",
+    "choices": [
+      "시간 충격력(impact force)",
+      "충격력 시간",
+      "충격량(impulse) 시간",
+      "충격력 충격량"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-12",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 12,
+    "question": "역학적 일(work)을 하지 않은 것은?",
+    "choices": [
+      "역도 선수가 바닥에 있던 100kg의 바벨을 1m 높이로 들어 올렸다.",
+      "레슬링 선수가 상대방을 굴려서 1m 옆으로 이동시켰다.",
+      "체조 선수가 철봉에 매달려 10초 동안 정지해 있었다.",
+      "육상 선수가 달려서 100m를 이동했다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-13",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 13,
+    "question": "마그누스 효과(Magnus effect)에 관한 내용이 아닌 것은?",
+    "choices": [
+      "레인에서 회전하는 볼링공의 경로가 휘어지는 현상",
+      "커브볼로 투구된 야구공의 경로가 휘어지는 현상",
+      "사이드스핀이 가해진 탁구공의 경로가 휘어지는 현상",
+      "회전(탑스핀)이 걸린 테니스공이 아래로 빠르게 떨어지는 현상 면 2급 스포츠지"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-14",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 14,
+    "question": "스키점프 동작의 역학적 에너지에 대한 설명으로 옳지 않은 것은? (단, 공기저항은 무시함)",
+    "choices": [
+      "운동에너지는 지면 착지 직전에 가장 크다.",
+      "위치에너지는 수직 최고점에서 가장 크다.",
+      "운동에너지는 스키점프대 이륙 직후부터 지면 착지 직전까지 동일하다.",
+      "역학적 에너지는 스키점프대 이륙 직후부터 지면 착지 직전까지 보존된다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-15",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 15,
+    "question": "<보기>의 그림에 제시된 덤벨 컬(dumbbell curl) 운동에서 팔꿈치관절 각도(θ)와 팔꿈치관절에 발생되는 회전력(torque)의 관계를 옳게 나타낸 그래프는? (단, 덤벨 컬 운동은 등각속도 운동임) <보기> .",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-16",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 16,
+    "question": "인체 지레에 대한 설명 중 옳은 것은?",
+    "choices": [
+      "지레에서 저항팔이 힘팔보다 긴 경우에는 힘에 있어서 이득이 있다.",
+      "1종지레는 저항점이 받침점과 힘점 사이에 있는 형태로, 팔굽혀펴기 동작이 이에 속한다.",
+      "2종지레는 받침점이 힘점과 저항점 사이에 있는 형태로, 힘에 있어서 이득이 있다.",
+      "3종지레는 힘점이 받침점과 저항점 사이에 있는 형태로, 운동의 범위와 속도에 있어서 이득이 있다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-17",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 17,
+    "question": "<보기>의 ㉠~㉣에 들어갈 내용을 바르게 연결한 것은? <보기> . 다이빙 선수의 공중회전 동작에서는 다이빙 플랫폼 이지(take-off) 직후에 다리와 팔을 회전축 가까이 위치시켜 관성모멘트를 ( ㉠ )시킴으로써 각속도를 ( ㉡ )시켜야 한다. 입수 동작에서는 팔과 다리를 최대한 펴서 관성모멘트를 ( ㉢ )시킴으로써 각속도를 ( ㉣ )시켜야 한다. ㉠ ㉡ ㉢ ㉣",
+    "choices": [
+      "증가 감소 증가 감소",
+      "감소 증가 증가 감소",
+      "감소 감소 증가 증가",
+      "증가 증가 감소 감소"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-18",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 18,
+    "question": "<보기>의 ㉠~㉢에 들어갈 내용을 바르게 연결한 것은? <보기> . 신체의 정적 안정성을 높이기 위해서는 기저면(base of support)을 ( ㉠ ), 무게중심을 ( ㉡ ), 수직 무게중심선을 기저면의 중앙과 ( ㉢ ) 위치시키는 것이 효과적이다. ㉠ ㉡ ㉢",
+    "choices": [
+      "좁히고 높이고 가깝게",
+      "좁히고 높이고 멀게",
+      "넓히고 낮추고 가깝게",
+      "넓히고 낮추고 멀게"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-19",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 19,
+    "question": "일률(power)의 단위가 아닌 것은?",
+    "choices": [
+      "N･m/s",
+      "kg･m/s2",
+      "Joule/s",
+      "Watt"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-mechanics-b-20",
+    "subjectId": "exercise-mechanics",
+    "year": 2023,
+    "number": 20,
+    "question": "30m/s의 수평투사속도로 야구공을 던질 때, 야구공의 체공시간이 2초라면 투사거리는? (단, 공기저항은 무시함)",
+    "choices": [
+      "15m",
+      "30m",
+      "60m",
+      "90m 면 B형 2급 스포츠지"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  }
+]

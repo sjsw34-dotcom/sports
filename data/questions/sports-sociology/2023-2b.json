@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2023-sports-sociology-b-01",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 1,
+    "question": "<보기>에서 설명하는 스포츠 세계화의 원인은? <보기> . ‘코먼웰스 게임(commonwealth games)’은 영연방국가들이 참가하는 영국의 스포츠로 알려진 크리켓과 럭비는 대부분 영국의 식민지였던 영연방국가에서 인기가 있다.",
+    "choices": [
+      "제국주의",
+      "민족주의",
+      "다문화주의",
+      "문화적 상대주의"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-02",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 2,
+    "question": "<보기>에서 코클리(J. Coakley)의 상업주의에 따른 스포츠의 변화에 관한 설명으로 옳은 것을 모두 고른 것은? <보기> . ㉠스포츠 조직의 변화:스포츠 조직은 경품 추첨, 연예인의 시구와 같은 의전행사에 관심을 갖게 되었다. ㉡스포츠 구조의 변화:스포츠의 심미적 가치보다 영웅적 가치를 중시하게 되었다. ㉢스포츠 목적의 변화:아마추어리즘보다 흥행에 입각한 프로페셔널리즘을 추구하게 되었다. ㉣스포츠 내용의 변화:프로 농구의 경우, 전･후반제에서 쿼터제로 변경되었다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉡, ㉢, ㉣",
+      "㉠, ㉢, ㉣"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-03",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 3,
+    "question": "<보기>에서 스포츠의 교육적 순기능으로만 묶인 것은? <보기> . ㉠학교와 지역사회의 통합 ㉡평생체육의 연계 ㉢스포츠의 상업화 ㉣학업활동의 격려 ㉤참여기회의 제한 ㉥승리지상주의",
+    "choices": [
+      "㉠, ㉡, ㉣",
+      "㉠, ㉢, ㉤",
+      "㉡, ㉢, ㉣",
+      "㉡, ㉤, ㉥"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-04",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 4,
+    "question": "<보기>에 해당하는 케년(G. Kenyon)의 스포츠 참가유형은? <보기> . ∙특정 선수의 사인볼 수집 ∙특정 스포츠 관련 SNS 활동 ∙특정 스포츠 물품에 대한 애착",
+    "choices": [
+      "일탈적 참가",
+      "행동적 참가",
+      "정의적 참가",
+      "인지적 참가"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-05",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 5,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 거트만(A. Guttmann)의 근대스포츠 특징은? <보기> . ∙( ㉠ ):국제스포츠조직은 규칙의 제정, 대회의 운영, 종목 진흥 등의 역할을 담당한다. ∙( ㉡ ):투수라는 같은 포지션 내에서도 선발, 중간, 마무리 등으로 구분된다. ㉠ ㉡",
+    "choices": [
+      "관료화 평등성",
+      "합리화 평등성",
+      "관료화 전문화",
+      "합리화 전문화"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-06",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 6,
+    "question": "스나이더(E. Snyder)가 제시한 스포츠 사회화의 전이 조건이 아닌 것은?",
+    "choices": [
+      "참가의 가치",
+      "참가의 정도",
+      "참가의 자발성 여부",
+      "사회화 주관자의 위신과 위력"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-07",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 7,
+    "question": "<보기>는 버렐(S. Birrell)과 로이(J. Loy)의 스포츠 미디어를 통해 충족할 수 있는 욕구에 관한 설명이다. ㉠~㉢에 해당하는 용어가 바르게 연결된 것은? <보기> . ∙( ㉠ ) 욕구:스포츠 경기의 결과, 선수와 팀에 대한 통계적 지식을 제공해 준다. ∙( ㉡ ) 욕구:스포츠에 대한 흥미와 흥분을 제공해 준다. ∙( ㉢ ) 욕구:다른 사회집단과 경험을 공유하게 하며 공동체 의식을 갖게 한다. ㉠ ㉡ ㉢",
+    "choices": [
+      "정의적 인지적 통합적",
+      "인지적 통합적 정의적",
+      "정의적 통합적 인지적",
+      "인지적 정의적 통합적"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-08",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 8,
+    "question": "<보기>의 ㉠, ㉡에 해당하는 용어가 바르게 연결된 것은? <보기> . ∙( ㉠ ):국민의 관심이 높은 스포츠 경기를 무료 혹은 저렴한 비용으로 시청할 수 있는 권리를 말한다. ∙( ㉡ ):선수 개인의 사생활을 중심으로 대중을 자극하고 호기심에 호소하는 흥미 위주의 스포츠 관련 보도를 지칭한다. ㉠ ㉡",
+    "choices": [
+      "독점 중계권 뉴 저널리즘(new journalism)",
+      "보편적 접근권 옐로 저널리즘(yellow journalism)",
+      "독점 중계권 옐로 저널리즘(yellow journalism)",
+      "보편적 접근권 뉴 저널리즘(new journalism) B형 2급 스포츠지"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-09",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 9,
+    "question": "<보기>에서 설명하는 프로스포츠의 제도는? <보기> . ∙프로스포츠 구단이 소속 선수와의 계약을 해지하고 다른 구단에게 해당 선수를 양도받을 의향이 있는지 공개적으로 묻는 제도이다. ∙기량이 떨어지거나 심각한 부상을 당한 선수를 방출하는 수단으로 이용하고 있다.",
+    "choices": [
+      "보류 조항(reserve clause)",
+      "웨이버 조항(waiver rule)",
+      "선수대리인(agent)",
+      "자유계약(free agent)"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-10",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 10,
+    "question": "스포츠 일탈의 순기능에 관한 사례로 적절하지 않은 것은?",
+    "choices": [
+      "승부조작 사례를 보고 많은 선수들이 경각심을 갖는다.",
+      "아이스하키 경기에서 허용된 주먹다짐은 잠재된 공격성을 해소시켜 준다.",
+      "스포츠에서 선수들의 약물복용이 지속되면 경기의 공정성이 훼손된다.",
+      "높이뛰기에서 배면뛰기 기술의 창안은 기록경신에 기여하고 있다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-11",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 11,
+    "question": "<보기>는 스트렌크(A. Strenk)가 제시한 국제정치에서 스포츠의 기능에 관한 설명이다. ㉠~㉢에 해당하는 내용이 바르게 연결된 것은? <보기> . ∙( ㉠ ):2002년 한일월드컵 4강 진출로 대한민국이 축구 강국으로 인식 ∙( ㉡ ):1980년 모스크바올림픽에서 서방 국가들의 보이콧 선언 ∙( ㉢ ):1936년 베를린올림픽에서 나치즘의 정당성과 우월성 과시 ㉠ ㉡ ㉢",
+    "choices": [
+      "외교적 도구 정치이념 선전 국위선양",
+      "국위선양 외교적 항의 정치이념 선전",
+      "국위선양 외교적 도구 외교적 항의",
+      "외교적 도구 외교적 항의 정치이념 선전"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-12",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 12,
+    "question": "<보기>에서 설명하는 부르디외(P. Bourdieu)의 문화자본 유형은? <보기> . ∙테니스의 경기 기술뿐만 아니라 경기 매너도 습득하게 된다. ∙스포츠 활동처럼 몸으로 체득하게 되는 성향을 의미한다. ∙획득하는데 시간이 오래 걸리고, 타인에게 양도나 전이, 교환이 어렵다.",
+    "choices": [
+      "체화된(embodied) 문화자본",
+      "객체화된(objectified) 문화자본",
+      "제도화된(institutionalized) 문화자본",
+      "주체화된(subjectified) 문화자본"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-13",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 13,
+    "question": "<보기>에서 투민(M. Tumin)이 제시한 스포츠계층의 특성 중 보편성(편재성)에 해당하는 것으로만 묶인 것은? <보기> . ㉠스포츠는 인기종목과 비인기종목으로 구분된다. ㉡과거에 비해 운동선수들의 지위가 향상되고 있다. ㉢종합격투기는 체급에 따라 대전료와 중계권료 등에 차등이 있다. ㉣계층에 따라 스포츠 참여 빈도, 유형, 종목이 달라지며, 이러한 차이는 개인의 삶에 영향을 미친다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉡, ㉣",
+      "㉢, ㉣"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-14",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 14,
+    "question": "<보기>의 밑줄 친 ㉠, ㉡을 설명하는 집합행동 이론이 바르게 연결된 것은? <보기> . 이 코치: 어제 축구 봤어? 경기 도중 관중폭력이 발생했잖아. 김 코치: ㉠ 나는 그 경기를 경기장에서 직접 봤는데 관중들의 야유 소리가 점점 커지면서 관중폭력이 일어났어. 이 코치: ㉡ 맞아! 그 경기 이전에 이미 관중의 인종차별 사건이 있었잖아. 만약 인종차별이 먼저 발생하지 않았다면, 어제 경기에서 그런 관중폭력은 없었을 거야. ㉠ ㉡",
+    "choices": [
+      "전염이론 규범생성이론",
+      "수렴이론 부가가치이론",
+      "전염이론 부가가치이론",
+      "수렴이론 규범생성이론"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-15",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 15,
+    "question": "메기(J. Magee)와 서덴(J. Sugden)이 제시한 스포츠 노동이주의 유형에 관한 설명 중 적절하지 않은 것은?",
+    "choices": [
+      "개척자형:스포츠 보급을 통해 금전적 보상을 추구하는 유형",
+      "정착민형:영구적으로 정착할 수 있는 곳을 찾는 유형",
+      "귀향민형:해외에서의 스포츠 경험을 바탕으로 자국으로 복귀하는 유형",
+      "유목민형:개인의 취향대로 흥미로운 장소를 돌아다니면서 스포츠에 참여하는 유형"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-16",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 16,
+    "question": "<보기>는 코클리(J. Coakley)가 제시한 스포츠 일탈에 관한 설명이다. ㉠, ㉡에 해당하는 용어가 바르게 연결된 것은? <보기> . ∙( ㉠ )에 따르면 스포츠 일탈이 용인되는 범위는 사회적으로 타협하는 과정을 통해 구성된다. ∙( ㉡ )는 과훈련(over-training), 부상 투혼 등을 거부감 없이 무비판적으로 수용하는 것이다. ㉠ ㉡",
+    "choices": [
+      "상대론적 접근 과소동조",
+      "절대론적 접근 과잉동조",
+      "절대론적 접근 과소동조",
+      "상대론적 접근 과잉동조 2급 스포츠지"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-17",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 17,
+    "question": "스포츠사회화를 이해하기 위한 사회학습이론의 관점으로 적절하지 않은 것은?",
+    "choices": [
+      "상과 벌을 통해 행동이 변화한다.",
+      "다른 사람의 행동을 관찰하여 모방이 일어난다.",
+      "사회화 주관자의 가르침을 통해 행동이 변화한다.",
+      "개인은 자신이 처해있는 상황을 스스로 학습하고 변화한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-18",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 18,
+    "question": "<보기>에서 설명하는 스포츠사회학 이론은? <보기> . ∙일상에서 특정 물건을 소비하는 것은 자신의 계급 위치를 상징화하는 행위이다. ∙자원과 시간의 소비가 요구되는 스포츠에 참여하는 것은 계급 표식 행위이다. ∙고가의 스포츠용품, 골프 회원권 등의 과시적 소비 양상이 나타난다.",
+    "choices": [
+      "갈등이론",
+      "구조기능이론",
+      "비판이론",
+      "상징적 상호작용론"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-19",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 19,
+    "question": "<보기>에서 설명하는 맥퍼슨(B. McPherson)의 스포츠 미디어 이론은? <보기> . ∙대중매체를 통한 개인의 스포츠 소비 형태는 중요타자의 가치와 소비행동에 의해 영향을 받는다. ∙스포츠 수용자 역할로의 사회화는 스포츠에 참여하는 가족 구성원으로부터 받은 스포츠 소비에 대한 승인 정도가 중요하게 작용한다.",
+    "choices": [
+      "개인차 이론",
+      "사회범주 이론",
+      "문화규범 이론",
+      "사회관계 이론"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-sociology-b-20",
+    "subjectId": "sports-sociology",
+    "year": 2023,
+    "number": 20,
+    "question": "<보기>에서 설명하는 스포츠의 정치적 속성은? <보기> . 에티즌(D. Eitzen)과 세이지(G. Sage)에 의하면 다양한 팀, 리그, 선수단체 및 행정기구는 각각의 특성에 따라 불평등하게 배분된 자원과 권한을 갖게 되고, 더 많은 권한을 갖기 위해 대립적 갈등을 겪게 된다.",
+    "choices": [
+      "보수성",
+      "긴장관계",
+      "권력투쟁",
+      "상호의존성"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  }
+]

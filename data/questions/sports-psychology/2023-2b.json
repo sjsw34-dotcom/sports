@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2023-sports-psychology-b-01",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 1,
+    "question": "<보기>에서 설명하는 개념은? <보기> . 체육관에서 관중의 함성과 응원 소리에도 불구하고, 작전타임에서 코치와 선수는 서로 의사소통이 가능하다.",
+    "choices": [
+      "스트룹 효과(Stroop effect)",
+      "지각협소화(perceptual narrowing)",
+      "무주의 맹시(inattention blindness)",
+      "칵테일파티 효과(cocktail party effect)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-02",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 2,
+    "question": "데시(E. Deci)와 라이언(R. Ryan)이 제시한 자기결정이론(self-determination theory)에서 외적동기 유형으로 분류되지 않는 것은?",
+    "choices": [
+      "무동기(amotivation)",
+      "확인규제(identified regulation)",
+      "통합규제(integrated regulation)",
+      "의무감규제(introjected regulation)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-03",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 3,
+    "question": "스포츠심리학의 주된 연구의 동향과 영역에 포함되지 않는 것은?",
+    "choices": [
+      "인지적 접근과 현장 연구",
+      "경험주의에 기초한 성격 연구",
+      "생리학적 항상성에 관한 연구",
+      "사회적 촉진 및 각성과 운동수행의 관계 연구"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-04",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 4,
+    "question": "<표>는 젠타일(A. Gentile)의 이차원적 운동기술분류이다. 야구 유격수가 타구된 공을 잡아서 1루로 송구하는 움직임이 해당하는 곳은? 동작의 요구(기능) 신체 이동 없음 신체 이동 있음 (신체의 안정성) (신체의 불안정성) 구 분 물체 물체 물체 물체 조작 조작 조작 조작 없음 있음 없음 있음 동작 시도 간 환경 변이성 없음 안정적인 조절 조건 환 동작 시도 간 경 환경 변이성 적 맥 동작 시도 간 ① ③ 락 환경 변이성 없음 비안정적 조절 조건 동작 시도 간 ② ④ 환경 변이성 B형 2급 스포츠지",
+    "choices": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": true,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-05",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 5,
+    "question": "뉴웰(K. Newell)이 제시한 움직임 제한(constraints) 요소의 유형이 다른 것은?",
+    "choices": [
+      "운동능력이 움직임을 제한한다.",
+      "인지, 동기, 정서상태가 움직임을 제한한다.",
+      "신장, 몸무게, 근육형태가 움직임을 제한한다.",
+      "과제목표와 특성, 규칙, 장비가 움직임을 제한한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-06",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 6,
+    "question": "<보기>에서 설명하는 게셀(A. Gesell)과 에임스(L. Ames)의 운동발달의 원리가 아닌 것은? <보기> . ∙머리에서 발 방향으로 발달한다. ∙운동발달은 일련의 방향성을 갖는다. ∙운동협응의 발달순서가 있다. 양측:상지 혹은 하지의 양측을 동시에 움직이는 형태를 보인다. 동측:상하지를 동시에 움직이는 형태를 보인다. 교차:상하지를 동시에 움직이는 형태를 보인다. ∙운동기술의 습득 과정에서 몸통이나 어깨 근육을 조절하는 능력을 먼저 갖추고, 이후에 팔, 손목, 손, 그리고 손가락 근육을 조절하는 능력을 갖춘다.",
+    "choices": [
+      "머리-꼬리 원리(cephalocaudal principle)",
+      "중앙-말초 원리(proximodistal principle)",
+      "개체발생적 발달 원리(ontogenetic development principle)",
+      "양측-동측-교차 운동협응의 원리 (bilateral-unilateral(ipsilateral)-crosslateral principle)"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-07",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 7,
+    "question": "스포츠를 통한 인성 발달 전략에 대한 설명으로 옳지 않은 것은?",
+    "choices": [
+      "상황에 맞는 바람직한 행동을 설명한다.",
+      "도덕적으로 적절한 행동에 대하여 설명한다.",
+      "바람직한 행동을 강화하고, 적대적 공격행동은 처벌한다.",
+      "격한 상황에서 자신의 감정을 공격적으로 표출하도록 격려한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-08",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 8,
+    "question": "<보기>에서 설명하는 목표의 유형은? <보기> . ∙운동기술을 잘 수행하기 위해서 필요한 핵심 행동에 중점을 둔다. ∙자기효능감과 자신감을 높이고 인지 불안을 낮추는 데 도움이 된다. ∙자신의 운동수행에 대한 목표를 달성하는데 중점을 두는 목표로 달성의 기준점이 자신의 과거 기록이 된다.",
+    "choices": [
+      "과정목표와 결과목표",
+      "수행목표와 과정목표",
+      "수행목표와 객관적목표",
+      "객관적목표와 주관적목표"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-09",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 9,
+    "question": "스미스(R. Smith)와 스몰(F. Smol)이 개발한 유소년 지도자 훈련 프로그램인 CET(Coach Effectiveness Training)의 핵심 원칙이 아닌 것은?",
+    "choices": [
+      "자기관찰",
+      "운동도식",
+      "상호지원",
+      "발달모델"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-10",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 10,
+    "question": "균형유지와 사지협응 및 자세제어에 주된 역할을 하는 뇌 구조(영역)는?",
+    "choices": [
+      "소뇌(cerebellum)",
+      "중심고랑(central sulcus)",
+      "대뇌피질의 후두엽(occipital lobe of cerebrum)",
+      "대뇌피질의 측두엽(temporal lobe of cerebrum)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-11",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 11,
+    "question": "골프 퍼팅 과제를 100회 연습한 뒤, 24시간 후에 동일 과제에 대해 수행하는 검사는?",
+    "choices": [
+      "속도검사(speed test)",
+      "파지검사(retention test)",
+      "전이검사(transfer test)",
+      "지능검사(intelligence test)"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-12",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 12,
+    "question": "<보기>에서 설명하는 일반화된 운동프로그램(generalized motor program)의 불변 특성(invariant feature) 개념은? <보기> . A 움직임 시간(movement time)＝500ms 하위 움직임 1 하위 움직임 2 하위 움직임 3 하위 움직임 4 = 25% = 25% = 25% = 25% B 움직임 시간(movement time)＝900ms 하위 움직임 1 하위 움직임 2 하위 움직임 3 하위 움직임 4 = 25% = 25% = 25% = 25% ∙A 움직임 시간은 500ms, B 움직임 시간은 900ms로 서로 다르다 ∙4개의 하위 움직임 구간의 시간적 구조 비율은 변하지 않는다. ∙단, A와 B 움직임은 모두 동일인이 수행한 동작이며, 하위움직임 구성도 4개로 동일함",
+    "choices": [
+      "어트랙터(attractor)",
+      "동작유도성(affordance)",
+      "상대적 타이밍(relative timing)",
+      "절대적 타이밍(absolute timing) 2급 스포츠지"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-13",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 13,
+    "question": "<보기>에서 구스리(E. Guthrie)가 제시한 ‘운동기술 학습으로 인한 변화’에 관한 설명으로 옳은 것을 모두 고른 것은? <보기> . ㉠최대의 확실성(maximum certainty)으로 운동과제를 수행할 수 있다. ㉡최소의 인지적 노력(minimum cognitive effect)으로 운동과제를 수행할 수 있다. ㉢최소의 움직임 시간(minimum movement time)으로 운동과제를 수행할 수 있다. ㉣최소의 에너지 소비(minimum energy expenditure)로 운동과제를 수행할 수 있다.",
+    "choices": [
+      "㉠, ㉡, ㉢",
+      "㉠, ㉢, ㉣",
+      "㉡, ㉢, ㉣",
+      "㉠, ㉡, ㉢, ㉣"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-14",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 14,
+    "question": "<보기>에 제시된 공격성에 관한 설명과 이론(가설)이 바르게 연결된 것은? <보기> . ∙( ㉠ ) 환경에서 관찰과 강화로 공격행위를 학습한다. ∙( ㉡ ) 인간의 내부에는 공격성을 유발하는 에너지가 존재한다. ∙( ㉢ ) 좌절(예, 목표를 추구하는 행위가 방해받는 경험)이 공격 행동을 유발한다. ∙( ㉣ ) 좌절이 무조건 공격행동을 유발하지 않고, 공격행동이 적절하다는 외부적 단서가 있을 때 나타난다. ㉠ ㉡ ㉢ ㉣ 수정된",
+    "choices": [
+      "사회학습이론 본능이론 좌절-공격 가설 좌절-공격 가설 수정된",
+      "사회학습이론 본능이론 좌절-공격 가설 좌절-공격 가설 수정된",
+      "본능이론 사회학습이론 좌절-공격 가설 좌절-공격 가설 수정된",
+      "본능이론 사회학습이론 좌절-공격 가설 좌절-공격 가설"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-15",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 15,
+    "question": "<보기>에서 하터(S. Harter)의 유능성 동기이론 모형에 관한 설명으로 옳은 것을 고른 것은? <보기> . ㉠심리적 요인과 관련된 단일차원의 구성개념이다. ㉡실패 경험은 부정적 정서를 갖게 하여 유능성 동기를 낮추고, 결국에는 운동을 중도 포기하게 한다. ㉢성공 경험은 자기효능감과 긍정적 정서를 갖게 하여 유능성 동기를 높이고, 숙달(mastery)을 경험하게 한다. ㉣스포츠 상황에서 성공하기 위한 능력이 있다는 확신의 정도나 신념으로 특성 스포츠 자신감과 상태 스포츠 자신감으로 구분한다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉣",
+      "㉡, ㉢",
+      "㉡, ㉣"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-16",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 16,
+    "question": "<보기>에서 설명하는 용어는? <보기> . 번스타인(N. Bernstein)은 움직임의 효율적 제어를 위해 중추신경계가 자유도를 개별적으로 제어하지 않고, 의미 있는 단위로 묶어서 조절한다고 설명하였다.",
+    "choices": [
+      "공동작용(synergy)",
+      "상변이(phase transition)",
+      "임계요동(critical fluctuation)",
+      "속도-정확성 상쇄 현상(speed-accuracy trade-off)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-17",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 17,
+    "question": "<보기>에서 연구 결과를 통해 확인할 수 있는 목표설정에 관한 설명으로 옳은 것을 고른 것은? <보기> . ㉠목표설정이 운동의 수행과 학습에 효과적이다. ㉡학습자에게 어려운 목표를 설정하도록 조언해야 한다. ㉢구체적인 목표를 설정했던 집단에서 더 높은 학습 효과가 나타났다. ㉣구체적이고 도전적인 목표를 향해 전념하도록 격려하는 것은 운동의 수행과 학습의 효과를 감소시킨다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉡, ㉢",
+      "㉡, ㉣"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-18",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 18,
+    "question": "학습된 무기력(learned helplessness) 상태에 있는 학습자에게 귀인 재훈련 (attribution retraining)을 위한 적절한 전략은?",
+    "choices": [
+      "실패의 원인을 외적 요인에서 찾게 한다.",
+      "능력의 부족을 긍정적으로 받아들이게 한다.",
+      "운이 따라 준다면 다음에 성공할 수 있다고 지도한다.",
+      "실패의 원인을 노력 부족이나 전략의 미흡으로 받아들이게 한다. B형 2급 스포츠지"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-19",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 19,
+    "question": "<보기>는 칙센트미하이(M. Csikszentmihalyi)가 주장한 몰입의 개념이다. ㉠~㉣에 들어갈 개념이 바르게 연결된 것은? <보기> . ∙( ㉠ )과 ( ㉡ )이 균형을 이루는 상황에서 운동 수행에 완벽히 집중하는 것을 몰입(flow)이라 한다. ∙( ㉡ )이 높고, ( ㉠ )이 낮으면 ( ㉢ )을 느낀다. ∙( ㉡ )이 낮고, ( ㉠ )이 높으면 ( ㉣ )을 느낀다. ㉠ ㉡ ㉢ ㉣",
+    "choices": [
+      "기술 도전 불안 이완",
+      "도전 기술 각성 무관심",
+      "기술 도전 각성 불안",
+      "도전 기술 이완 지루함"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-psychology-b-20",
+    "subjectId": "sports-psychology",
+    "year": 2023,
+    "number": 20,
+    "question": "<보기>에서 설명하는 피드백 유형은? <보기> . 높이뛰기 도약 스텝 기술을 연습하게 한 후에 지도자는 학습자의 정확한 도약 기술 습득을 위해 각 발의 스텝번호(지점)을 바닥에 표시해주었다.",
+    "choices": [
+      "내적 피드백(intrinsic feedback)",
+      "부적 피드백(negative feedback)",
+      "보강 피드백(augmented feedback)",
+      "부적합 피드백(incongruent feedback)"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  }
+]

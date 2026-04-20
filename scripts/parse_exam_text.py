@@ -105,6 +105,16 @@ def parse_questions(section_text: str) -> list[ParsedQuestion]:
         body = text[begin:end].strip()
         parsed = parse_single_block(body)
         if parsed is None:
+            # 표/이미지 기반 문제 — ①②③④ 순서 깨짐. 본문 전체를 question으로 두고
+            # choices 비워두어 수동 보강용으로 남김.
+            results.append(
+                ParsedQuestion(
+                    number=num,
+                    question=normalize_ws(body),
+                    choices=["", "", "", ""],
+                    needsImages=True,
+                )
+            )
             continue
         # 보기가 전부 비었으면 그래프·그림 선택지 문제로 판정
         needs_images = all(len(c) == 0 for c in parsed["choices"])

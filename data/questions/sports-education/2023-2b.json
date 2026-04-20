@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2023-sports-education-b-01",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 1,
+    "question": "로젠샤인(B. Rosenshine)과 퍼스트(N. Furst)가 제시한 학습성취와 관련된 지도자 변인에 해당하지 않는 것은?",
+    "choices": [
+      "지도자의 경력",
+      "명확한 과제제시",
+      "지도자의 열의",
+      "프로그램의 다양화"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-02",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 2,
+    "question": "<보기>의 수업 장면에서 활용한 모스턴(M. Mosston)의 교수 스타일에 관한 설명으로 적절하지 않은 것은? <보기> . 신체활동 축구 인프런트킥으로 상대방 수비수를 넘겨 동료에게 패스할 학습목표 수 있다. 수업 장면 지도자:네 앞에 상대방 수비수가 있을 때, 수비수를 넘겨 동료에게 패스하려면 어떻게 공을 차야 할까? 학습자:상대방 수비수를 넘길 수 있을 정도의 높이로 공을 띄워야 해요. 지도자:그럼, 발의 어느 부분으로 공의 밑 부분을 차면 수비수를 넘길 수 있을까? 학습자:발등과 발 안쪽의 중간 지점이요. (손가락으로 엄지발가락을 가리킨다) 지도자:좋은 대답이야. 그럼, 우리 한 번 상대방 수비수를 넘기는 킥을 연습해볼까?",
+    "choices": [
+      "지도자는 논리적이며 계열적인 질문을 설계해야 한다.",
+      "지도자는 질문에 대한 학습자의 해답을 검토하고 확인한다.",
+      "지도자는 학습자에게 예정된 해답을 즉시 알려준다.",
+      "지도자는 학습자와 지속적으로 상호작용하며 의사결정을 한다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-03",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 3,
+    "question": "<보기>에서 설명하는 스포츠 교육 평가의 신뢰도 검사 방법은? <보기> . ∙동일한 검사에 대해 시간 차이를 두고 2회 측정해서 측정값을 비교해 차이가 작으면 신뢰도가 높고, 크면 신뢰도가 낮은 것으로 판단한다. ∙첫 번째와 두 번째 측정 사이의 시간 차이가 너무 길거나 짧으면 신뢰도가 낮게 나올 수 있다.",
+    "choices": [
+      "검사-재검사",
+      "동형 검사",
+      "반분 신뢰도 검사",
+      "내적 일관성 검사"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-04",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 4,
+    "question": "링크(J. Rink)가 제시한 교수 전략(teaching strategy) 중 한 명의 지도자가 수업에서 공간을 나누어 두 가지 이상의 과제를 동시에 진행하는 것은?",
+    "choices": [
+      "자기 교수(self teaching)",
+      "팀 티칭(team teaching)",
+      "상호 교수(interactive teaching)",
+      "스테이션 교수(station teaching) B형 2급 스포츠지"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-05",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 5,
+    "question": "<보기>는 국민체육진흥법(시행 2022.8.11.) 제18조의3 ‘스포츠윤리센터의 설립’에 관한 내용이다. ㉠, ㉡에 들어갈 용어가 바르게 연결된 것은? <보기> . ∙체육의 ( ㉠ ) 확보와 체육인의 ( ㉡ )를 위하여 스포츠윤리센터를 설립한다. ㉠ ㉡",
+    "choices": [
+      "정당성 권리 강화",
+      "정당성 인권 보호",
+      "공정성 권리 강화",
+      "공정성 인권 보호"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-06",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 6,
+    "question": "스포츠 교육 프로그램의 지도 원리에 관한 설명이 적절하지 않은 것은?",
+    "choices": [
+      "개별성의 원리:개인차를 고려한 다양한 수준별 지도",
+      "효율성의 원리:학습자 스스로 내용을 파악하고 문제해결",
+      "적합성의 원리:지도자의 창의적인 지도 활동의 선정과 활용",
+      "통합성의 원리:교수･학습 내용의 다양화와 신체활동의 총체적 체험"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-07",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 7,
+    "question": "직접교수모형에 관한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "학습 영역의 우선순위는 심동적 영역이다.",
+      "스키너(B. Skinner)의 조작적 조건화 이론에 근거한다.",
+      "지도자 중심으로 의사결정이 이루어져 학습자의 과제참여 비율이 감소한다.",
+      "수업의 단계는 전시과제 복습, 새 과제 제시, 초기과제 연습, 피드백과 교정, 독자적 연습, 본시 복습의 순으로 진행된다."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-08",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 8,
+    "question": "스포츠기본법(시행 2022.6.16.) 제7조 ‘스포츠 정책 수립･시행의 기본원칙’ 중 국가와 지방자치단체의 스포츠 정책에 관한 고려사항에 해당하지 않는 것은?",
+    "choices": [
+      "스포츠 활동을 존중하고 사회 전반에 확산되도록 할 것",
+      "스포츠 대회 참가 목적을 국위선양에 두어 지원할 것",
+      "스포츠 활동 참여와 스포츠 교육의 기회가 확대되도록 할 것",
+      "스포츠의 가치를 존중하고 스포츠의 역동성을 높일 수 있을 것"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-09",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 9,
+    "question": "모스턴(M. Mosston)의 포괄형(inclusion) 교수 스타일에 관한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "지도자는 발견 역치(discovery threshold)를 넘어 창조의 단계로 학습자를 유도한다.",
+      "지도자는 기술 수준이 다양한 학습자들의 개인차를 수용한다.",
+      "학습자가 성취 가능한 과제를 선택하고 자신의 수행을 점검한다.",
+      "과제 활동 전, 중, 후 의사결정의 주체는 각각 지도자, 학습자, 학습자 순서이다."
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-10",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 10,
+    "question": "<보기>에서 설명하는 링크(J. Rink)의 학습 과제 연습 방법은? <보기> . ∙복잡한 운동 기술의 경우, 기술의 주요 동작이나 마지막 동작을 초기 동작보다 먼저 연습하게 한다. ∙테니스 서브 과제에서 공을 토스하는 동작을 연습하기 전에 공을 라켓에 맞추는 동작을 먼저 연습한다.",
+    "choices": [
+      "규칙 변형",
+      "역순 연쇄",
+      "반응 확대",
+      "운동수행의 목적 전환"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-11",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 11,
+    "question": "<보기>에 해당하는 쿠닌(J. Kounin)의 교수 기능은? <보기> . ∙지도자가 자신의 머리 뒤에도 눈이 있다는 듯이 학습자들의 행동을 파악하는 것 ∙지도자가 학습자들 간에 발생하는 사건을 인지하는 것",
+    "choices": [
+      "접근통제(proximity control)",
+      "긴장 완화(tension release)",
+      "상황이해(with-it-ness)",
+      "타임아웃(time-out)"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-12",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 12,
+    "question": "<보기>에서 활용된 스포츠 지도 행동의 관찰기법은? <보기> . ∙지도자:강 감독 ∙수업내용:농구 수비전략 ∙관찰자:김 코치 ∙시간:19:00~19:50 피드백의 유형 표기(빈도) 비율 전체 ∨∨∨∨∨ (5회) 50% 대상 소집단 ∨∨∨ (3회) 30% 개인 ∨∨ (2회) 20% 긍정 ∨∨∨∨∨∨∨∨ (8회) 80% 성격 부정 ∨∨ (2회) 20% 일반적 ∨∨∨ (3회) 30% 구체성 구체적 ∨∨∨∨∨∨∨ (7회) 70%",
+    "choices": [
+      "사건 기록법(event recording)",
+      "평정 척도법(rating scale)",
+      "일화 기록법(anecdotal recording)",
+      "지속시간 기록법(duration recording)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-13",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 13,
+    "question": "배구 수업에서 운동기능이 낮은 학습자의 참여 증진을 위한 스포츠 지도 방법으로 적절하지 않은 것은?",
+    "choices": [
+      "네트 높이를 낮춘다.",
+      "소프트한 배구공을 사용한다.",
+      "서비스 라인을 네트와 가깝게 위치시킨다.",
+      "정식 게임(full-sided game)으로 운영한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-14",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 14,
+    "question": "메이거(R. Mager)가 제시한 학습 목표 설정의 요소가 아닌 것은?",
+    "choices": [
+      "설정된 운동수행 기준",
+      "운동수행에 필요한 상황과 조건",
+      "학습자에게 기대되는 성취행위",
+      "목표 달성이 불가능할 경우의 대처방안 2급 스포츠지"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-15",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 15,
+    "question": "<보기>에서 메츨러(M. Metzler)의 탐구수업모형에 관한 설명으로 옳은 것을 모두 고른 것은? <보기> . ㉠모형의 주제는 ‘문제해결자로서의 학습자’이다. ㉡학습 영역의 우선순위는 심동적, 인지적, 정의적 순이다. ㉢지도자는 학습자가 ‘생각하고 움직이기’를 할 수 있도록 과제를 제시한다. ㉣지도자의 질문에 학습자가 바로 대답하지 못하는 경우 즉시 답을 알려준다.",
+    "choices": [
+      "㉠, ㉢",
+      "㉡, ㉢",
+      "㉠, ㉡, ㉢",
+      "㉠, ㉡, ㉣"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-16",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 16,
+    "question": "스포츠 참여자 평가에서 심동적(psychomotor) 영역에 해당하는 것은?",
+    "choices": [
+      "몰입",
+      "심폐지구력",
+      "협동심",
+      "경기 규칙 이해"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-17",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 17,
+    "question": "<보기>에 해당하는 운동기능의 학습 전이(transfer) 유형은? <보기> . ∙야구에서 배운 오버핸드 공 던지기가 핸드볼에서 오버핸드 공 던지기 기능으로 전이되는 경우이다.",
+    "choices": [
+      "대칭적 전이",
+      "과제 내 전이",
+      "과제 간 전이",
+      "일상으로의 전이"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-18",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 18,
+    "question": "학교체육진흥법 시행령(시행 2021.4.21.) 제3조 ‘학교운동부지도자의 자격기준 등’에서 제시한 학교운동부지도자 재임용의 평가 내용이 아닌 것은?",
+    "choices": [
+      "복무 태도",
+      "학교운동부 운영 성과",
+      "인권교육 연 1회 이상 이수 여부",
+      "학생선수의 학습권 및 인권 침해 여부"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-19",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 19,
+    "question": "메츨러(M. Metzler)의 개별화지도모형의 주제로 적절한 것은?",
+    "choices": [
+      "지도자가 수업 리더 역할을 한다.",
+      "나는 너를, 너는 나를 가르친다.",
+      "유능하고, 박식하며, 열정적인 스포츠인으로 성장한다.",
+      "학습자가 가능한 한 빨리, 필요한 만큼 천천히 학습 속도를 조절한다."
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-sports-education-b-20",
+    "subjectId": "sports-education",
+    "year": 2023,
+    "number": 20,
+    "question": "스포츠 교육 프로그램의 구성요소에 관한 설명으로 적절하지 않은 것은?",
+    "choices": [
+      "평가:프로그램을 개선하는 데 도움을 준다.",
+      "내용:스포츠 지도의 철학, 이념 또는 비전이다.",
+      "지도법:프로그램을 체계적으로 전달하는 방법이다.",
+      "목적 및 목표:일반적인 목표와 구체적인 목표로 구분할 수 있다."
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  }
+]

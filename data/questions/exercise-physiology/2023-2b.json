@@ -1,0 +1,502 @@
+[
+  {
+    "id": "2023-exercise-physiology-b-01",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 1,
+    "question": "운동 후 초과산소섭취량(EPOC)에 영향을 미치는 요인으로 적절하지 않은 것은?",
+    "choices": [
+      "운동 중 증가한 체온",
+      "운동 중 증가한 젖산",
+      "운동 중 증가한 호르몬(에피네프린, 노르에피네프린)",
+      "운동 중 증가한 크레아틴인산(phosphocreatine, PC)"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-02",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 2,
+    "question": "근수축에 필수적인 Ca2+ 이온을 저장, 분비하는 근육 세포 내 소기관은?",
+    "choices": [
+      "근형질세망(sarcoplasmic reticulum)",
+      "위성세포(satellite cell)",
+      "미토콘드리아(mitochondria)",
+      "근핵(myonuclear)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-03",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 3,
+    "question": "ATP를 합성하는데 사용되는 에너지원이 아닌 것은?",
+    "choices": [
+      "근중성지방",
+      "비타민C",
+      "글루코스",
+      "젖산"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-04",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 4,
+    "question": "수중 운동 시 체온유지를 위한 요인으로 옳지 않은 것은?",
+    "choices": [
+      "폐활량",
+      "체지방량",
+      "운동 강도",
+      "물의 온도"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-05",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 5,
+    "question": "운동강도 증가에 따라 동원되는 근섬유 순서로 옳은 것은?",
+    "choices": [
+      "TypeⅡa섬유→TypeⅡx섬유→TypeⅠ섬유",
+      "TypeⅡx섬유→TypeⅡa섬유→TypeⅠ섬유",
+      "TypeⅠ섬유→TypeⅡa섬유→TypeⅡx섬유",
+      "TypeⅠ섬유→TypeⅡx섬유→TypeⅡa섬유"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-06",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 6,
+    "question": "장기간 규칙적 유산소 훈련의 결과로 최대 운동 시 나타나는 심폐기능의 적응으로 옳은 것을 모두 고른 것은? <보기> . ㉠ 최대산소섭취량 증가 ㉡ 심장용적과 심근수축력 증가 ㉢ 심박출량 증가",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉡, ㉢",
+      "㉠, ㉡, ㉢"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-07",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 7,
+    "question": "항상성 유지를 위한 신체 조절 중 부적피드백(negative feedback)이 아닌 것은?",
+    "choices": [
+      "세포외액의 CO 조절",
+      "체온 상승에 따른 땀 분비 증가",
+      "혈당 유지를 위한 호르몬 조절",
+      "출산 시 자궁 수축 활성화 증가"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-08",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 8,
+    "question": "운동 중 1회 박출량(stroke volume) 증가 원인으로 옳지 않은 것은?",
+    "choices": [
+      "대동맥압 증가에 따른 후부하(after load) 증가",
+      "호흡펌프작용에 의한 정맥회귀(venous return) 증가",
+      "골격근 수축에 의한 근육펌프작용 증가",
+      "교감신경 자극에 의한 심근 수축력 증가"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-09",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 9,
+    "question": "<보기>의 ㉠, ㉡에 들어갈 내용이 바르게 연결된 것은? <보기> . ㉠ ㉡",
+    "choices": [
+      "혈중 포도당 근중성지방",
+      "혈중 유리지방산 근글리코겐",
+      "근글리코겐 혈중 포도당",
+      "근중성지방 혈중유리지방산"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-10",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 10,
+    "question": "운동 중 소뇌의 기능에 대한 설명으로 옳은 것을 모두 고른 것은? <보기> . ㉠골격근 운동 조절의 최종 단계 역할 ㉡빠른 동작의 정확한 수행을 위한 통합 조절 ㉢고유수용기로부터 유입되는 정보를 활용하여 동작 수정",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉡, ㉢",
+      "㉠, ㉡, ㉢ 면 B형 2급 스포츠지"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-11",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 11,
+    "question": "운동에 따른 환기량의 변화로 옳은 것을 모두 고른 것은? <보기> . ㉠운동 시작 직전에는 운동 수행에 대한 기대감으로 환기량이 증가할 수 있다. ㉡운동 초기 환기량 변화의 주된 요인은 경동맥에 위치한 화학수용기 반응이다. ㉢운동 강도가 증가하면 1회 호흡량은 감소하고 호흡수는 현저히 증가한다. ㉣회복기 환기량은 운동 중 생성된 체내 수소이온 및 이산화탄소 농도와 관련 있다.",
+    "choices": [
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉠, ㉣",
+      "㉡, ㉢, ㉣"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-12",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 12,
+    "question": "<보기>의 ㉠, ㉡에 들어갈 내용이 바르게 연결된 것은? <보기> . 1개의 포도당 분해에 따른 유산소성 ATP 생성 대사적 과정 고에너지 생산 ATP 누계 2 ATP 2 해당작용 2 NADH 7 피루브산에서 2 NADH 12 아세틸조효소A 까지 2 ATP 14 ㉠ 6 NADH 29 2 FADH ㉡ 합계 ㉡ ATP ㉠ ㉡",
+    "choices": [
+      "크랩스회로 32",
+      "β 산화 32",
+      "크랩스회로 35",
+      "β 산화 35"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-13",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 13,
+    "question": "체중이 80kg인 사람이 10METs로 10분간 달리기 했을 때 소비 칼로리는? (단, 1MET＝3.5㎖･kg-1･min-1, O 1L 당 5Kcal 생성)",
+    "choices": [
+      "130Kcal",
+      "140Kcal",
+      "150Kcal",
+      "160Kcal"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-14",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 14,
+    "question": "<보기>는 신경 세포의 안정 시 막전위에 영향을 주는 Na+과 K+에 대한 그림이다. ㉠~㉣에 들어갈 내용이 바르게 연결된 것은? <보기> . ㉠ ㉡ ㉢ ㉣",
+    "choices": [
+      "K+ Na+ Na+ K+",
+      "Na+ K+ Na+ K+",
+      "K+ Na+ K+ Na+",
+      "Na+ K+ K+ Na+"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-15",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 15,
+    "question": "<보기>의 최대산소섭취량 공식에서 장기간 지구성 훈련에 의해 증가되는 요소를 모두 고른 것은? <보기> . 최대산소섭취량 = ㉠최대1회박출량×㉡최대심박수×㉢최대동정맥산소차",
+    "choices": [
+      "㉠",
+      "㉠, ㉡",
+      "㉠, ㉢",
+      "㉡, ㉢"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-16",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 16,
+    "question": "<보기>의 내용이 모두 증가되었을 때 향상되는 건강체력 요소는? <보기> . ∙모세혈관의 밀도 ∙미토콘드리아의 수와 크기 ∙동정맥 산소차(arterial-venous oxygen difference)",
+    "choices": [
+      "유연성",
+      "순발력",
+      "심폐지구력",
+      "근력"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-17",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 17,
+    "question": "1시간 이내의 중강도 운동 시 시간 경과에 따라 혈중 농도가 점차 감소하는 호르몬은?",
+    "choices": [
+      "에피네프린(epinephrine)",
+      "인슐린(insulin)",
+      "성장호르몬(growth hormone)",
+      "코르티솔(cortisol) 면 2급 스포츠지"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-18",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 18,
+    "question": "상완이두근의 움직임에 대한 근육 수축 형태로 옳지 않은 것은?",
+    "choices": [
+      "자세를 유지할 때-등척성 수축",
+      "턱걸이 올라갈 때-단축성 수축",
+      "턱걸이 내려갈 때-신장성 수축",
+      "공을 던질 때-등속성 수축"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-19",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 19,
+    "question": "근력 결정요인으로 옳지 않은 것은?",
+    "choices": [
+      "근육 횡단면적",
+      "근절의 적정 길이",
+      "근섬유 구성비",
+      "근섬유막 두께"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  },
+  {
+    "id": "2023-exercise-physiology-b-20",
+    "subjectId": "exercise-physiology",
+    "year": 2023,
+    "number": 20,
+    "question": "<보기>에서 설명하는 고유수용기는? <보기> . ∙감각 및 운동신경의 말단이 연결되어 있다. ∙감마운동뉴런을 통해 조절된다. ∙근육의 길이 정보를 중추신경계로 보낸다.",
+    "choices": [
+      "근방추(muscle spindle)",
+      "골지건기관(Golgi tendon organ)",
+      "자유신경종말(free nerve ending)",
+      "파치니안 소체(Pacinian corpuscle)"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "conceptIds": [],
+    "source": "past-exam",
+    "tags": [
+      "2023-2b"
+    ],
+    "sourceRef": "2023-2b",
+    "verified": false,
+    "needsImages": false,
+    "createdAt": "2026-04-20T11:43:59Z",
+    "updatedAt": "2026-04-20T11:43:59Z"
+  }
+]
