@@ -47,6 +47,9 @@ public/worker-*.js.map
 # 테스트 결과
 coverage/
 
+# Playwright MCP snapshots (런타임 검증용)
+.playwright-mcp/
+
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts
